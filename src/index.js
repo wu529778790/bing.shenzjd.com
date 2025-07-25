@@ -70,9 +70,11 @@ class BingWallpaperFetcher {
     return images.map((image) => {
       // 直接使用API返回的startdate，确保日期准确性
       const date = moment(image.startdate, "YYYYMMDD");
+      // 将日期加一天，因为必应返回的日期是昨天的
+      const adjustedDate = date.add(1, "day");
 
       return {
-        date: date.format("YYYY-MM-DD"), // 使用API返回的真实日期
+        date: adjustedDate.format("YYYY-MM-DD"), // 使用调整后的日期
         title: image.title,
         copyright: image.copyright,
         description: image.copyrightlink
@@ -81,9 +83,9 @@ class BingWallpaperFetcher {
         imageUrl: image.displayUrl, // 用于 README 显示的普通分辨率图片
         hd4kUrl: image.downloadUrl4k, // 4K 高清版本
         downloadUrl4k: image.downloadUrl4k, // 4K 下载链接
-        year: date.format("YYYY"),
-        month: date.format("MM"),
-        monthName: date.format("YYYY-MM"),
+        year: adjustedDate.format("YYYY"),
+        month: adjustedDate.format("MM"),
+        monthName: adjustedDate.format("YYYY-MM"),
       };
     });
   }
@@ -146,8 +148,8 @@ class BingWallpaperFetcher {
    * 更新 README
    */
   async updateReadme(latestWallpaper, recentWallpapers) {
-    // 使用当前日期作为更新时间，因为每天都会获取到新的壁纸
-    const currentDate = moment().format("YYYY-MM-DD");
+    // 使用当前日期加一天作为更新时间，因为必应返回的日期是昨天的
+    const currentDate = moment().add(1, "day").format("YYYY-MM-DD");
 
     let content = `# Bing Wallpaper\n\n`;
     content += `📅 最后更新: ${currentDate}\n\n`;
