@@ -2,8 +2,8 @@ name: 更新必应壁纸
 
 on:
   schedule:
-    # 每天 UTC 时间 1:00 运行（北京时间 9:00）
-    - cron: "0 1 * * *"
+    # 每天 UTC 时间 17:00 运行（北京时间 1:00）
+    - cron: "0 17 * * *"
   workflow_dispatch: # 支持手动触发
   push:
     branches: [main]
