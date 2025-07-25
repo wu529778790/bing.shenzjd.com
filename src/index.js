@@ -19,16 +19,19 @@ class BingWallpaperFetcher {
 
       // 获取最近8张壁纸
       for (let i = 0; i < 8; i++) {
+        // 计算目标日期（今天减去 i 天）
+        const targetDate = moment().subtract(i, "days").format("YYYY-MM-DD");
+
         // 获取显示用的普通分辨率版本
         const displayWallpaper = await getBingWallpaper({
-          index: i,
+          date: targetDate,
           resolution: "1920x1080",
           market: "zh-CN",
         });
 
         // 获取下载用的4K版本
         const downloadWallpaper = await getBingWallpaper({
-          index: i,
+          date: targetDate,
           resolution: "UHD",
           market: "zh-CN",
         });
@@ -154,11 +157,11 @@ class BingWallpaperFetcher {
    * 更新 README
    */
   async updateReadme(latestWallpaper, recentWallpapers) {
-    // 使用最新壁纸的实际日期作为更新时间，而不是当前系统日期
-    const latestWallpaperDate = latestWallpaper.date;
+    // 使用当前日期作为更新时间，因为每天都会获取到新的壁纸
+    const currentDate = moment().format("YYYY-MM-DD");
 
     let content = `# Bing Wallpaper\n\n`;
-    content += `📅 最后更新: ${latestWallpaperDate}\n\n`;
+    content += `📅 最后更新: ${currentDate}\n\n`;
     content += `## 今日壁纸\n\n`;
     content += `**${latestWallpaper.title}**\n\n`;
     content += `![${latestWallpaper.title}](${latestWallpaper.imageUrl})\n\n`;
