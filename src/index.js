@@ -21,7 +21,7 @@ class BingWallpaperFetcher {
       for (let i = 0; i < 8; i++) {
         const wallpaper = await getBingWallpaper({
           index: i,
-          resolution: "UHD", // 获取超高清版本
+          resolution: "1920x1080", // 使用普通分辨率用于显示
           market: "zh-CN",
         });
         wallpapers.push(wallpaper);
@@ -40,12 +40,10 @@ class BingWallpaperFetcher {
   processWallpaperData(images) {
     return images.map((image) => {
       const date = moment(image.startdate, "YYYYMMDD");
-      // image.url 已经是完整的 URL
-      const fullImageUrl = image.url;
-      // 尝试获取4K版本，如果原本就是UHD则保持不变
-      const hd4kUrl = fullImageUrl.includes("UHD")
-        ? fullImageUrl
-        : fullImageUrl.replace("1920x1080", "3840x2160");
+      // image.url 是普通分辨率的 URL，用于 README 显示
+      const displayImageUrl = image.url;
+      // 生成 4K 版本的 URL 用于下载
+      const hd4kUrl = image.url.replace("1920x1080", "3840x2160");
 
       return {
         date: date.format("YYYY-MM-DD"),
@@ -54,9 +52,9 @@ class BingWallpaperFetcher {
         description: image.copyrightlink
           ? `[${image.copyright}](${image.copyrightlink})`
           : image.copyright,
-        imageUrl: fullImageUrl,
-        hd4kUrl: hd4kUrl,
-        downloadUrl4k: hd4kUrl,
+        imageUrl: displayImageUrl, // 用于 README 显示的普通分辨率图片
+        hd4kUrl: hd4kUrl, // 4K 高清版本
+        downloadUrl4k: hd4kUrl, // 4K 下载链接
         year: date.format("YYYY"),
         month: date.format("MM"),
         monthName: date.format("YYYY-MM"),
