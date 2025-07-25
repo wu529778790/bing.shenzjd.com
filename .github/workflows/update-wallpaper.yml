@@ -49,7 +49,7 @@ jobs:
       - name: 提交更新
         if: steps.check_changes.outputs.has_changes == 'true'
         run: |
-          git commit -m "🖼️ 自动更新必应壁纸 $(date '+%Y-%m-%d')"
+          git commit -m "🖼️ 自动更新必应壁纸 $(date -d '+1 day' '+%Y-%m-%d')"
           git push
 
       - name: 更新状态
