@@ -4,7 +4,7 @@
 
 ## 今日壁纸
 
-**生活的画卷**
+**生活的画卷** (2025-07-24)
 
 ![生活的画卷](https://www.bing.com/th?id=OHR.LasPalmas_ZH-CN5993442425_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 

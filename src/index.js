@@ -68,6 +68,7 @@ class BingWallpaperFetcher {
    */
   processWallpaperData(images) {
     return images.map((image) => {
+      // 直接使用API返回的startdate，确保日期准确性
       const date = moment(image.startdate, "YYYYMMDD");
 
       // 修复重复的URL前缀问题
@@ -83,7 +84,7 @@ class BingWallpaperFetcher {
       }
 
       return {
-        date: date.format("YYYY-MM-DD"),
+        date: date.format("YYYY-MM-DD"), // 使用API返回的真实日期
         title: image.title,
         copyright: image.copyright,
         description: cleanCopyrightLink
@@ -163,7 +164,7 @@ class BingWallpaperFetcher {
     let content = `# Bing Wallpaper\n\n`;
     content += `📅 最后更新: ${currentDate}\n\n`;
     content += `## 今日壁纸\n\n`;
-    content += `**${latestWallpaper.title}**\n\n`;
+    content += `**${latestWallpaper.title}** (${latestWallpaper.date})\n\n`;
     content += `![${latestWallpaper.title}](${latestWallpaper.imageUrl})\n\n`;
     content += `${latestWallpaper.description}\n\n`;
     content += `🔗 <a href="${latestWallpaper.downloadUrl4k}" target="_blank">下载 4K 高清版本</a>\n\n`;
