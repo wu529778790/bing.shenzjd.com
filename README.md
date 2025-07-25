@@ -17,12 +17,6 @@
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
 <div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.LasPalmas_ZH-CN5993442425_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="生活的画卷" style="width: 100%; border-radius: 8px;">
-<p><strong>2025-07-24</strong> <a href="https://www.bing.com/th?id=OHR.LasPalmas_ZH-CN5993442425_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" download="bing-wallpaper-2025-07-24-4k.jpg" target="_blank">下载 4K</a></p>
-<p>生活的画卷</p>
-</div>
-
-<div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.AshyWoodswallow_ZH-CN3224168805_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="物以类聚，鸟以群分" style="width: 100%; border-radius: 8px;">
 <p><strong>2025-07-23</strong> <a href="https://www.bing.com/th?id=OHR.AshyWoodswallow_ZH-CN3224168805_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" download="bing-wallpaper-2025-07-23-4k.jpg" target="_blank">下载 4K</a></p>
 <p>物以类聚，鸟以群分</p>
@@ -50,6 +44,12 @@
 <img src="https://www.bing.com/th?id=OHR.BigMoon_ZH-CN2508603883_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="在月光下起舞" style="width: 100%; border-radius: 8px;">
 <p><strong>2025-07-19</strong> <a href="https://www.bing.com/th?id=OHR.BigMoon_ZH-CN2508603883_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" download="bing-wallpaper-2025-07-19-4k.jpg" target="_blank">下载 4K</a></p>
 <p>在月光下起舞</p>
+</div>
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.YohoNP_ZH-CN2349599497_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="化石、瀑布与林间小径" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-07-18</strong> <a href="https://www.bing.com/th?id=OHR.YohoNP_ZH-CN2349599497_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" download="bing-wallpaper-2025-07-18-4k.jpg" target="_blank">下载 4K</a></p>
+<p>化石、瀑布与林间小径</p>
 </div>
 
 </div>

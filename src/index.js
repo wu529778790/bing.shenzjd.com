@@ -167,7 +167,8 @@ class BingWallpaperFetcher {
     content += `## 最近壁纸\n\n`;
     content += `<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">\n\n`;
 
-    recentWallpapers.slice(0, 6).forEach((wallpaper) => {
+    // 跳过第一张（今日壁纸），显示第2-7张
+    recentWallpapers.slice(1, 7).forEach((wallpaper) => {
       content += `<div style="text-align: center;">\n`;
       content += `<img src="${wallpaper.imageUrl}" alt="${wallpaper.title}" style="width: 100%; border-radius: 8px;">\n`;
       content += `<p><strong>${wallpaper.date}</strong> <a href="${wallpaper.downloadUrl4k}" download="bing-wallpaper-${wallpaper.date}-4k.jpg" target="_blank">下载 4K</a></p>\n`;
