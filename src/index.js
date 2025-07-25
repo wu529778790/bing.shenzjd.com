@@ -67,12 +67,24 @@ class BingWallpaperFetcher {
     return images.map((image) => {
       const date = moment(image.startdate, "YYYYMMDD");
 
+      // 修复重复的URL前缀问题
+      let cleanCopyrightLink = image.copyrightlink;
+      if (
+        cleanCopyrightLink &&
+        cleanCopyrightLink.includes("https://www.bing.comhttps://")
+      ) {
+        cleanCopyrightLink = cleanCopyrightLink.replace(
+          "https://www.bing.comhttps://",
+          "https://"
+        );
+      }
+
       return {
         date: date.format("YYYY-MM-DD"),
         title: image.title,
         copyright: image.copyright,
-        description: image.copyrightlink
-          ? `[${image.copyright}](${image.copyrightlink})`
+        description: cleanCopyrightLink
+          ? `[${image.copyright}](${cleanCopyrightLink})`
           : image.copyright,
         imageUrl: image.displayUrl, // 用于 README 显示的普通分辨率图片
         hd4kUrl: image.downloadUrl4k, // 4K 高清版本
@@ -130,7 +142,7 @@ class BingWallpaperFetcher {
       content += `**${wallpaper.title}**\n\n`;
       content += `![${wallpaper.title}](${wallpaper.imageUrl})\n\n`;
       content += `${wallpaper.description}\n\n`;
-      content += `🔗 <a href="${wallpaper.downloadUrl4k}" download="bing-wallpaper-${wallpaper.date}-4k.jpg">下载 4K 高清版本</a>\n\n`;
+      content += `🔗 <a href="${wallpaper.downloadUrl4k}" target="_blank">下载 4K 高清版本</a>\n\n`;
       content += `---\n\n`;
     });
 
@@ -150,7 +162,7 @@ class BingWallpaperFetcher {
     content += `**${latestWallpaper.title}**\n\n`;
     content += `![${latestWallpaper.title}](${latestWallpaper.imageUrl})\n\n`;
     content += `${latestWallpaper.description}\n\n`;
-    content += `🔗 <a href="${latestWallpaper.downloadUrl4k}" download="bing-wallpaper-${latestWallpaper.date}-4k.jpg">下载 4K 高清版本</a>\n\n`;
+    content += `🔗 <a href="${latestWallpaper.downloadUrl4k}" target="_blank">下载 4K 高清版本</a>\n\n`;
 
     content += `## 最近壁纸\n\n`;
     content += `<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">\n\n`;
@@ -158,7 +170,7 @@ class BingWallpaperFetcher {
     recentWallpapers.slice(0, 6).forEach((wallpaper) => {
       content += `<div style="text-align: center;">\n`;
       content += `<img src="${wallpaper.imageUrl}" alt="${wallpaper.title}" style="width: 100%; border-radius: 8px;">\n`;
-      content += `<p><strong>${wallpaper.date}</strong> <a href="${wallpaper.downloadUrl4k}" download="bing-wallpaper-${wallpaper.date}-4k.jpg">下载 4K</a></p>\n`;
+      content += `<p><strong>${wallpaper.date}</strong> <a href="${wallpaper.downloadUrl4k}" target="_blank">下载 4K</a></p>\n`;
       content += `<p>${wallpaper.title}</p>\n`;
       content += `</div>\n\n`;
     });
