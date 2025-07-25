@@ -71,24 +71,12 @@ class BingWallpaperFetcher {
       // 直接使用API返回的startdate，确保日期准确性
       const date = moment(image.startdate, "YYYYMMDD");
 
-      // 修复重复的URL前缀问题
-      let cleanCopyrightLink = image.copyrightlink;
-      if (
-        cleanCopyrightLink &&
-        cleanCopyrightLink.includes("https://www.bing.comhttps://")
-      ) {
-        cleanCopyrightLink = cleanCopyrightLink.replace(
-          "https://www.bing.comhttps://",
-          "https://"
-        );
-      }
-
       return {
         date: date.format("YYYY-MM-DD"), // 使用API返回的真实日期
         title: image.title,
         copyright: image.copyright,
-        description: cleanCopyrightLink
-          ? `[${image.copyright}](${cleanCopyrightLink})`
+        description: image.copyrightlink
+          ? `[${image.copyright}](${image.copyrightlink})`
           : image.copyright,
         imageUrl: image.displayUrl, // 用于 README 显示的普通分辨率图片
         hd4kUrl: image.downloadUrl4k, // 4K 高清版本
