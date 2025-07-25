@@ -1,0 +1,17 @@
+{
+  "name": "bing-wallpaper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "update": "node src/update.js"
+  },
+  "dependencies": {
+    "bing-wallpaper-api": "^1.0.13",
+    "fs-extra": "^11.1.1",
+    "moment": "^2.29.4"
+  },
+  "author": "wu529778790",
+  "license": "ISC",
+  "description": "自动获取并归档必应每日壁纸"
+}

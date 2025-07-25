@@ -1,0 +1,58 @@
+name: 更新必应壁纸
+
+on:
+  schedule:
+    # 每天 UTC 时间 1:00 运行（北京时间 9:00）
+    - cron: "0 1 * * *"
+  workflow_dispatch: # 支持手动触发
+  push:
+    branches: [main]
+
+jobs:
+  update-wallpaper:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+          cache: "npm"
+
+      - name: 安装依赖
+        run: npm install
+
+      - name: 获取必应壁纸
+        run: npm run start
+
+      - name: 检查是否有更新
+        id: check_changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+
+          if git diff --staged --quiet; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "没有检测到更新"
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "检测到壁纸更新"
+          fi
+
+      - name: 提交更新
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git commit -m "🖼️ 自动更新必应壁纸 $(date '+%Y-%m-%d')"
+          git push
+
+      - name: 更新状态
+        run: |
+          echo "✅ 壁纸更新任务完成"
+          echo "📅 执行时间: $(date)"
