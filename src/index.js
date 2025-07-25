@@ -19,12 +19,38 @@ class BingWallpaperFetcher {
 
       // 获取最近8张壁纸
       for (let i = 0; i < 8; i++) {
-        const wallpaper = await getBingWallpaper({
+        // 获取显示用的普通分辨率版本
+        const displayWallpaper = await getBingWallpaper({
           index: i,
-          resolution: "1920x1080", // 使用普通分辨率用于显示
+          resolution: "1920x1080",
           market: "zh-CN",
         });
-        wallpapers.push(wallpaper);
+
+        // 获取下载用的4K版本
+        const downloadWallpaper = await getBingWallpaper({
+          index: i,
+          resolution: "UHD",
+          market: "zh-CN",
+        });
+
+        // 合并数据
+        const wallpaperData = {
+          ...displayWallpaper,
+          displayUrl: displayWallpaper.url,
+          downloadUrl4k: downloadWallpaper.url,
+        };
+
+        // 添加调试信息
+        if (i === 0) {
+          console.log("=== 调试信息：第一张壁纸数据 ===");
+          console.log("标题:", wallpaperData.title);
+          console.log("开始日期:", wallpaperData.startdate);
+          console.log("显示URL:", wallpaperData.displayUrl);
+          console.log("下载URL:", wallpaperData.downloadUrl4k);
+          console.log("===============================");
+        }
+
+        wallpapers.push(wallpaperData);
       }
 
       return wallpapers;
@@ -40,10 +66,6 @@ class BingWallpaperFetcher {
   processWallpaperData(images) {
     return images.map((image) => {
       const date = moment(image.startdate, "YYYYMMDD");
-      // image.url 是普通分辨率的 URL，用于 README 显示
-      const displayImageUrl = image.url;
-      // 生成 4K 版本的 URL 用于下载
-      const hd4kUrl = image.url.replace("1920x1080", "3840x2160");
 
       return {
         date: date.format("YYYY-MM-DD"),
@@ -52,9 +74,9 @@ class BingWallpaperFetcher {
         description: image.copyrightlink
           ? `[${image.copyright}](${image.copyrightlink})`
           : image.copyright,
-        imageUrl: displayImageUrl, // 用于 README 显示的普通分辨率图片
-        hd4kUrl: hd4kUrl, // 4K 高清版本
-        downloadUrl4k: hd4kUrl, // 4K 下载链接
+        imageUrl: image.displayUrl, // 用于 README 显示的普通分辨率图片
+        hd4kUrl: image.downloadUrl4k, // 4K 高清版本
+        downloadUrl4k: image.downloadUrl4k, // 4K 下载链接
         year: date.format("YYYY"),
         month: date.format("MM"),
         monthName: date.format("YYYY-MM"),
