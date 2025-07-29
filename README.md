@@ -1,20 +1,26 @@
 # Bing Wallpaper
 
-📅 最后更新: 2025-07-29
+📅 最后更新: 2025-07-30
 
 ## 今日壁纸
 
-**丛林女王** (2025-07-29)
+**理想的世界！** (2025-07-30)
 
-![丛林女王](https://www.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![理想的世界！](https://www.bing.com/th?id=OHR.RibadesellaSummer_ZH-CN4852547359_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[雌性孟加拉虎，坎哈国家公园，印度 (© Axel Gomille/Nature Picture Library)](https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E8%80%81%E8%99%8E%E6%97%A5&form=hpcapt&mkt=zh-cn)
+[里瓦德塞利亚，阿斯图里亚斯，西班牙 (© Agnieszka Glowala/Getty Images)](https://www.bing.com/search?q=%E9%87%8C%E7%93%A6%E5%BE%B7%E5%A1%9E%E5%88%A9%E4%BA%9A&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.RibadesellaSummer_ZH-CN4852547359_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
 ## 最近壁纸
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="丛林女王" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-07-29</strong> <a href="https://www.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>丛林女王</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.MongoliaYurts_ZH-CN4015475887_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="领先一步" style="width: 100%; border-radius: 8px;">
@@ -44,12 +50,6 @@
 <img src="https://www.bing.com/th?id=OHR.AshyWoodswallow_ZH-CN3224168805_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="物以类聚，鸟以群分" style="width: 100%; border-radius: 8px;">
 <p><strong>2025-07-24</strong> <a href="https://www.bing.com/th?id=OHR.AshyWoodswallow_ZH-CN3224168805_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
 <p>物以类聚，鸟以群分</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.VaticanCity_ZH-CN3075109504_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="城中之国" style="width: 100%; border-radius: 8px;">
-<p><strong>2025-07-23</strong> <a href="https://www.bing.com/th?id=OHR.VaticanCity_ZH-CN3075109504_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>城中之国</p>
 </div>
 
 </div>
