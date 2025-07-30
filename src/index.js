@@ -148,11 +148,7 @@ class BingWallpaperFetcher {
    * 更新 README
    */
   async updateReadme(latestWallpaper, recentWallpapers) {
-    // 使用当前日期加一天作为更新时间，因为必应返回的日期是昨天的
-    const currentDate = moment().add(1, "day").format("YYYY-MM-DD");
-
     let content = `# Bing Wallpaper\n\n`;
-    content += `📅 最后更新: ${currentDate}\n\n`;
     content += `## 今日壁纸\n\n`;
     content += `**${latestWallpaper.title}** (${latestWallpaper.date})\n\n`;
     content += `![${latestWallpaper.title}](${latestWallpaper.imageUrl})\n\n`;
