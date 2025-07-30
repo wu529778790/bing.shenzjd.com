@@ -167,7 +167,7 @@ class BingWallpaperFetcher {
       .filter((wallpaper) => wallpaper.date !== latestWallpaper.date)
       .forEach((wallpaper) => {
         content += `<div style="text-align: center;">\n`;
-        content += `<img src="${wallpaper.imageUrl}" alt="${wallpaper.title}" style="width: 300px; max-width: 100%; border-radius: 8px;">\n`;
+        content += `<img src="${wallpaper.imageUrl}" alt="${wallpaper.title}" style="width: 100%; border-radius: 8px;">\n`;
         content += `<p><strong>${wallpaper.date}</strong> <a href="${wallpaper.downloadUrl4k}" target="_blank">下载 4K</a></p>\n`;
         content += `<p>${wallpaper.title}</p>\n`;
         content += `</div>\n\n`;
