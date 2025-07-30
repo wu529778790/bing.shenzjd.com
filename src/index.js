@@ -180,7 +180,6 @@ class BingWallpaperFetcher {
     // 获取所有归档月份
     const archiveMonths = await this.getArchiveMonths();
     if (archiveMonths.length > 0) {
-      content += `历史归档:\n\n`;
       content += archiveMonths
         .map((month) => `[${month}](./archives/${month}.md)`)
         .join(" | ");
