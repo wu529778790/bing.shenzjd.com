@@ -159,16 +159,23 @@ class BingWallpaperFetcher {
     content += `${latestWallpaper.description}\n\n`;
     content += `🔗 <a href="${latestWallpaper.downloadUrl4k}" target="_blank">下载 4K 高清版本</a>\n\n`;
 
-    content += `## 最近壁纸\n\n`;
+    // 获取当月所有壁纸数据用于显示
+    const currentMonth = moment().format("YYYY-MM");
+    const monthlyWallpapers = await this.getMonthlyWallpapers(currentMonth);
+
+    content += `## ${currentMonth} 月壁纸 (${monthlyWallpapers.length} 张)\n\n`;
     content += `<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">\n\n`;
 
-    recentWallpapers.slice(1, 7).forEach((wallpaper) => {
-      content += `<div style="text-align: center;">\n`;
-      content += `<img src="${wallpaper.imageUrl}" alt="${wallpaper.title}" style="width: 100%; border-radius: 8px;">\n`;
-      content += `<p><strong>${wallpaper.date}</strong> <a href="${wallpaper.downloadUrl4k}" target="_blank">下载 4K</a></p>\n`;
-      content += `<p>${wallpaper.title}</p>\n`;
-      content += `</div>\n\n`;
-    });
+    // 显示当月所有壁纸（除了今日壁纸）
+    monthlyWallpapers
+      .filter((wallpaper) => wallpaper.date !== latestWallpaper.date)
+      .forEach((wallpaper) => {
+        content += `<div style="text-align: center;">\n`;
+        content += `<img src="${wallpaper.imageUrl}" alt="${wallpaper.title}" style="width: 100%; border-radius: 8px;">\n`;
+        content += `<p><strong>${wallpaper.date}</strong> <a href="${wallpaper.downloadUrl4k}" target="_blank">下载 4K</a></p>\n`;
+        content += `<p>${wallpaper.title}</p>\n`;
+        content += `</div>\n\n`;
+      });
 
     content += `</div>\n\n`;
 
@@ -181,6 +188,61 @@ class BingWallpaperFetcher {
 
     await fs.writeFile(this.readmeFile, content, "utf8");
     console.log("README 已更新");
+  }
+
+  /**
+   * 获取指定月份的所有壁纸数据
+   */
+  async getMonthlyWallpapers(monthKey) {
+    const monthFile = path.join(this.archiveDir, `${monthKey}.md`);
+    const wallpapers = [];
+
+    try {
+      // 检查月度归档文件是否存在
+      if (await fs.pathExists(monthFile)) {
+        const content = await fs.readFile(monthFile, "utf8");
+
+        // 解析 markdown 文件提取壁纸信息
+        const sections = content.split("## ").slice(1); // 移除第一个空部分
+
+        for (const section of sections) {
+          const lines = section.trim().split("\n");
+          if (lines.length >= 8) {
+            const date = lines[0].trim();
+            const titleMatch = lines[2].match(/\*\*(.*?)\*\*/);
+            const imageMatch = lines[4].match(/!\[.*?\]\((.*?)\)/);
+
+            // 查找下载链接，它在第8行或更后面
+            let downloadMatch = null;
+            for (let i = 6; i < lines.length; i++) {
+              const match = lines[i].match(/<a href="(.*?)"/);
+              if (match) {
+                downloadMatch = match;
+                break;
+              }
+            }
+
+            if (titleMatch && imageMatch && downloadMatch) {
+              wallpapers.push({
+                date,
+                title: titleMatch[1],
+                imageUrl: imageMatch[1],
+                downloadUrl4k: downloadMatch[1],
+              });
+            }
+          }
+        }
+
+        // 按日期倒序排列（最新的在前）
+        wallpapers.sort((a, b) => new Date(b.date) - new Date(a.date));
+      }
+
+      console.log(`已读取 ${monthKey} 的 ${wallpapers.length} 张壁纸`);
+    } catch (error) {
+      console.warn(`读取月度归档失败: ${error.message}`);
+    }
+
+    return wallpapers;
   }
 
   /**

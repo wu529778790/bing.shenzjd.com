@@ -1,6 +1,6 @@
 # Bing Wallpaper
 
-📅 最后更新: 2025-07-30
+📅 最后更新: 2025-07-31
 
 ## 今日壁纸
 
@@ -12,7 +12,7 @@
 
 🔗 <a href="https://www.bing.com/th?id=OHR.RibadesellaSummer_ZH-CN4852547359_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 最近壁纸
+## 2025-07 月壁纸 (8 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
@@ -50,6 +50,12 @@
 <img src="https://www.bing.com/th?id=OHR.AshyWoodswallow_ZH-CN3224168805_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="物以类聚，鸟以群分" style="width: 100%; border-radius: 8px;">
 <p><strong>2025-07-24</strong> <a href="https://www.bing.com/th?id=OHR.AshyWoodswallow_ZH-CN3224168805_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
 <p>物以类聚，鸟以群分</p>
+</div>
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.VaticanCity_ZH-CN3075109504_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="城中之国" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-07-23</strong> <a href="https://www.bing.com/th?id=OHR.VaticanCity_ZH-CN3075109504_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>城中之国</p>
 </div>
 
 </div>
