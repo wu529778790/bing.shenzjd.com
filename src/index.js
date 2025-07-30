@@ -175,8 +175,19 @@ class BingWallpaperFetcher {
 
     content += `</div>\n\n`;
 
-    content += `## 归档\n\n`;
-    content += `📁 [查看按月份归档的壁纸](./archives/)\n\n`;
+    content += `## 历史归档\n\n`;
+
+    // 获取所有归档月份
+    const archiveMonths = await this.getArchiveMonths();
+    if (archiveMonths.length > 0) {
+      content += `历史归档:\n\n`;
+      content += archiveMonths
+        .map((month) => `[${month}](./archives/${month}.md)`)
+        .join(" | ");
+      content += "\n\n";
+    } else {
+      content += `📁 [查看按月份归档的壁纸](./archives/)\n\n`;
+    }
 
     content += `## 关于\n\n`;
     content += `🤖 本项目使用 GitHub Actions 每天自动获取必应壁纸并更新\n\n`;
@@ -239,6 +250,24 @@ class BingWallpaperFetcher {
     }
 
     return wallpapers;
+  }
+
+  /**
+   * 获取所有归档月份
+   */
+  async getArchiveMonths() {
+    try {
+      const files = await fs.readdir(this.archiveDir);
+      const months = files
+        .filter((file) => file.endsWith(".md") && file !== "README.md")
+        .map((file) => file.replace(".md", ""))
+        .sort((a, b) => b.localeCompare(a)); // 按时间倒序排列
+
+      return months;
+    } catch (error) {
+      console.warn(`读取归档目录失败: ${error.message}`);
+      return [];
+    }
   }
 
   /**
