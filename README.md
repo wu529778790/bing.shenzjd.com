@@ -2,7 +2,7 @@
 
 ## 今日壁纸
 
-**潮起潮落** (2025-08-05)
+**潮起潮落** (2025-08-04)
 
 ![潮起潮落](https://www.bing.com/th?id=OHR.CaliforniaTidepool_ZH-CN6273815361_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
@@ -15,9 +15,9 @@
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
 <div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="这是谁的家？" style="width: 100%; border-radius: 8px;">
-<p><strong>2025-08-04</strong> <a href="https://www.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>这是谁的家？</p>
+<img src="https://www.bing.com/th?id=OHR.CaliforniaTidepool_ZH-CN6273815361_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="潮起潮落" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-08-05</strong> <a href="https://www.bing.com/th?id=OHR.CaliforniaTidepool_ZH-CN6273815361_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>潮起潮落</p>
 </div>
 
 <div style="text-align: center;">
