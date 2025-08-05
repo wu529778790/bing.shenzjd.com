@@ -39,8 +39,6 @@ jobs:
 
       - name: 获取必应壁纸
         run: npm run start
-        # 添加重试机制
-        retries: 3
 
       - name: 检查是否有更新
         id: check_changes
