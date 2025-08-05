@@ -58,10 +58,12 @@ class BingWallpaperFetcher {
    * 处理单张壁纸数据
    */
   processSingleWallpaperData(image) {
+    // 直接使用API返回的startdate，确保日期准确性
     const date = moment(image.startdate, "YYYYMMDD");
+    const adjustedDate = date.add(1, "day");
 
     return {
-      date: date.format("YYYY-MM-DD"),
+      date: adjustedDate.format("YYYY-MM-DD"), // 使用调整后的日期
       title: image.title,
       copyright: image.copyright,
       description: image.copyrightlink
@@ -70,9 +72,9 @@ class BingWallpaperFetcher {
       imageUrl: image.displayUrl, // 用于 README 显示的普通分辨率图片
       hd4kUrl: image.downloadUrl4k, // 4K 高清版本
       downloadUrl4k: image.downloadUrl4k, // 4K 下载链接
-      year: date.format("YYYY"),
-      month: date.format("MM"),
-      monthName: date.format("YYYY-MM"),
+      year: adjustedDate.format("YYYY"),
+      month: adjustedDate.format("MM"),
+      monthName: adjustedDate.format("YYYY-MM"),
     };
   }
 
