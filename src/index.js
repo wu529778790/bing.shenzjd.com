@@ -10,84 +10,73 @@ class BingWallpaperFetcher {
   }
 
   /**
-   * 获取必应壁纸数据
+   * 获取今日必应壁纸数据
    */
-  async fetchBingWallpapers() {
+  async fetchTodayBingWallpaper() {
     try {
-      console.log("正在获取必应壁纸数据...");
-      const wallpapers = [];
+      console.log("正在获取今日必应壁纸数据...");
 
-      // 获取最近8张壁纸
-      for (let i = 0; i < 8; i++) {
-        // 计算目标日期（今天减去 i 天）
-        const targetDate = moment().subtract(i, "days").format("YYYY-MM-DD");
+      // 只获取今天的壁纸
+      const targetDate = moment().format("YYYY-MM-DD");
 
-        // 获取显示用的普通分辨率版本
-        const displayWallpaper = await getBingWallpaper({
-          date: targetDate,
-          resolution: "1920x1080",
-          market: "zh-CN",
-        });
+      // 获取显示用的普通分辨率版本
+      const displayWallpaper = await getBingWallpaper({
+        date: targetDate,
+        resolution: "1920x1080",
+        market: "zh-CN",
+      });
 
-        // 获取下载用的4K版本
-        const downloadWallpaper = await getBingWallpaper({
-          date: targetDate,
-          resolution: "UHD",
-          market: "zh-CN",
-        });
+      // 获取下载用的4K版本
+      const downloadWallpaper = await getBingWallpaper({
+        date: targetDate,
+        resolution: "UHD",
+        market: "zh-CN",
+      });
 
-        // 合并数据
-        const wallpaperData = {
-          ...displayWallpaper,
-          displayUrl: displayWallpaper.url,
-          downloadUrl4k: downloadWallpaper.url,
-        };
+      // 合并数据
+      const wallpaperData = {
+        ...displayWallpaper,
+        displayUrl: displayWallpaper.url,
+        downloadUrl4k: downloadWallpaper.url,
+      };
 
-        // 添加调试信息
-        if (i === 0) {
-          console.log("=== 调试信息：第一张壁纸数据 ===");
-          console.log("标题:", wallpaperData.title);
-          console.log("开始日期:", wallpaperData.startdate);
-          console.log("显示URL:", wallpaperData.displayUrl);
-          console.log("下载URL:", wallpaperData.downloadUrl4k);
-          console.log("===============================");
-        }
+      console.log("=== 今日壁纸数据 ===");
+      console.log("标题:", wallpaperData.title);
+      console.log("开始日期:", wallpaperData.startdate);
+      console.log("显示URL:", wallpaperData.displayUrl);
+      console.log("下载URL:", wallpaperData.downloadUrl4k);
+      console.log("===================");
 
-        wallpapers.push(wallpaperData);
-      }
-
-      return wallpapers;
+      return wallpaperData;
     } catch (error) {
-      console.error("获取必应壁纸数据失败:", error.message);
+      console.error("获取今日必应壁纸数据失败:", error.message);
       throw error;
     }
   }
 
   /**
-   * 处理壁纸数据
+   * 处理单张壁纸数据
    */
-  processWallpaperData(images) {
-    return images.map((image) => {
-      // 直接使用API返回的startdate，确保日期准确性
-      const date = moment(image.startdate, "YYYYMMDD");
-      // 将日期加一天，因为必应返回的日期是昨天的
-      const adjustedDate = date.add(1, "day");
+  processSingleWallpaperData(image) {
+    // 直接使用API返回的startdate，确保日期准确性
+    const date = moment(image.startdate, "YYYYMMDD");
+    // 将日期加一天，因为必应返回的日期是昨天的
+    const adjustedDate = date.add(1, "day");
 
-      return {
-        date: adjustedDate.format("YYYY-MM-DD"), // 使用调整后的日期
-        title: image.title,
-        copyright: image.copyright,
-        description: image.copyrightlink
-          ? `[${image.copyright}](${image.copyrightlink})`
-          : image.copyright,
-        imageUrl: image.displayUrl, // 用于 README 显示的普通分辨率图片
-        hd4kUrl: image.downloadUrl4k, // 4K 高清版本
-        downloadUrl4k: image.downloadUrl4k, // 4K 下载链接
-        year: adjustedDate.format("YYYY"),
-        month: adjustedDate.format("MM"),
-        monthName: adjustedDate.format("YYYY-MM"),
-      };
-    });
+    return {
+      date: adjustedDate.format("YYYY-MM-DD"), // 使用调整后的日期
+      title: image.title,
+      copyright: image.copyright,
+      description: image.copyrightlink
+        ? `[${image.copyright}](${image.copyrightlink})`
+        : image.copyright,
+      imageUrl: image.displayUrl, // 用于 README 显示的普通分辨率图片
+      hd4kUrl: image.downloadUrl4k, // 4K 高清版本
+      downloadUrl4k: image.downloadUrl4k, // 4K 下载链接
+      year: adjustedDate.format("YYYY"),
+      month: adjustedDate.format("MM"),
+      monthName: adjustedDate.format("YYYY-MM"),
+    };
   }
 
   /**
@@ -98,56 +87,145 @@ class BingWallpaperFetcher {
   }
 
   /**
-   * 更新月度归档
+   * 检查指定日期的壁纸是否已经存在
    */
-  async updateMonthlyArchive(wallpapers) {
+  async checkWallpaperExists(wallpaper) {
+    const monthFile = path.join(this.archiveDir, `${wallpaper.monthName}.md`);
+
+    try {
+      if (await fs.pathExists(monthFile)) {
+        const content = await fs.readFile(monthFile, "utf8");
+        // 检查是否包含当前日期
+        return content.includes(`## ${wallpaper.date}`);
+      }
+    } catch (error) {
+      console.warn(`检查壁纸存在性失败: ${error.message}`);
+    }
+
+    return false;
+  }
+
+  /**
+   * 追加新壁纸到月度归档
+   */
+  async appendToMonthlyArchive(wallpaper) {
     await this.ensureDirectoryExists(this.archiveDir);
 
-    // 按月份分组
-    const groupedByMonth = {};
-    wallpapers.forEach((wallpaper) => {
-      const monthKey = wallpaper.monthName;
-      if (!groupedByMonth[monthKey]) {
-        groupedByMonth[monthKey] = [];
-      }
-      groupedByMonth[monthKey].push(wallpaper);
-    });
+    // 检查壁纸是否已经存在
+    const exists = await this.checkWallpaperExists(wallpaper);
+    if (exists) {
+      console.log(`壁纸 ${wallpaper.date} 已存在，跳过保存`);
+      return false;
+    }
 
-    // 为每个月份创建或更新 markdown 文件
-    for (const [monthKey, monthWallpapers] of Object.entries(groupedByMonth)) {
-      await this.createMonthlyMarkdown(monthKey, monthWallpapers);
+    const monthFile = path.join(this.archiveDir, `${wallpaper.monthName}.md`);
+
+    // 生成新壁纸的 markdown 内容
+    const newWallpaperContent = this.generateWallpaperMarkdown(wallpaper);
+
+    try {
+      // 检查月份文件是否存在
+      if (await fs.pathExists(monthFile)) {
+        // 文件存在，追加内容
+        await this.insertWallpaperIntoExistingFile(
+          monthFile,
+          wallpaper,
+          newWallpaperContent
+        );
+      } else {
+        // 文件不存在，创建新文件
+        await this.createNewMonthlyFile(
+          monthFile,
+          wallpaper,
+          newWallpaperContent
+        );
+      }
+
+      console.log(`已保存壁纸到归档: ${wallpaper.date}`);
+      return true;
+    } catch (error) {
+      console.error(`保存月度归档失败: ${error.message}`);
+      throw error;
     }
   }
 
   /**
-   * 创建月度 markdown 文件
+   * 生成单张壁纸的 markdown 内容
    */
-  async createMonthlyMarkdown(monthKey, wallpapers) {
-    const monthFile = path.join(this.archiveDir, `${monthKey}.md`);
+  generateWallpaperMarkdown(wallpaper) {
+    let content = `## ${wallpaper.date}\n\n`;
+    content += `**${wallpaper.title}**\n\n`;
+    content += `![${wallpaper.title}](${wallpaper.imageUrl})\n\n`;
+    content += `${wallpaper.description}\n\n`;
+    content += `🔗 <a href="${wallpaper.downloadUrl4k}" target="_blank">下载 4K 高清版本</a>\n\n`;
+    content += `---\n\n`;
+    return content;
+  }
 
-    // 按日期排序（最新的在前）
-    wallpapers.sort((a, b) => new Date(b.date) - new Date(a.date));
+  /**
+   * 在现有文件中插入新壁纸（按日期顺序）
+   */
+  async insertWallpaperIntoExistingFile(monthFile, wallpaper, newContent) {
+    const existingContent = await fs.readFile(monthFile, "utf8");
 
-    let content = `# ${monthKey} 必应壁纸\n\n`;
-    content += `> 本月共收录 ${wallpapers.length} 张壁纸\n\n`;
+    // 找到插入位置（按日期降序排列）
+    const lines = existingContent.split("\n");
+    let insertIndex = -1;
 
-    wallpapers.forEach((wallpaper) => {
-      content += `## ${wallpaper.date}\n\n`;
-      content += `**${wallpaper.title}**\n\n`;
-      content += `![${wallpaper.title}](${wallpaper.imageUrl})\n\n`;
-      content += `${wallpaper.description}\n\n`;
-      content += `🔗 <a href="${wallpaper.downloadUrl4k}" target="_blank">下载 4K 高清版本</a>\n\n`;
-      content += `---\n\n`;
-    });
+    // 查找文件头部信息结束位置
+    let headerEndIndex = 0;
+    for (let i = 0; i < lines.length; i++) {
+      if (lines[i].startsWith("## ")) {
+        headerEndIndex = i;
+        break;
+      }
+    }
+
+    // 如果没有找到任何日期标题，插入到文件末尾
+    if (headerEndIndex === 0) {
+      const updatedContent = existingContent + newContent;
+      await fs.writeFile(monthFile, updatedContent, "utf8");
+      return;
+    }
+
+    // 查找正确的插入位置（保持日期降序）
+    for (let i = headerEndIndex; i < lines.length; i++) {
+      if (lines[i].startsWith("## ")) {
+        const existingDate = lines[i].substring(3).trim();
+        if (wallpaper.date > existingDate) {
+          insertIndex = i;
+          break;
+        }
+      }
+    }
+
+    if (insertIndex === -1) {
+      // 插入到文件末尾
+      const updatedContent = existingContent + newContent;
+      await fs.writeFile(monthFile, updatedContent, "utf8");
+    } else {
+      // 插入到指定位置
+      lines.splice(insertIndex, 0, ...newContent.split("\n"));
+      const updatedContent = lines.join("\n");
+      await fs.writeFile(monthFile, updatedContent, "utf8");
+    }
+  }
+
+  /**
+   * 创建新的月份文件
+   */
+  async createNewMonthlyFile(monthFile, wallpaper, wallpaperContent) {
+    let content = `# ${wallpaper.monthName} 必应壁纸\n\n`;
+    content += `> 本月共收录壁纸\n\n`;
+    content += wallpaperContent;
 
     await fs.writeFile(monthFile, content, "utf8");
-    console.log(`已更新月度归档: ${monthFile}`);
   }
 
   /**
    * 更新 README
    */
-  async updateReadme(latestWallpaper, recentWallpapers) {
+  async updateReadme(latestWallpaper) {
     let content = `# Bing Wallpaper\n\n`;
     content += `## 今日壁纸\n\n`;
     content += `**${latestWallpaper.title}** (${latestWallpaper.date})\n\n`;
@@ -297,20 +375,28 @@ class BingWallpaperFetcher {
    */
   async run() {
     try {
-      console.log("🚀 开始获取必应壁纸...");
+      console.log("🚀 开始获取今日必应壁纸...");
 
-      // 获取壁纸数据
-      const wallpapers = await this.fetchBingWallpapers();
-      const processedWallpapers = this.processWallpaperData(wallpapers);
+      // 获取今日壁纸数据
+      const todayWallpaper = await this.fetchTodayBingWallpaper();
+      const processedWallpaper =
+        this.processSingleWallpaperData(todayWallpaper);
 
-      console.log(`📸 获取到 ${processedWallpapers.length} 张壁纸`);
+      console.log(
+        `📸 获取到今日壁纸: ${processedWallpaper.title} (${processedWallpaper.date})`
+      );
 
-      // 更新月度归档
-      await this.updateMonthlyArchive(processedWallpapers);
+      // 尝试保存到月度归档
+      const saved = await this.appendToMonthlyArchive(processedWallpaper);
 
-      // 更新 README（使用最新的壁纸）
-      const latestWallpaper = processedWallpapers[0];
-      await this.updateReadme(latestWallpaper, processedWallpapers);
+      if (saved) {
+        console.log("✅ 今日壁纸已保存到归档");
+      } else {
+        console.log("ℹ️ 今日壁纸已存在，无需重复保存");
+      }
+
+      // 更新 README（总是更新以确保显示最新数据）
+      await this.updateReadme(processedWallpaper);
 
       console.log("✅ 所有任务完成！");
     } catch (error) {
