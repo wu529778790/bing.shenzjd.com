@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**马达加斯加原住民** (2025-08-06)
+**海岸的密码** (2025-08-07)
 
-![马达加斯加原住民](https://www.bing.com/th?id=OHR.BabyLemur_ZH-CN6617977758_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![海岸的密码](https://www.bing.com/th?id=OHR.GasparillaLight_ZH-CN6855683859_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[环尾狐猴幼崽在玩自己的尾巴‌, 马达加斯加 (© Andy Rouse/Nature Picture Library)](https://www.bing.com/search?q=%E7%8E%AF%E5%B0%BE%E7%8B%90%E7%8C%B4%E2%80%8C&form=hpcapt&mkt=zh-cn)
+[加斯帕里拉岛灯塔后导标灯, 博卡格兰德, 佛罗里达州, 美国 (© Wiltser/Getty Images)](https://www.bing.com/search?q=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E7%81%AF%E5%A1%94%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.BabyLemur_ZH-CN6617977758_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.GasparillaLight_ZH-CN6855683859_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-08 月壁纸 (6 张)
+## 2025-08 月壁纸 (7 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.BabyLemur_ZH-CN6617977758_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="马达加斯加原住民" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-08-06</strong> <a href="https://www.bing.com/th?id=OHR.BabyLemur_ZH-CN6617977758_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>马达加斯加原住民</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.CaliforniaTidepool_ZH-CN6273815361_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="潮起潮落" style="width: 100%; border-radius: 8px;">
