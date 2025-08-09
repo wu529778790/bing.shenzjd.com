@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**致敬原住民之声** (2025-08-09)
+**为正义怒吼** (2025-08-10)
 
-![致敬原住民之声](https://www.bing.com/th?id=OHR.MaoriRock_ZH-CN5614685493_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![为正义怒吼](https://www.bing.com/th?id=OHR.LionessKenya_ZH-CN6791029673_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[陶波湖上的 Ngātoroirangi 矿湾毛利石刻, 新西兰 (© Joppi/Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E5%9C%9F%E8%91%97%E4%BA%BA%E6%B0%91%E5%9B%BD%E9%99%85%E6%97%A5&form=hpcapt&mkt=zh-cn)
+[马赛马拉国家保护区的雌狮,肯尼亚 (© Tandem Stock/Adobe Stock)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E7%8B%AE%E5%AD%90%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.MaoriRock_ZH-CN5614685493_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.LionessKenya_ZH-CN6791029673_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-08 月壁纸 (9 张)
+## 2025-08 月壁纸 (10 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.MaoriRock_ZH-CN5614685493_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="致敬原住民之声" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-08-09</strong> <a href="https://www.bing.com/th?id=OHR.MaoriRock_ZH-CN5614685493_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>致敬原住民之声</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.IguazuArgentina_ZH-CN4457051931_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="奔流不息，为你为我" style="width: 100%; border-radius: 8px;">
