@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**来自山巅的明信片** (2025-08-11)
+**野性、智慧与奇迹** (2025-08-12)
 
-![来自山巅的明信片](https://www.bing.com/th?id=OHR.SantaMaddalena_ZH-CN7421083295_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![野性、智慧与奇迹](https://www.bing.com/th?id=OHR.KenyaElephants_ZH-CN7587207512_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[圣玛格达莱娜, 多洛米蒂山, 意大利 (© Sakrapee Nopparat/Getty Images)](https://www.bing.com/search?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%9A%E6%B4%9B%E7%B1%B3%E8%92%82%E5%B1%B1&form=hpcapt&mkt=zh-cn)
+[非洲象群, 安博塞利国家公园, 肯尼亚 (© Chase Dekker/Minden Pictures)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E5%A4%A7%E8%B1%A1%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.SantaMaddalena_ZH-CN7421083295_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.KenyaElephants_ZH-CN7587207512_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-08 月壁纸 (11 张)
+## 2025-08 月壁纸 (12 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.SantaMaddalena_ZH-CN7421083295_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="来自山巅的明信片" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-08-11</strong> <a href="https://www.bing.com/th?id=OHR.SantaMaddalena_ZH-CN7421083295_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>来自山巅的明信片</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.LionessKenya_ZH-CN6791029673_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="为正义怒吼" style="width: 100%; border-radius: 8px;">
