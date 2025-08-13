@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**地球的公开秘密** (2025-08-13)
+**从山顶俯瞰** (2025-08-14)
 
-![地球的公开秘密](https://www.bing.com/th?id=OHR.CoronaArch_ZH-CN5406267193_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![从山顶俯瞰](https://www.bing.com/th?id=OHR.PizNairPeak_ZH-CN8209144138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[一名男子从摩押附近的科罗纳拱门索降, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E5%A4%A9%E7%84%B6%E6%8B%B1%E9%97%A8&form=hpcapt&mkt=zh-cn)
+[皮兹奈尔山缆车站, 格劳宾登州, 瑞士 (© Roberto Moiola/Alamy)](https://www.bing.com/search?q=%E5%A5%88%E5%B0%94%E5%B3%B0&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.CoronaArch_ZH-CN5406267193_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.PizNairPeak_ZH-CN8209144138_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-08 月壁纸 (13 张)
+## 2025-08 月壁纸 (14 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.CoronaArch_ZH-CN5406267193_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="地球的公开秘密" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-08-13</strong> <a href="https://www.bing.com/th?id=OHR.CoronaArch_ZH-CN5406267193_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>地球的公开秘密</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.KenyaElephants_ZH-CN7587207512_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="野性、智慧与奇迹" style="width: 100%; border-radius: 8px;">
