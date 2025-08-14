@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**从山顶俯瞰** (2025-08-14)
+**水下翱翔** (2025-08-15)
 
-![从山顶俯瞰](https://www.bing.com/th?id=OHR.PizNairPeak_ZH-CN8209144138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![水下翱翔](https://www.bing.com/th?id=OHR.SpottedEagleRay_ZH-CN9894613260_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[皮兹奈尔山缆车站, 格劳宾登州, 瑞士 (© Roberto Moiola/Alamy)](https://www.bing.com/search?q=%E5%A5%88%E5%B0%94%E5%B3%B0&form=hpcapt&mkt=zh-cn)
+[斑点鹞鲼，圣克里斯托瓦尔岛‌，‌加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)](https://www.bing.com/search?q=%E6%96%91%E7%82%B9%E9%B9%9E%E9%B2%BC&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.PizNairPeak_ZH-CN8209144138_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.SpottedEagleRay_ZH-CN9894613260_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-08 月壁纸 (14 张)
+## 2025-08 月壁纸 (15 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.PizNairPeak_ZH-CN8209144138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="从山顶俯瞰" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-08-14</strong> <a href="https://www.bing.com/th?id=OHR.PizNairPeak_ZH-CN8209144138_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>从山顶俯瞰</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.CoronaArch_ZH-CN5406267193_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="地球的公开秘密" style="width: 100%; border-radius: 8px;">
