@@ -31,7 +31,6 @@ jobs:
       - name: 安装 pnpm
         uses: pnpm/action-setup@v4
         with:
-          version: 9
           run_install: false
 
       - name: 设置 Node.js
@@ -40,10 +39,10 @@ jobs:
           node-version: "18"
           cache: "pnpm"
 
-      - name: 启用 corepack 并激活 pnpm@9
+      - name: 启用 corepack 并激活 pnpm@latest
         run: |
           corepack enable
-          corepack prepare pnpm@9 --activate
+          corepack prepare pnpm@latest --activate
 
       - name: 检查 pnpm 版本
         run: pnpm -v
