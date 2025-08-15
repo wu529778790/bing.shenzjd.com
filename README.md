@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**水下翱翔** (2025-08-15)
+**成为改变的一“蜂”** (2025-08-16)
 
-![水下翱翔](https://www.bing.com/th?id=OHR.SpottedEagleRay_ZH-CN9894613260_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![成为改变的一“蜂”](https://www.bing.com/th?id=OHR.ColorfulBeehives_ZH-CN0180195770_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[斑点鹞鲼，圣克里斯托瓦尔岛‌，‌加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)](https://www.bing.com/search?q=%E6%96%91%E7%82%B9%E9%B9%9E%E9%B2%BC&form=hpcapt&mkt=zh-cn)
+[色彩斑斓的蜂巢, 意大利 (© Roberto Caucino/Shutterstock)](https://www.bing.com/search?q=%E8%9C%9C%E8%9C%82&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.SpottedEagleRay_ZH-CN9894613260_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.ColorfulBeehives_ZH-CN0180195770_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-08 月壁纸 (15 张)
+## 2025-08 月壁纸 (16 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.SpottedEagleRay_ZH-CN9894613260_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="水下翱翔" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-08-15</strong> <a href="https://www.bing.com/th?id=OHR.SpottedEagleRay_ZH-CN9894613260_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>水下翱翔</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.PizNairPeak_ZH-CN8209144138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="从山顶俯瞰" style="width: 100%; border-radius: 8px;">
