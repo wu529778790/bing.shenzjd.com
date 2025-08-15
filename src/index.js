@@ -114,6 +114,9 @@ class BingWallpaperFetcher {
     const exists = await this.checkWallpaperExists(wallpaper);
     if (exists) {
       console.log(`壁纸 ${wallpaper.date} 已存在，跳过保存`);
+      // 即使已存在，也刷新头部统计，确保数字准确
+      const monthFile = path.join(this.archiveDir, `${wallpaper.monthName}.md`);
+      await this.refreshMonthlyHeaderCount(monthFile);
       return false;
     }
 
@@ -208,6 +211,9 @@ class BingWallpaperFetcher {
       const updatedContent = lines.join("\n");
       await fs.writeFile(monthFile, updatedContent, "utf8");
     }
+
+    // 更新文件头部的统计数量
+    await this.refreshMonthlyHeaderCount(monthFile);
   }
 
   /**
@@ -215,10 +221,48 @@ class BingWallpaperFetcher {
    */
   async createNewMonthlyFile(monthFile, wallpaper, wallpaperContent) {
     let content = `# ${wallpaper.monthName} 必应壁纸\n\n`;
-    content += `> 本月共收录壁纸\n\n`;
+    content += `> 本月共收录 1 张壁纸\n\n`;
     content += wallpaperContent;
 
     await fs.writeFile(monthFile, content, "utf8");
+  }
+
+  /**
+   * 刷新月度文件头部的“本月共收录 X 张壁纸”数量
+   */
+  async refreshMonthlyHeaderCount(monthFile) {
+    try {
+      const content = await fs.readFile(monthFile, "utf8");
+      const lines = content.split("\n");
+      const count = lines.filter((line) => line.startsWith("## ")).length;
+
+      const newHeaderLine = `> 本月共收录 ${count} 张壁纸`;
+      let updated = false;
+
+      const updatedLines = lines.map((line) => {
+        if (line.startsWith("> 本月共收录")) {
+          updated = true;
+          return newHeaderLine;
+        }
+        return line;
+      });
+
+      // 如果没有找到统计行（理论上不会发生），则在标题后插入
+      if (!updated) {
+        for (let i = 0; i < updatedLines.length; i++) {
+          if (updatedLines[i].startsWith("# ")) {
+            updatedLines.splice(i + 1, 0, "");
+            updatedLines.splice(i + 2, 0, newHeaderLine);
+            updatedLines.splice(i + 3, 0, "");
+            break;
+          }
+        }
+      }
+
+      await fs.writeFile(monthFile, updatedLines.join("\n"), "utf8");
+    } catch (error) {
+      console.warn(`更新月度统计失败: ${error.message}`);
+    }
   }
 
   /**

@@ -32,13 +32,18 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "18"
-          cache: "npm"
+          cache: "pnpm"
+
+      - name: 安装 pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
 
       - name: 安装依赖
-        run: npm install
+        run: pnpm install --frozen-lockfile
 
       - name: 获取必应壁纸
-        run: npm run start
+        run: pnpm start
 
       - name: 检查是否有更新
         id: check_changes
