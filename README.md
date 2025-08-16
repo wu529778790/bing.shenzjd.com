@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**成为改变的一“蜂”** (2025-08-16)
+**眺望大海的高塔** (2025-08-17)
 
-![成为改变的一“蜂”](https://www.bing.com/th?id=OHR.ColorfulBeehives_ZH-CN0180195770_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![眺望大海的高塔](https://www.bing.com/th?id=OHR.LyngvigLighthouse_ZH-CN0836204503_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[色彩斑斓的蜂巢, 意大利 (© Roberto Caucino/Shutterstock)](https://www.bing.com/search?q=%E8%9C%9C%E8%9C%82&form=hpcapt&mkt=zh-cn)
+[灵维格灯塔，维泽桑讷，丹麦 (© Caroline Brundle Bugge/Getty Images)](https://www.bing.com/search?q=%E7%81%AF%E5%A1%94&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.ColorfulBeehives_ZH-CN0180195770_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.LyngvigLighthouse_ZH-CN0836204503_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-08 月壁纸 (16 张)
+## 2025-08 月壁纸 (17 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.ColorfulBeehives_ZH-CN0180195770_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="成为改变的一“蜂”" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-08-16</strong> <a href="https://www.bing.com/th?id=OHR.ColorfulBeehives_ZH-CN0180195770_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>成为改变的一“蜂”</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SpottedEagleRay_ZH-CN9894613260_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="水下翱翔" style="width: 100%; border-radius: 8px;">
