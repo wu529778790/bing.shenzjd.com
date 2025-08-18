@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**溪流入梦** (2025-08-18)
+**随海而流的岩石！** (2025-08-19)
 
-![溪流入梦](https://www.bing.com/th?id=OHR.AvalancheLake_ZH-CN1442576083_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![随海而流的岩石！](https://www.bing.com/th?id=OHR.GipuzcoaSummer_ZH-CN1926924422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[雪崩湖步道，阿迪朗达克高峰区，纽约州，美国 (© Posnov/Getty Images)](https://www.bing.com/search?q=%E7%BA%BD%E7%BA%A6%E5%B7%9E%E9%9B%AA%E5%B4%A9%E6%B9%96&form=hpcapt&mkt=zh-cn)
+[祖马亚的复理层，巴斯克地区，西班牙 (© Eloi_Omella/Getty Images)](https://www.bing.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%A5%96%E9%A9%AC%E4%BA%9A%E7%9A%84%E5%A4%8D%E7%90%86%E7%9F%B3&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.AvalancheLake_ZH-CN1442576083_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.GipuzcoaSummer_ZH-CN1926924422_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-08 月壁纸 (18 张)
+## 2025-08 月壁纸 (19 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.AvalancheLake_ZH-CN1442576083_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="溪流入梦" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-08-18</strong> <a href="https://www.bing.com/th?id=OHR.AvalancheLake_ZH-CN1442576083_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>溪流入梦</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.LyngvigLighthouse_ZH-CN0836204503_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="眺望大海的高塔" style="width: 100%; border-radius: 8px;">
