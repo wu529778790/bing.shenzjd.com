@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**随海而流的岩石！** (2025-08-19)
+**永恒的建筑** (2025-08-20)
 
-![随海而流的岩石！](https://www.bing.com/th?id=OHR.GipuzcoaSummer_ZH-CN1926924422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![永恒的建筑](https://www.bing.com/th?id=OHR.CitadelBonifacio_ZH-CN2130899430_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[祖马亚的复理层，巴斯克地区，西班牙 (© Eloi_Omella/Getty Images)](https://www.bing.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E7%A5%96%E9%A9%AC%E4%BA%9A%E7%9A%84%E5%A4%8D%E7%90%86%E7%9F%B3&form=hpcapt&mkt=zh-cn)
+[博尼法乔城堡，科西嘉岛南部，法国 (© Marc Dozier/Getty Images)](https://www.bing.com/search?q=%E5%8D%9A%E5%B0%BC%E6%B3%95%E4%B9%94&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.GipuzcoaSummer_ZH-CN1926924422_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.CitadelBonifacio_ZH-CN2130899430_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-08 月壁纸 (19 张)
+## 2025-08 月壁纸 (20 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.GipuzcoaSummer_ZH-CN1926924422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="随海而流的岩石！" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-08-19</strong> <a href="https://www.bing.com/th?id=OHR.GipuzcoaSummer_ZH-CN1926924422_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>随海而流的岩石！</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.AvalancheLake_ZH-CN1442576083_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="溪流入梦" style="width: 100%; border-radius: 8px;">
