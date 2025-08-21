@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**伫立凝视** (2025-08-21)
+**大自然的绿色地毯** (2025-08-22)
 
-![伫立凝视](https://www.bing.com/th?id=OHR.WheatearBird_ZH-CN2663965839_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![大自然的绿色地毯](https://www.bing.com/th?id=OHR.PalouseWA_ZH-CN2552273820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[穗䳭和盛开的帚石楠，峰区国家公园，英格兰 (© Ben Hall/Nature Picture Library)](https://www.bing.com/search?q=%E7%A9%97%E4%B3%AD&form=hpcapt&mkt=zh-cn)
+[帕卢斯连绵起伏的丘陵，华盛顿州，美国 (© svetlana57/Getty Images)](https://www.bing.com/search?q=%E5%B8%95%E5%8D%A2%E6%96%AF%E5%9C%B0%E5%8C%BA&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.WheatearBird_ZH-CN2663965839_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.PalouseWA_ZH-CN2552273820_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-08 月壁纸 (21 张)
+## 2025-08 月壁纸 (22 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.WheatearBird_ZH-CN2663965839_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="伫立凝视" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-08-21</strong> <a href="https://www.bing.com/th?id=OHR.WheatearBird_ZH-CN2663965839_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>伫立凝视</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.CitadelBonifacio_ZH-CN2130899430_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="永恒的建筑" style="width: 100%; border-radius: 8px;">
