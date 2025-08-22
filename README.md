@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**大自然的绿色地毯** (2025-08-22)
+**彩林叠翠间的瀑布** (2025-08-23)
 
-![大自然的绿色地毯](https://www.bing.com/th?id=OHR.PalouseWA_ZH-CN2552273820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![彩林叠翠间的瀑布](https://www.bing.com/th?id=OHR.ChushuY25_ZH-CN0495086720_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[帕卢斯连绵起伏的丘陵，华盛顿州，美国 (© svetlana57/Getty Images)](https://www.bing.com/search?q=%E5%B8%95%E5%8D%A2%E6%96%AF%E5%9C%B0%E5%8C%BA&form=hpcapt&mkt=zh-cn)
+[秋季九寨沟国家公园里的诺日朗瀑布, 四川省, 中国 (© tawatchaiprakobkit/Getty images)](https://www.bing.com/search?q=%E8%AF%BA%E6%97%A5%E6%9C%97%E7%80%91%E5%B8%83&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.PalouseWA_ZH-CN2552273820_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.ChushuY25_ZH-CN0495086720_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-08 月壁纸 (22 张)
+## 2025-08 月壁纸 (23 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.PalouseWA_ZH-CN2552273820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="大自然的绿色地毯" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-08-22</strong> <a href="https://www.bing.com/th?id=OHR.PalouseWA_ZH-CN2552273820_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>大自然的绿色地毯</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.WheatearBird_ZH-CN2663965839_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="伫立凝视" style="width: 100%; border-radius: 8px;">
