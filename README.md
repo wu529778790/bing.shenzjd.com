@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**“跟我来”** (2025-08-24)
+**从火山之源到河流之路** (2025-08-25)
 
-![“跟我来”](https://www.bing.com/th?id=OHR.CervusDama_ZH-CN3603505811_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![从火山之源到河流之路](https://www.bing.com/th?id=OHR.YellowstoneRiver_ZH-CN3716808579_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[欧洲黇鹿‌，英格兰 (© Enrique Aguirre Aves/Getty Images)](https://www.bing.com/search?q=%E6%AC%A7%E6%B4%B2%E9%BB%87%E9%B9%BF%E2%80%8C&form=hpcapt&mkt=zh-cn)
+[方解石温泉区和黄石河，黄石国家公园，怀俄明州，美国 (© Rebecca L. Latson/Getty Images)](https://www.bing.com/search?q=%E9%BB%84%E7%9F%B3%E6%B2%B3&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.CervusDama_ZH-CN3603505811_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.YellowstoneRiver_ZH-CN3716808579_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-08 月壁纸 (24 张)
+## 2025-08 月壁纸 (25 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.CervusDama_ZH-CN3603505811_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="“跟我来”" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-08-24</strong> <a href="https://www.bing.com/th?id=OHR.CervusDama_ZH-CN3603505811_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>“跟我来”</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.ChushuY25_ZH-CN0495086720_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="彩林叠翠间的瀑布" style="width: 100%; border-radius: 8px;">
