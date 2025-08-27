@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**海洋上方的湖泊** (2025-08-27)
+**这只白鹭毫无遗憾** (2025-08-28)
 
-![海洋上方的湖泊](https://www.bing.com/th?id=OHR.FaroeLake_ZH-CN3977660997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![这只白鹭毫无遗憾](https://www.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[瑟沃格湖，瓦加尔岛，法罗群岛 (© Anton Petrus/Getty Images)](https://www.bing.com/search?q=%E7%91%9F%E6%B2%83%E6%A0%BC%E6%B9%96&form=hpcapt&mkt=zh-cn)
+[大白鹭，匈牙利 (© Markus Varesvuo/Nature Picture Library)](https://www.bing.com/search?q=%E5%A4%A7%E7%99%BD%E9%B9%AD&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.FaroeLake_ZH-CN3977660997_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-08 月壁纸 (27 张)
+## 2025-08 月壁纸 (28 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.FaroeLake_ZH-CN3977660997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="海洋上方的湖泊" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-08-27</strong> <a href="https://www.bing.com/th?id=OHR.FaroeLake_ZH-CN3977660997_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>海洋上方的湖泊</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.TrulliHouses_ZH-CN3856452406_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="一座非凡的特鲁洛小镇" style="width: 100%; border-radius: 8px;">
