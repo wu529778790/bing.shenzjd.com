@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**这只白鹭毫无遗憾** (2025-08-28)
+**网格的心脏** (2025-08-29)
 
-![这只白鹭毫无遗憾](https://www.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![网格的心脏](https://www.bing.com/th?id=OHR.PlazaMayor_ZH-CN4576498488_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[大白鹭，匈牙利 (© Markus Varesvuo/Nature Picture Library)](https://www.bing.com/search?q=%E5%A4%A7%E7%99%BD%E9%B9%AD&form=hpcapt&mkt=zh-cn)
+[马约尔广场鸟瞰图, 马德里, 西班牙 (© AirPano LLC/Amazing Aerial Agency)](https://www.bing.com/search?q=%E9%A9%AC%E5%BE%B7%E9%87%8C%E9%A9%AC%E7%BA%A6%E5%B0%94%E5%B9%BF%E5%9C%BA&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.PlazaMayor_ZH-CN4576498488_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-08 月壁纸 (28 张)
+## 2025-08 月壁纸 (29 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="这只白鹭毫无遗憾" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-08-28</strong> <a href="https://www.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>这只白鹭毫无遗憾</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.FaroeLake_ZH-CN3977660997_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="海洋上方的湖泊" style="width: 100%; border-radius: 8px;">
