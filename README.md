@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**网格的心脏** (2025-08-29)
+**有鳍且惊艳** (2025-08-30)
 
-![网格的心脏](https://www.bing.com/th?id=OHR.PlazaMayor_ZH-CN4576498488_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![有鳍且惊艳](https://www.bing.com/th?id=OHR.MaldivesWhaleShark_ZH-CN9975504316_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[马约尔广场鸟瞰图, 马德里, 西班牙 (© AirPano LLC/Amazing Aerial Agency)](https://www.bing.com/search?q=%E9%A9%AC%E5%BE%B7%E9%87%8C%E9%A9%AC%E7%BA%A6%E5%B0%94%E5%B9%BF%E5%9C%BA&form=hpcapt&mkt=zh-cn)
+[阿里夫达鲁环礁海岸的鲸鲨, 马尔代夫 (© Bachir Moukarzel/Amazing Aerial Agency)](https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E9%B2%B8%E9%B2%A8%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.PlazaMayor_ZH-CN4576498488_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.MaldivesWhaleShark_ZH-CN9975504316_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-08 月壁纸 (29 张)
+## 2025-08 月壁纸 (30 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.PlazaMayor_ZH-CN4576498488_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="网格的心脏" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-08-29</strong> <a href="https://www.bing.com/th?id=OHR.PlazaMayor_ZH-CN4576498488_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>网格的心脏</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.WhiteEgret_ZH-CN4425921150_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="这只白鹭毫无遗憾" style="width: 100%; border-radius: 8px;">
