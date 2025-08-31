@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**彩绘的云，静默的悬崖** (2025-08-31)
+**风景如画的葡萄园** (2025-09-01)
 
-![彩绘的云，静默的悬崖](https://www.bing.com/th?id=OHR.ScottsBluff_ZH-CN0292735112_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![风景如画的葡萄园](https://www.bing.com/th?id=OHR.FieldKaiserstuhl_ZH-CN0467488834_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[杰灵的斯科茨布拉夫国家纪念碑‌, 内布拉斯加州,美国 (© Hawk Buckman/Getty Images)](https://www.bing.com/search?q=%E6%96%AF%E7%A7%91%E8%8C%A8%E5%B8%83%E6%8B%89%E5%A4%AB%E5%9B%BD%E5%AE%B6%E7%BA%AA%E5%BF%B5%E7%A2%91&form=hpcapt&mkt=zh-cn)
+[凯撒施图尔，巴登-符腾堡，德国 (© EyeEM Mobile GmbH/Getty Images)](https://www.bing.com/search?q=%E5%B7%B4%E7%99%BB-%E7%AC%A6%E8%85%BE%E5%A0%A1&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.ScottsBluff_ZH-CN0292735112_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.FieldKaiserstuhl_ZH-CN0467488834_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
 ## 2025-08 月壁纸 (31 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.ScottsBluff_ZH-CN0292735112_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="彩绘的云，静默的悬崖" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-08-31</strong> <a href="https://www.bing.com/th?id=OHR.ScottsBluff_ZH-CN0292735112_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>彩绘的云，静默的悬崖</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.MaldivesWhaleShark_ZH-CN9975504316_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="有鳍且惊艳" style="width: 100%; border-radius: 8px;">
@@ -198,7 +204,7 @@
 
 ## 历史归档
 
-[2025-08](./archives/2025-08.md) | [2025-07](./archives/2025-07.md)
+[2025-09](./archives/2025-09.md) | [2025-08](./archives/2025-08.md) | [2025-07](./archives/2025-07.md)
 
 ## 关于
 
