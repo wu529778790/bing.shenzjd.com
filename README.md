@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**死谷的幽灵** (2025-09-02)
+**享受宁静** (2025-09-03)
 
-![死谷的幽灵](https://www.bing.com/th?id=OHR.DeadvleiTrees_ZH-CN0967414858_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![享受宁静](https://www.bing.com/th?id=OHR.MinnesotaWaters_ZH-CN6078521418_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[骆驼刺树, 死亡谷, 纳米布-诺克卢福国家公园, 纳米比亚 (© Inge Johnsson/Alamy Stock Photo)](https://www.bing.com/search?q=%E7%BA%B3%E7%B1%B3%E6%AF%94%E4%BA%9A%E7%BA%B3%E7%B1%B3%E5%B8%83%E8%AF%BA%E5%85%8B%E8%B7%AF%E7%A6%8F%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+[边界水域独木舟区荒野区, 明尼苏达州, 美国 (© s.tomas/Shutterstock)](https://www.bing.com/search?q=+%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BE%E5%B7%9E%E8%BE%B9%E7%95%8C%E6%B0%B4%E5%9F%9F&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.DeadvleiTrees_ZH-CN0967414858_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.MinnesotaWaters_ZH-CN6078521418_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-09 月壁纸 (2 张)
+## 2025-09 月壁纸 (3 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.DeadvleiTrees_ZH-CN0967414858_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="死谷的幽灵" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-09-02</strong> <a href="https://www.bing.com/th?id=OHR.DeadvleiTrees_ZH-CN0967414858_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>死谷的幽灵</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.FieldKaiserstuhl_ZH-CN0467488834_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="风景如画的葡萄园" style="width: 100%; border-radius: 8px;">
