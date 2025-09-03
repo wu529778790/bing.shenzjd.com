@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**享受宁静** (2025-09-03)
+**力量的角逐** (2025-09-04)
 
-![享受宁静](https://www.bing.com/th?id=OHR.MinnesotaWaters_ZH-CN6078521418_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![力量的角逐](https://www.bing.com/th?id=OHR.WrestlingBears_ZH-CN6430637848_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[边界水域独木舟区荒野区, 明尼苏达州, 美国 (© s.tomas/Shutterstock)](https://www.bing.com/search?q=+%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BE%E5%B7%9E%E8%BE%B9%E7%95%8C%E6%B0%B4%E5%9F%9F&form=hpcapt&mkt=zh-cn)
+[灰熊摔跤, 卡特迈国家公园及自然保护区, 阿拉斯加, 美国 (© Cavan Images/Adobe Stock)](https://www.bing.com/search?q=%E7%81%B0%E7%86%8A&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.MinnesotaWaters_ZH-CN6078521418_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.WrestlingBears_ZH-CN6430637848_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-09 月壁纸 (3 张)
+## 2025-09 月壁纸 (4 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.MinnesotaWaters_ZH-CN6078521418_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="享受宁静" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-09-03</strong> <a href="https://www.bing.com/th?id=OHR.MinnesotaWaters_ZH-CN6078521418_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>享受宁静</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.DeadvleiTrees_ZH-CN0967414858_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="死谷的幽灵" style="width: 100%; border-radius: 8px;">
