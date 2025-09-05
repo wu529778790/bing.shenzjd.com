@@ -2,15 +2,15 @@
 
 ## 今日壁纸
 
-**Roots of freedom** (2025-02-02)
+**忙碌的一天** (2025-09-06)
 
-![Roots of freedom](https://www.bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_1920x1080.jpg)
+![忙碌的一天](https://www.bing.com/th?id=OHR.RufousHummer_ZH-CN1777072350_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-National Museum of African American History & Culture, Washington, DC (© BrianPIrwin/Shutterstock)
+[棕煌蜂鸟，旧金山金门公园，加利福尼亚州，美国 (© jeremyborkat/Getty Images)](https://www.bing.com/search?q=%E6%A3%95%E7%85%8C%E8%9C%82%E9%B8%9F&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_1920x1080.jpg" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.RufousHummer_ZH-CN1777072350_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-09 月壁纸 (4 张)
+## 2025-09 月壁纸 (5 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
