@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**忙碌的一天** (2025-09-06)
+**淡彩的梦境和静水** (2025-09-07)
 
-![忙碌的一天](https://www.bing.com/th?id=OHR.RufousHummer_ZH-CN1777072350_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![淡彩的梦境和静水](https://www.bing.com/th?id=OHR.BlueGdansk_ZH-CN3328928509_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[棕煌蜂鸟，旧金山金门公园，加利福尼亚州，美国 (© jeremyborkat/Getty Images)](https://www.bing.com/search?q=%E6%A3%95%E7%85%8C%E8%9C%82%E9%B8%9F&form=hpcapt&mkt=zh-cn)
+[位于莫特拉瓦河河畔的格但斯克市，波兰 (© Oscar Dominguez/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E6%B3%A2%E5%85%B0%E6%A0%BC%E4%BD%86%E6%96%AF%E5%85%8B%E5%B8%82&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.RufousHummer_ZH-CN1777072350_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.BlueGdansk_ZH-CN3328928509_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-09 月壁纸 (5 张)
+## 2025-09 月壁纸 (6 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.RufousHummer_ZH-CN1777072350_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="忙碌的一天" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-09-06</strong> <a href="https://www.bing.com/th?id=OHR.RufousHummer_ZH-CN1777072350_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>忙碌的一天</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.WrestlingBears_ZH-CN6430637848_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="力量的角逐" style="width: 100%; border-radius: 8px;">
