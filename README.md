@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**野性畅游，自在徜徉** (2025-09-12)
+**崎岖而狂野** (2025-09-13)
 
-![野性畅游，自在徜徉](https://www.bing.com/th?id=OHR.SpinnerDolphins_ZH-CN9731341241_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![崎岖而狂野](https://www.bing.com/th?id=OHR.PointReyesSeashore_ZH-CN0076789582_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[红海中的飞旋海豚群, 阿拉姆港, 埃及 (© Franco Banfi/Nature Picture Library)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B5%B7%E8%B1%9A%E6%97%A5&form=hpcapt&mkt=zh-cn)
+[烟囱岩, 雷斯岬国家海岸, 加利福尼亚州, 美国 (© Enrique Aguirre Aves/Getty Images)](https://www.bing.com/search?q=%E9%9B%B7%E6%96%AF%E5%B2%AC%E5%9B%BD%E5%AE%B6%E6%B5%B7%E5%B2%B8&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.SpinnerDolphins_ZH-CN9731341241_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.PointReyesSeashore_ZH-CN0076789582_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-09 月壁纸 (11 张)
+## 2025-09 月壁纸 (12 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.SpinnerDolphins_ZH-CN9731341241_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="野性畅游，自在徜徉" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-09-12</strong> <a href="https://www.bing.com/th?id=OHR.SpinnerDolphins_ZH-CN9731341241_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>野性畅游，自在徜徉</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.ExtremaduraJamon_ZH-CN1559355133_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="准备仰望天空吧！" style="width: 100%; border-radius: 8px;">
