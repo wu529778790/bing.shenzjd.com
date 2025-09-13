@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**崎岖而狂野** (2025-09-13)
+**苔藓与薄雾** (2025-09-14)
 
-![崎岖而狂野](https://www.bing.com/th?id=OHR.PointReyesSeashore_ZH-CN0076789582_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![苔藓与薄雾](https://www.bing.com/th?id=OHR.HohWaterfall_ZH-CN0297269806_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[烟囱岩, 雷斯岬国家海岸, 加利福尼亚州, 美国 (© Enrique Aguirre Aves/Getty Images)](https://www.bing.com/search?q=%E9%9B%B7%E6%96%AF%E5%B2%AC%E5%9B%BD%E5%AE%B6%E6%B5%B7%E5%B2%B8&form=hpcapt&mkt=zh-cn)
+[奥林匹克国家公园的瀑布, 华盛顿, 美国 (© Chris Moore/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD+%E5%8D%8E%E7%9B%9B%E9%A1%BF&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.PointReyesSeashore_ZH-CN0076789582_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.HohWaterfall_ZH-CN0297269806_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-09 月壁纸 (12 张)
+## 2025-09 月壁纸 (13 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.PointReyesSeashore_ZH-CN0076789582_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="崎岖而狂野" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-09-13</strong> <a href="https://www.bing.com/th?id=OHR.PointReyesSeashore_ZH-CN0076789582_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>崎岖而狂野</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SpinnerDolphins_ZH-CN9731341241_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="野性畅游，自在徜徉" style="width: 100%; border-radius: 8px;">
