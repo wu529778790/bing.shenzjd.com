@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**苔藓与薄雾** (2025-09-14)
+**涉水寻迹** (2025-09-15)
 
-![苔藓与薄雾](https://www.bing.com/th?id=OHR.HohWaterfall_ZH-CN0297269806_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![涉水寻迹](https://www.bing.com/th?id=OHR.Echasse_ZH-CN0670369582_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[奥林匹克国家公园的瀑布, 华盛顿, 美国 (© Chris Moore/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD+%E5%8D%8E%E7%9B%9B%E9%A1%BF&form=hpcapt&mkt=zh-cn)
+[黑翅长脚鹬, 法国 (© Antonio Sementa/500px/Getty Images)](https://www.bing.com/search?q=%E9%BB%91%E7%BF%85%E9%95%BF%E8%84%9A%E9%B9%AC&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.HohWaterfall_ZH-CN0297269806_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.Echasse_ZH-CN0670369582_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-09 月壁纸 (13 张)
+## 2025-09 月壁纸 (14 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.HohWaterfall_ZH-CN0297269806_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="苔藓与薄雾" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-09-14</strong> <a href="https://www.bing.com/th?id=OHR.HohWaterfall_ZH-CN0297269806_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>苔藓与薄雾</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.PointReyesSeashore_ZH-CN0076789582_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="崎岖而狂野" style="width: 100%; border-radius: 8px;">
