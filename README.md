@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**成长中的冠冕** (2025-09-17)
+**爱尔兰岛的西端** (2025-09-18)
 
-![成长中的冠冕](https://www.bing.com/th?id=OHR.YoungMoose_ZH-CN4639410217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![爱尔兰岛的西端](https://www.bing.com/th?id=OHR.DunquinIreland_ZH-CN1418844818_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[迪纳利国家公园中的一头年轻雄性驼鹿, 阿拉斯加, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E9%A9%BC%E9%B9%BF&form=hpcapt&mkt=zh-cn)
+[邓金码头的蛇形楼梯, 凯里郡, 爱尔兰 (© Hugh O'Connor/Getty Images)](https://www.bing.com/search?q=%E4%B8%81%E6%A0%BC%E5%B0%94%E5%8D%8A%E5%B2%9B&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.YoungMoose_ZH-CN4639410217_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.DunquinIreland_ZH-CN1418844818_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-09 月壁纸 (16 张)
+## 2025-09 月壁纸 (17 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.YoungMoose_ZH-CN4639410217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="成长中的冠冕" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-09-17</strong> <a href="https://www.bing.com/th?id=OHR.YoungMoose_ZH-CN4639410217_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>成长中的冠冕</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.OzoneEarth_ZH-CN0993915980_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="巨大的成功" style="width: 100%; border-radius: 8px;">
