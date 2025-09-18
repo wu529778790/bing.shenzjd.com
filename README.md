@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**爱尔兰岛的西端** (2025-09-18)
+**千般理由，邀您探索** (2025-09-19)
 
-![爱尔兰岛的西端](https://www.bing.com/th?id=OHR.DunquinIreland_ZH-CN1418844818_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![千般理由，邀您探索](https://www.bing.com/th?id=OHR.ThousandIslands_ZH-CN3197750437_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[邓金码头的蛇形楼梯, 凯里郡, 爱尔兰 (© Hugh O'Connor/Getty Images)](https://www.bing.com/search?q=%E4%B8%81%E6%A0%BC%E5%B0%94%E5%8D%8A%E5%B2%9B&form=hpcapt&mkt=zh-cn)
+[千岛群岛地区，圣劳伦斯河，美加边境 (© benedek/Getty Images)](https://www.bing.com/search?q=%E5%8D%83%E5%B2%9B%E7%BE%A4%E5%B2%9B+%E5%8C%97%E7%BE%8E%E6%B4%B2&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.DunquinIreland_ZH-CN1418844818_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.ThousandIslands_ZH-CN3197750437_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-09 月壁纸 (17 张)
+## 2025-09 月壁纸 (18 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.DunquinIreland_ZH-CN1418844818_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="爱尔兰岛的西端" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-09-18</strong> <a href="https://www.bing.com/th?id=OHR.DunquinIreland_ZH-CN1418844818_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>爱尔兰岛的西端</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.YoungMoose_ZH-CN4639410217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="成长中的冠冕" style="width: 100%; border-radius: 8px;">
