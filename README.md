@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**到冬天的中途** (2025-09-22)
+**树树皆秋色** (2025-09-23)
 
-![到冬天的中途](https://www.bing.com/th?id=OHR.AspenEquinox_ZH-CN5474695693_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![树树皆秋色](https://www.bing.com/th?id=OHR.AutumnalEquinoxY25_ZH-CN5692548297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[秋日的白杨树，鱼湖国家森林，犹他州，美国 (© Danita Delimont/Getty Images)](https://www.bing.com/search?q=%E7%99%BD%E6%9D%A8%E6%A0%91&form=hpcapt&mkt=zh-cn)
+[航拍中国江苏省常州翠竹公园 (© Xu Changyu/Getty images)](https://www.bing.com/search?q=%E7%A7%8B%E5%88%86&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.AspenEquinox_ZH-CN5474695693_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.AutumnalEquinoxY25_ZH-CN5692548297_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-09 月壁纸 (21 张)
+## 2025-09 月壁纸 (22 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.AspenEquinox_ZH-CN5474695693_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="到冬天的中途" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-09-22</strong> <a href="https://www.bing.com/th?id=OHR.AspenEquinox_ZH-CN5474695693_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>到冬天的中途</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.IceOtters_ZH-CN5393791969_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="酷毙了" style="width: 100%; border-radius: 8px;">
