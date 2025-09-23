@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**树树皆秋色** (2025-09-23)
+**孤独的巨人** (2025-09-24)
 
-![树树皆秋色](https://www.bing.com/th?id=OHR.AutumnalEquinoxY25_ZH-CN5692548297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![孤独的巨人](https://www.bing.com/th?id=OHR.BearLodge_ZH-CN5880511888_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[航拍中国江苏省常州翠竹公园 (© Xu Changyu/Getty images)](https://www.bing.com/search?q=%E7%A7%8B%E5%88%86&form=hpcapt&mkt=zh-cn)
+[魔鬼塔国家纪念碑, 怀俄明州，美国 (© Laura Hedien/Getty Images)](https://www.bing.com/search?q=%E9%AD%94%E9%AC%BC%E5%A1%94%E5%9B%BD%E5%AE%B6%E7%BA%AA%E5%BF%B5%E7%A2%91&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.AutumnalEquinoxY25_ZH-CN5692548297_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.BearLodge_ZH-CN5880511888_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-09 月壁纸 (22 张)
+## 2025-09 月壁纸 (23 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.AutumnalEquinoxY25_ZH-CN5692548297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="树树皆秋色" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-09-23</strong> <a href="https://www.bing.com/th?id=OHR.AutumnalEquinoxY25_ZH-CN5692548297_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>树树皆秋色</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.AspenEquinox_ZH-CN5474695693_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="到冬天的中途" style="width: 100%; border-radius: 8px;">
