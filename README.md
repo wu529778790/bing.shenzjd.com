@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**孤独的巨人** (2025-09-24)
+**忠勇的雕刻石** (2025-09-25)
 
-![孤独的巨人](https://www.bing.com/th?id=OHR.BearLodge_ZH-CN5880511888_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![忠勇的雕刻石](https://www.bing.com/th?id=OHR.FortChittorgarh_ZH-CN5999553283_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[魔鬼塔国家纪念碑, 怀俄明州，美国 (© Laura Hedien/Getty Images)](https://www.bing.com/search?q=%E9%AD%94%E9%AC%BC%E5%A1%94%E5%9B%BD%E5%AE%B6%E7%BA%AA%E5%BF%B5%E7%A2%91&form=hpcapt&mkt=zh-cn)
+[奇陶尔加尔堡, 拉贾斯坦邦, 印度 (© chetansoni/Shutterstock)](https://www.bing.com/search?q=%E5%A5%87%E9%99%B6%E5%B0%94%E5%8A%A0%E5%B0%94%E5%A0%A1%E5%8D%B0%E5%BA%A6&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.BearLodge_ZH-CN5880511888_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.FortChittorgarh_ZH-CN5999553283_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-09 月壁纸 (23 张)
+## 2025-09 月壁纸 (24 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.BearLodge_ZH-CN5880511888_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="孤独的巨人" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-09-24</strong> <a href="https://www.bing.com/th?id=OHR.BearLodge_ZH-CN5880511888_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>孤独的巨人</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.AutumnalEquinoxY25_ZH-CN5692548297_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="树树皆秋色" style="width: 100%; border-radius: 8px;">
