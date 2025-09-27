@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**美丽的星空** (2025-09-27)
+**品味皮恩扎** (2025-09-28)
 
-![美丽的星空](https://www.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![品味皮恩扎](https://www.bing.com/th?id=OHR.PienzaItaly_ZH-CN6564335348_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[坦克湖 (Tank Lakes), 高山湖泊荒野区, 华盛顿州, 美国 (© Austin Trigg/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%B7%9E%E9%AB%98%E5%B1%B1%E6%B9%96%E6%B3%8A%E8%8D%92%E9%87%8E%E5%8C%BA&form=hpcapt&mkt=zh-cn)
+[托斯卡纳的皮恩扎镇, 意大利 (© zpagistock/Getty Images)](https://www.bing.com/search?q=%E7%9A%AE%E6%81%A9%E6%89%8E&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.PienzaItaly_ZH-CN6564335348_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-09 月壁纸 (26 张)
+## 2025-09 月壁纸 (27 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="美丽的星空" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-09-27</strong> <a href="https://www.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>美丽的星空</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.AutumnChipmunk_ZH-CN6224482683_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="速度与毛茸茸" style="width: 100%; border-radius: 8px;">
