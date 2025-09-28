@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**品味皮恩扎** (2025-09-28)
+**彩虹骑行与宁静氛围** (2025-09-29)
 
-![品味皮恩扎](https://www.bing.com/th?id=OHR.PienzaItaly_ZH-CN6564335348_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![彩虹骑行与宁静氛围](https://www.bing.com/th?id=OHR.HoutenHouses_ZH-CN6776452438_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[托斯卡纳的皮恩扎镇, 意大利 (© zpagistock/Getty Images)](https://www.bing.com/search?q=%E7%9A%AE%E6%81%A9%E6%89%8E&form=hpcapt&mkt=zh-cn)
+[豪滕镇的彩虹屋, 荷兰 (© George Pachantouris/Getty Images)](https://www.bing.com/search?q=%E8%B1%AA%E6%BB%95%E9%95%87%E8%8D%B7%E5%85%B0&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.PienzaItaly_ZH-CN6564335348_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.HoutenHouses_ZH-CN6776452438_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-09 月壁纸 (27 张)
+## 2025-09 月壁纸 (28 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.PienzaItaly_ZH-CN6564335348_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="品味皮恩扎" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-09-28</strong> <a href="https://www.bing.com/th?id=OHR.PienzaItaly_ZH-CN6564335348_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>品味皮恩扎</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.TankLakes_ZH-CN6402368934_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="美丽的星空" style="width: 100%; border-radius: 8px;">
