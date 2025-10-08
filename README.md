@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**动态伪装** (2025-10-08)
+**宇宙在绽放** (2025-10-09)
 
-![动态伪装](https://www.bing.com/th?id=OHR.OctopusCyanea_ZH-CN8948609460_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![宇宙在绽放](https://www.bing.com/th?id=OHR.WebbPillars_ZH-CN9054137596_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[白日章鱼, 毛伊岛, 夏威夷, 美国 (© Dave Fleetham/plainpicture)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E7%AB%A0%E9%B1%BC%E6%97%A5&form=hpcapt&mkt=zh-cn)
+[‌詹姆斯·韦伯太空望远镜观测的创生之柱 (© NASA)](https://www.bing.com/search?q=%E5%88%9B%E7%94%9F%E4%B9%8B%E6%9F%B1&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.OctopusCyanea_ZH-CN8948609460_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.WebbPillars_ZH-CN9054137596_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-10 月壁纸 (8 张)
+## 2025-10 月壁纸 (9 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.OctopusCyanea_ZH-CN8948609460_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="动态伪装" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-10-08</strong> <a href="https://www.bing.com/th?id=OHR.OctopusCyanea_ZH-CN8948609460_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>动态伪装</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.RidgwayAspens_ZH-CN8735375502_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="金色的秋日余晖" style="width: 100%; border-radius: 8px;">
