@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**思绪之礁** (2025-10-10)
+**下一站：墨西哥！** (2025-10-11)
 
-![思绪之礁](https://www.bing.com/th?id=OHR.MonurikiFiji_ZH-CN9178115886_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![下一站：墨西哥！](https://www.bing.com/th?id=OHR.WoodDuckHen_ZH-CN9558916773_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[莫努里基岛周边的珊瑚礁，玛玛努卡群岛，斐济 (© David Wall/SuperStock)](https://www.bing.com/search?q=%E7%8E%9B%E7%8E%9B%E5%8A%AA%E5%8D%A1%E7%BE%A4%E5%B2%9B&form=hpcapt&mkt=zh-cn)
+[林鸳鸯，美国 (© ps50ace/iStock/Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E5%80%99%E9%B8%9F%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.MonurikiFiji_ZH-CN9178115886_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.WoodDuckHen_ZH-CN9558916773_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-10 月壁纸 (10 张)
+## 2025-10 月壁纸 (11 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.MonurikiFiji_ZH-CN9178115886_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="思绪之礁" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-10-10</strong> <a href="https://www.bing.com/th?id=OHR.MonurikiFiji_ZH-CN9178115886_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>思绪之礁</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.WebbPillars_ZH-CN9054137596_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="宇宙在绽放" style="width: 100%; border-radius: 8px;">
