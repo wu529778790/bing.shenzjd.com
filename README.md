@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**爱上萨拉纳克** (2025-10-12)
+**水声低语** (2025-10-13)
 
-![爱上萨拉纳克](https://www.bing.com/th?id=OHR.SaranacLake_ZH-CN0224689397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![水声低语](https://www.bing.com/th?id=OHR.HinterseeWaterfall_ZH-CN0432994081_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[萨拉纳克湖村，阿迪朗达克山脉，纽约州，美国 (© DenisTangneyJr/Getty Images)](https://www.bing.com/search?q=%E8%90%A8%E6%8B%89%E7%BA%B3%E5%85%8B%E6%B9%96%E6%9D%91&form=hpcapt&mkt=zh-cn)
+[温巴赫峡谷瀑布，巴伐利亚州，德国 (© EyeEm Mobile GmbH/Getty Images)](https://www.bing.com/search?q=%E6%B8%A9%E5%B7%B4%E8%B5%AB%E5%B3%A1%E8%B0%B7&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.SaranacLake_ZH-CN0224689397_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.HinterseeWaterfall_ZH-CN0432994081_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-10 月壁纸 (12 张)
+## 2025-10 月壁纸 (13 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.SaranacLake_ZH-CN0224689397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="爱上萨拉纳克" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-10-12</strong> <a href="https://www.bing.com/th?id=OHR.SaranacLake_ZH-CN0224689397_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>爱上萨拉纳克</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.WoodDuckHen_ZH-CN9558916773_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="下一站：墨西哥！" style="width: 100%; border-radius: 8px;">
