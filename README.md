@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**水声低语** (2025-10-13)
+**蓝与白的梦境** (2025-10-14)
 
-![水声低语](https://www.bing.com/th?id=OHR.HinterseeWaterfall_ZH-CN0432994081_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![蓝与白的梦境](https://www.bing.com/th?id=OHR.OiaSantorini_ZH-CN0531650189_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[温巴赫峡谷瀑布，巴伐利亚州，德国 (© EyeEm Mobile GmbH/Getty Images)](https://www.bing.com/search?q=%E6%B8%A9%E5%B7%B4%E8%B5%AB%E5%B3%A1%E8%B0%B7&form=hpcapt&mkt=zh-cn)
+[伊亚镇，圣托里尼岛，希腊 (© f9photos/Getty Images)](https://www.bing.com/search?q=%E5%B8%8C%E8%85%8A%E4%BC%8A%E4%BA%9A%E9%95%87&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.HinterseeWaterfall_ZH-CN0432994081_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.OiaSantorini_ZH-CN0531650189_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-10 月壁纸 (13 张)
+## 2025-10 月壁纸 (14 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.HinterseeWaterfall_ZH-CN0432994081_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="水声低语" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-10-13</strong> <a href="https://www.bing.com/th?id=OHR.HinterseeWaterfall_ZH-CN0432994081_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>水声低语</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SaranacLake_ZH-CN0224689397_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="爱上萨拉纳克" style="width: 100%; border-radius: 8px;">
