@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**蓝与白的梦境** (2025-10-14)
+**孢子奇遇记** (2025-10-15)
 
-![蓝与白的梦境](https://www.bing.com/th?id=OHR.OiaSantorini_ZH-CN0531650189_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![孢子奇遇记](https://www.bing.com/th?id=OHR.AmethystLaccaria_ZH-CN0643667280_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[伊亚镇，圣托里尼岛，希腊 (© f9photos/Getty Images)](https://www.bing.com/search?q=%E5%B8%8C%E8%85%8A%E4%BC%8A%E4%BA%9A%E9%95%87&form=hpcapt&mkt=zh-cn)
+[紫蜡蘑，西贝克，华盛顿州，美国 (© Danita Delimont/Shutterstock)](https://www.bing.com/search?q=%E7%B4%AB%E8%9C%A1%E8%98%91&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.OiaSantorini_ZH-CN0531650189_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.AmethystLaccaria_ZH-CN0643667280_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-10 月壁纸 (14 张)
+## 2025-10 月壁纸 (15 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.OiaSantorini_ZH-CN0531650189_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="蓝与白的梦境" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-10-14</strong> <a href="https://www.bing.com/th?id=OHR.OiaSantorini_ZH-CN0531650189_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>蓝与白的梦境</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.HinterseeWaterfall_ZH-CN0432994081_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="水声低语" style="width: 100%; border-radius: 8px;">
