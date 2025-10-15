@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**孢子奇遇记** (2025-10-15)
+**幽灵之猫** (2025-10-16)
 
-![孢子奇遇记](https://www.bing.com/th?id=OHR.AmethystLaccaria_ZH-CN0643667280_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![幽灵之猫](https://www.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[紫蜡蘑，西贝克，华盛顿州，美国 (© Danita Delimont/Shutterstock)](https://www.bing.com/search?q=%E7%B4%AB%E8%9C%A1%E8%98%91&form=hpcapt&mkt=zh-cn)
+[欧亚猞猁，西伯利亚 (© Mario Plechaty Photograph/Shutterstock)](https://www.bing.com/search?q=%E6%AC%A7%E4%BA%9A%E7%8C%9E%E7%8C%81&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.AmethystLaccaria_ZH-CN0643667280_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-10 月壁纸 (15 张)
+## 2025-10 月壁纸 (16 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.AmethystLaccaria_ZH-CN0643667280_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="孢子奇遇记" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-10-15</strong> <a href="https://www.bing.com/th?id=OHR.AmethystLaccaria_ZH-CN0643667280_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>孢子奇遇记</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.OiaSantorini_ZH-CN0531650189_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="蓝与白的梦境" style="width: 100%; border-radius: 8px;">
