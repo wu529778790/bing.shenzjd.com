@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**爱上密歇根** (2025-10-17)
+**那座铭记往昔的山丘** (2025-10-18)
 
-![爱上密歇根](https://www.bing.com/th?id=OHR.RockRiverFalls_ZH-CN6532185546_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![那座铭记往昔的山丘](https://www.bing.com/th?id=OHR.SilburyHill_ZH-CN6666447580_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[罗克河瀑布，上半岛，密歇根州，美国 (© Matt Anderson Photography/Getty Images)](https://www.bing.com/search?q=%E5%AF%86%E6%AD%87%E6%A0%B9%E5%B7%9E%E7%BD%97%E5%85%8B%E6%B2%B3%E8%8D%92%E9%87%8E&form=hpcapt&mkt=zh-cn)
+[西尔布利山的新石器时代遗址，蒂尔斯黑德，威尔特郡，英国 (© dbstockphotoa/Getty Images)](https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E8%80%83%E5%8F%A4%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.RockRiverFalls_ZH-CN6532185546_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.SilburyHill_ZH-CN6666447580_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-10 月壁纸 (17 张)
+## 2025-10 月壁纸 (18 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.RockRiverFalls_ZH-CN6532185546_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="爱上密歇根" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-10-17</strong> <a href="https://www.bing.com/th?id=OHR.RockRiverFalls_ZH-CN6532185546_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>爱上密歇根</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SiberianLynx_ZH-CN0749166653_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="幽灵之猫" style="width: 100%; border-radius: 8px;">
