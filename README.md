@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**痴迷科学** (2025-10-19)
+**慢节奏的生活** (2025-10-20)
 
-![痴迷科学](https://www.bing.com/th?id=OHR.AppleHarvest_ZH-CN7317228007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![慢节奏的生活](https://www.bing.com/th?id=OHR.HoffmansSloth_ZH-CN7563408641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[即将收获的苹果，明尼苏达州，美国 (© Tammi Mild/Getty Images)](https://www.bing.com/search?q=%E6%94%B6%E8%8E%B7%E8%8B%B9%E6%9E%9C%E7%9A%84%E5%AD%A3%E8%8A%82&form=hpcapt&mkt=zh-cn)
+[霍氏树懒，厄瓜多尔 (© Murray Cooper/Minden Pictures)](https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E6%A0%91%E6%87%92%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.AppleHarvest_ZH-CN7317228007_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.HoffmansSloth_ZH-CN7563408641_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-10 月壁纸 (19 张)
+## 2025-10 月壁纸 (20 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.AppleHarvest_ZH-CN7317228007_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="痴迷科学" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-10-19</strong> <a href="https://www.bing.com/th?id=OHR.AppleHarvest_ZH-CN7317228007_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>痴迷科学</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SilburyHill_ZH-CN6666447580_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="那座铭记往昔的山丘" style="width: 100%; border-radius: 8px;">
