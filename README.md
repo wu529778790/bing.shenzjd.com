@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**鸟喙的故事** (2025-10-21)
+**刻在石头上** (2025-10-22)
 
-![鸟喙的故事](https://www.bing.com/th?id=OHR.ToucanForest_ZH-CN0072036253_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![刻在石头上](https://www.bing.com/th?id=OHR.BulgariaRocks_ZH-CN0234903972_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[哥斯达黎加的厚嘴巨嘴鸟 (© Juan Carlos Vindas/Getty Images)](https://www.bing.com/search?q=%E5%8E%9A%E5%98%B4%E5%B7%A8%E5%98%B4%E9%B8%9F&form=hpcapt&mkt=zh-cn)
+[贝洛格拉齐克石林，保加利亚 (© EvaL Miko/Shutterstock)](https://www.bing.com/search?q=%E8%B4%9D%E6%B4%9B%E6%A0%BC%E6%8B%89%E9%BD%90%E5%85%8B%E7%9F%B3%E6%9E%97&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.ToucanForest_ZH-CN0072036253_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.BulgariaRocks_ZH-CN0234903972_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-10 月壁纸 (21 张)
+## 2025-10 月壁纸 (22 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.ToucanForest_ZH-CN0072036253_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="鸟喙的故事" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-10-21</strong> <a href="https://www.bing.com/th?id=OHR.ToucanForest_ZH-CN0072036253_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>鸟喙的故事</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.HoffmansSloth_ZH-CN7563408641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="慢节奏的生活" style="width: 100%; border-radius: 8px;">
