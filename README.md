@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**从“灰色幽灵”到幽灵传说** (2025-10-24)
+**芬兰的活泥炭地** (2025-10-25)
 
-![从“灰色幽灵”到幽灵传说](https://www.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![芬兰的活泥炭地](https://www.bing.com/th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[玛丽皇后号邮轮的夜景, 长滩, 加利福尼亚州, 美国 (© Kit Leong/Shutterstock)](https://www.bing.com/search?q=%E7%8E%9B%E4%B8%BD%E7%9A%87%E5%90%8E%E5%8F%B7&form=hpcapt&mkt=zh-cn)
+[马蒂莫阿帕沼泽保护区泥炭地鸟瞰图, 芬兰 (© romikatarina/Shutterstock)](https://www.bing.com/search?q=%E6%B2%BC%E6%B3%BD%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-10 月壁纸 (24 张)
+## 2025-10 月壁纸 (25 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="从“灰色幽灵”到幽灵传说" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-10-24</strong> <a href="https://www.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>从“灰色幽灵”到幽灵传说</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SnowLeopard_ZH-CN6644701381_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="雪中深情" style="width: 100%; border-radius: 8px;">
