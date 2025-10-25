@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**芬兰的活泥炭地** (2025-10-25)
+**南瓜日，今日登场！** (2025-10-26)
 
-![芬兰的活泥炭地](https://www.bing.com/th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![南瓜日，今日登场！](https://www.bing.com/th?id=OHR.PumpkinFarm_ZH-CN1232784365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[马蒂莫阿帕沼泽保护区泥炭地鸟瞰图, 芬兰 (© romikatarina/Shutterstock)](https://www.bing.com/search?q=%E6%B2%BC%E6%B3%BD%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F&form=hpcapt&mkt=zh-cn)
+[北卡罗来纳州的南瓜农场, 美国 (© Matthew H Irvin/Getty Images)](https://www.bing.com/search?q=%E5%8D%97%E7%93%9C&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.PumpkinFarm_ZH-CN1232784365_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-10 月壁纸 (25 张)
+## 2025-10 月壁纸 (26 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="芬兰的活泥炭地" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-10-25</strong> <a href="https://www.bing.com/th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>芬兰的活泥炭地</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="从“灰色幽灵”到幽灵传说" style="width: 100%; border-radius: 8px;">
