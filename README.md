@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**南瓜日，今日登场！** (2025-10-26)
+**千年秘境** (2025-10-27)
 
-![南瓜日，今日登场！](https://www.bing.com/th?id=OHR.PumpkinFarm_ZH-CN1232784365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![千年秘境](https://www.bing.com/th?id=OHR.AutumnColorY25_ZH-CN1551135398_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[北卡罗来纳州的南瓜农场, 美国 (© Matthew H Irvin/Getty Images)](https://www.bing.com/search?q=%E5%8D%97%E7%93%9C&form=hpcapt&mkt=zh-cn)
+[被胡杨树围绕着的湖, 金塔县, 酒泉, 甘肃, 中国 (© Feng Wei Photography/Getty images)](https://www.bing.com/search?q=%E8%83%A1%E6%9D%A8%E6%A0%91&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.PumpkinFarm_ZH-CN1232784365_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.AutumnColorY25_ZH-CN1551135398_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-10 月壁纸 (26 张)
+## 2025-10 月壁纸 (27 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.PumpkinFarm_ZH-CN1232784365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="南瓜日，今日登场！" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-10-26</strong> <a href="https://www.bing.com/th?id=OHR.PumpkinFarm_ZH-CN1232784365_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>南瓜日，今日登场！</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="芬兰的活泥炭地" style="width: 100%; border-radius: 8px;">
