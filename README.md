@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**时光扎根** (2025-10-29)
+**蹄声、色彩与传承** (2025-10-30)
 
-![时光扎根](https://www.bing.com/th?id=OHR.FanalForest_ZH-CN2203572101_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![蹄声、色彩与传承](https://www.bing.com/th?id=OHR.PushkarFair_ZH-CN2069143641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[法纳尔森林里的古老月桂树，马德拉群岛，葡萄牙 (© Lukas Jonaitis/Shutterstock)](https://www.bing.com/search?q=%E8%91%A1%E8%90%84%E7%89%99%E9%A9%AC%E5%BE%B7%E6%8B%89%E7%BE%A4%E5%B2%9B&form=hpcapt&mkt=zh-cn)
+[杰伊瑟尔梅尔的骆驼, 拉贾斯坦邦, 印度 (© f9photos/Getty Images)](https://www.bing.com/search?q=%E9%AA%86%E9%A9%BC&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.FanalForest_ZH-CN2203572101_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.PushkarFair_ZH-CN2069143641_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-10 月壁纸 (29 张)
+## 2025-10 月壁纸 (30 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.FanalForest_ZH-CN2203572101_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="时光扎根" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-10-29</strong> <a href="https://www.bing.com/th?id=OHR.FanalForest_ZH-CN2203572101_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>时光扎根</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.TepliceRocks_ZH-CN1785316311_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="通往石之奇境的大门" style="width: 100%; border-radius: 8px;">
