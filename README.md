@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**在万圣节的魔咒之下** (2025-10-31)
+**古老血脉的兽群** (2025-11-01)
 
-![在万圣节的魔咒之下](https://www.bing.com/th?id=OHR.BranCastle_ZH-CN3879660917_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![古老血脉的兽群](https://www.bing.com/th?id=OHR.BisonSprings_ZH-CN4419733534_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[布兰城堡入口, 布拉索夫, 罗马尼亚 (© blue sky in my pocket/Getty Images)](https://www.bing.com/search?q=%E5%B8%83%E5%85%B0%E5%9F%8E%E5%A0%A1&form=hpcapt&mkt=zh-cn)
+[野牛在温泉边吃草,  黄石国家公园, 怀俄明州, 美国 (© Cheryl Ramalho/Getty Images)](https://www.bing.com/search?q=%E9%BB%84%E7%9F%B3%E5%85%AC%E5%9B%AD%E7%9A%84%E9%87%8E%E7%89%9B%E7%BE%A4&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.BranCastle_ZH-CN3879660917_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.BisonSprings_ZH-CN4419733534_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
 ## 2025-10 月壁纸 (31 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.BranCastle_ZH-CN3879660917_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="在万圣节的魔咒之下" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-10-31</strong> <a href="https://www.bing.com/th?id=OHR.BranCastle_ZH-CN3879660917_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>在万圣节的魔咒之下</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.PushkarFair_ZH-CN2069143641_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="蹄声、色彩与传承" style="width: 100%; border-radius: 8px;">
@@ -198,7 +204,7 @@
 
 ## 历史归档
 
-[2025-10](./archives/2025-10.md) | [2025-09](./archives/2025-09.md) | [2025-08](./archives/2025-08.md) | [2025-07](./archives/2025-07.md) | [2025-02](./archives/2025-02.md)
+[2025-11](./archives/2025-11.md) | [2025-10](./archives/2025-10.md) | [2025-09](./archives/2025-09.md) | [2025-08](./archives/2025-08.md) | [2025-07](./archives/2025-07.md) | [2025-02](./archives/2025-02.md)
 
 ## 关于
 
