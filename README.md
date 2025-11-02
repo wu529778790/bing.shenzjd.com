@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**竹林吐纳清气，枫叶绚烂如火** (2025-11-02)
+**随波轻舞** (2025-11-03)
 
-![竹林吐纳清气，枫叶绚烂如火](https://www.bing.com/th?id=OHR.KyotoMaple_ZH-CN4730358356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![随波轻舞](https://www.bing.com/th?id=OHR.MexicoJelly_ZH-CN5266285518_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[岚山缤纷的枫叶与竹林, 京都, 日本 (© DoctorEgg/Getty Images)](https://www.bing.com/search?q=%E4%BA%AC%E9%83%BD%E5%B2%9A%E5%B1%B1&form=hpcapt&mkt=zh-cn)
+[在太平洋中游泳的水母, 格雷罗, 墨西哥 (© Christian Vizl/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E6%B0%B4%E6%AF%8D&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.KyotoMaple_ZH-CN4730358356_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.MexicoJelly_ZH-CN5266285518_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-11 月壁纸 (2 张)
+## 2025-11 月壁纸 (3 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.KyotoMaple_ZH-CN4730358356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="竹林吐纳清气，枫叶绚烂如火" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-11-02</strong> <a href="https://www.bing.com/th?id=OHR.KyotoMaple_ZH-CN4730358356_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>竹林吐纳清气，枫叶绚烂如火</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.BisonSprings_ZH-CN4419733534_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="古老血脉的兽群" style="width: 100%; border-radius: 8px;">
