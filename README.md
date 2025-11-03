@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**随波轻舞** (2025-11-03)
+**小心空隙，桥面将开启！** (2025-11-04)
 
-![随波轻舞](https://www.bing.com/th?id=OHR.MexicoJelly_ZH-CN5266285518_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![小心空隙，桥面将开启！](https://www.bing.com/th?id=OHR.TowerBridgeUK_ZH-CN1846533186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[在太平洋中游泳的水母, 格雷罗, 墨西哥 (© Christian Vizl/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E6%B0%B4%E6%AF%8D&form=hpcapt&mkt=zh-cn)
+[塔桥, 伦敦, 英格兰 (© Nick Brundle Photography/Getty Images)](https://www.bing.com/search?q=%E4%BC%A6%E6%95%A6%E5%A1%94%E6%A1%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.MexicoJelly_ZH-CN5266285518_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.TowerBridgeUK_ZH-CN1846533186_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-11 月壁纸 (3 张)
+## 2025-11 月壁纸 (4 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.MexicoJelly_ZH-CN5266285518_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="随波轻舞" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-11-03</strong> <a href="https://www.bing.com/th?id=OHR.MexicoJelly_ZH-CN5266285518_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>随波轻舞</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.KyotoMaple_ZH-CN4730358356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="竹林吐纳清气，枫叶绚烂如火" style="width: 100%; border-radius: 8px;">
