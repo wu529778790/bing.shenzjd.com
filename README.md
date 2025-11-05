@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**秋天来了，你开心吗？** (2025-11-05)
+**满天心愿** (2025-11-06)
 
-![秋天来了，你开心吗？](https://www.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![满天心愿](https://www.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[佩尼亚罗亚山毛榉森林, 蒙卡约自然公园, 萨拉戈萨, 阿拉贡, 西班牙 (© David Santiago Garcia/DEEPOL by plainpicture)](https://www.bing.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E8%90%A8%E6%8B%89%E6%88%88%E8%90%A8&form=hpcapt&mkt=zh-cn)
+[哈里朋柴佛塔寺的彩色灯笼, 南奔府, 泰国 (© MR. ANUJAK JAIMOOK/Getty Images)](https://www.bing.com/search?q=%E6%B8%85%E8%BF%88%E7%81%AF%E4%BC%9A&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-11 月壁纸 (5 张)
+## 2025-11 月壁纸 (6 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="秋天来了，你开心吗？" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-11-05</strong> <a href="https://www.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>秋天来了，你开心吗？</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.TowerBridgeUK_ZH-CN1846533186_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="小心空隙，桥面将开启！" style="width: 100%; border-radius: 8px;">
