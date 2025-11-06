@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**满天心愿** (2025-11-06)
+**魅力十足的巨型动物** (2025-11-07)
 
-![满天心愿](https://www.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![魅力十足的巨型动物](https://www.bing.com/th?id=OHR.WillowBear_ZH-CN3501489210_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[哈里朋柴佛塔寺的彩色灯笼, 南奔府, 泰国 (© MR. ANUJAK JAIMOOK/Getty Images)](https://www.bing.com/search?q=%E6%B8%85%E8%BF%88%E7%81%AF%E4%BC%9A&form=hpcapt&mkt=zh-cn)
+[丘吉尔的北极熊，曼尼托巴省，加拿大 (© karen crewe/Getty Images)](https://www.bing.com/search?q=%E5%8C%97%E6%9E%81%E7%86%8A&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.WillowBear_ZH-CN3501489210_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-11 月壁纸 (6 张)
+## 2025-11 月壁纸 (7 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="满天心愿" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-11-06</strong> <a href="https://www.bing.com/th?id=OHR.LanternsThailand_ZH-CN3419382923_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>满天心愿</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="秋天来了，你开心吗？" style="width: 100%; border-radius: 8px;">
