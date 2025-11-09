@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**从前有一颗星星** (2025-11-09)
+**草原之下的生命** (2025-11-10)
 
-![从前有一颗星星](https://www.bing.com/th?id=OHR.LagoonNebula_ZH-CN3890147543_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![草原之下的生命](https://www.bing.com/th?id=OHR.PrairieDogTown_ZH-CN3989288881_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[礁湖星云中的星际云，由哈勃太空望远镜拍摄 (© ESA/NASA)](https://www.bing.com/search?q=%E7%A4%81%E6%B9%96%E6%98%9F%E4%BA%91&form=hpcapt&mkt=zh-cn)
+[土拨鼠镇的黑尾土拨鼠，劣地国家公园，南达科他州，美国 (© Greg Vaughn/Getty Images)](https://www.bing.com/search?q=%E5%8A%A3%E5%9C%B0%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.LagoonNebula_ZH-CN3890147543_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.PrairieDogTown_ZH-CN3989288881_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-11 月壁纸 (9 张)
+## 2025-11 月壁纸 (10 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.LagoonNebula_ZH-CN3890147543_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="从前有一颗星星" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-11-09</strong> <a href="https://www.bing.com/th?id=OHR.LagoonNebula_ZH-CN3890147543_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>从前有一颗星星</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.BandonBeach_ZH-CN3684356649_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="班登的明星岩石" style="width: 100%; border-radius: 8px;">
