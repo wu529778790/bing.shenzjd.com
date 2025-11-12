@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**条条大路通罗马** (2025-11-12)
+**星光下的颤动之树** (2025-11-13)
 
-![条条大路通罗马](https://www.bing.com/th?id=OHR.ColosseumRome_ZH-CN4305271578_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![星光下的颤动之树](https://www.bing.com/th?id=OHR.AloeDichotoma_ZH-CN4432972312_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[斗兽场鸟瞰图，罗马，意大利 (© Nico De Pasquale Photography/Getty Images)](https://www.bing.com/search?q=%E7%BD%97%E9%A9%AC%E6%96%97%E5%85%BD%E5%9C%BA&form=hpcapt&mkt=zh-cn)
+[夜晚的箭袋树与银河，基特曼斯胡普，纳米比亚 (© Wim van den Heever/naturepl.com)](https://www.bing.com/search?q=%E7%AE%AD%E8%A2%8B%E6%A0%91&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.ColosseumRome_ZH-CN4305271578_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.AloeDichotoma_ZH-CN4432972312_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-11 月壁纸 (12 张)
+## 2025-11 月壁纸 (13 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.ColosseumRome_ZH-CN4305271578_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="条条大路通罗马" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-11-12</strong> <a href="https://www.bing.com/th?id=OHR.ColosseumRome_ZH-CN4305271578_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>条条大路通罗马</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="传奇之地" style="width: 100%; border-radius: 8px;">
