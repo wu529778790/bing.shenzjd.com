@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**快节奏时代，别忘了慢下来** (2025-11-14)
+**像日光那样“弯道飞驰”** (2025-11-15)
 
-![快节奏时代，别忘了慢下来](https://www.bing.com/th?id=OHR.ManateeBaby_ZH-CN7805040281_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![像日光那样“弯道飞驰”](https://www.bing.com/th?id=OHR.IrohazakaAutumn_ZH-CN8146412245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[海牛妈妈和幼崽，水晶河，佛罗里达州，美国 (© Gregory Sweeney/Getty Images)](https://www.bing.com/search?q=%E6%B5%B7%E7%89%9B&form=hpcapt&mkt=zh-cn)
+[秋天的伊吕波坂，日光市，栃木县，日本 (© oneinchpunch/Shutterstock)](https://www.bing.com/search?q=%E6%A0%83%E6%9C%A8%E5%8E%BF%E6%97%A5%E5%85%89%E5%B8%82&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.ManateeBaby_ZH-CN7805040281_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.IrohazakaAutumn_ZH-CN8146412245_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-11 月壁纸 (14 张)
+## 2025-11 月壁纸 (15 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.ManateeBaby_ZH-CN7805040281_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="快节奏时代，别忘了慢下来" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-11-14</strong> <a href="https://www.bing.com/th?id=OHR.ManateeBaby_ZH-CN7805040281_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>快节奏时代，别忘了慢下来</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.AloeDichotoma_ZH-CN4432972312_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="星光下的颤动之树" style="width: 100%; border-radius: 8px;">
