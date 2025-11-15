@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**像日光那样“弯道飞驰”** (2025-11-15)
+**承载过往的篇章** (2025-11-16)
 
-![像日光那样“弯道飞驰”](https://www.bing.com/th?id=OHR.IrohazakaAutumn_ZH-CN8146412245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![承载过往的篇章](https://www.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[秋天的伊吕波坂，日光市，栃木县，日本 (© oneinchpunch/Shutterstock)](https://www.bing.com/search?q=%E6%A0%83%E6%9C%A8%E5%8E%BF%E6%97%A5%E5%85%89%E5%B8%82&form=hpcapt&mkt=zh-cn)
+[里昂的一条穿廊，法国 (© TPopova/Getty Images) 法国](https://www.bing.com/search?q=%E9%87%8C%E6%98%82%E7%9A%84%E7%A9%BF%E5%BB%8A&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.IrohazakaAutumn_ZH-CN8146412245_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-11 月壁纸 (15 张)
+## 2025-11 月壁纸 (16 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.IrohazakaAutumn_ZH-CN8146412245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="像日光那样“弯道飞驰”" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-11-15</strong> <a href="https://www.bing.com/th?id=OHR.IrohazakaAutumn_ZH-CN8146412245_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>像日光那样“弯道飞驰”</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.ManateeBaby_ZH-CN7805040281_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="快节奏时代，别忘了慢下来" style="width: 100%; border-radius: 8px;">
