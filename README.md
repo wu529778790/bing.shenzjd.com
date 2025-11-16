@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**承载过往的篇章** (2025-11-16)
+**小径在召唤** (2025-11-17)
 
-![承载过往的篇章](https://www.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![小径在召唤](https://www.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[里昂的一条穿廊，法国 (© TPopova/Getty Images) 法国](https://www.bing.com/search?q=%E9%87%8C%E6%98%82%E7%9A%84%E7%A9%BF%E5%BB%8A&form=hpcapt&mkt=zh-cn)
+[谢南多厄国家公园的秋色，弗吉尼亚州，美国 (© Michael Ver Sprill/Getty Images)](https://www.bing.com/search?q=%E8%B0%A2%E5%8D%97%E5%A4%9A%E5%8E%84%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-11 月壁纸 (16 张)
+## 2025-11 月壁纸 (17 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="承载过往的篇章" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-11-16</strong> <a href="https://www.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>承载过往的篇章</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.IrohazakaAutumn_ZH-CN8146412245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="像日光那样“弯道飞驰”" style="width: 100%; border-radius: 8px;">
