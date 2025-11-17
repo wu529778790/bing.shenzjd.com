@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**小径在召唤** (2025-11-17)
+**秋日里的羽翼明星** (2025-11-18)
 
-![小径在召唤](https://www.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![秋日里的羽翼明星](https://www.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[谢南多厄国家公园的秋色，弗吉尼亚州，美国 (© Michael Ver Sprill/Getty Images)](https://www.bing.com/search?q=%E8%B0%A2%E5%8D%97%E5%A4%9A%E5%8E%84%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+[雄性棕胁秋沙鸭，俄勒冈州，美国 (© Eric Vogt/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E6%A3%95%E8%83%81%E7%A7%8B%E6%B2%99%E9%B8%AD&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-11 月壁纸 (17 张)
+## 2025-11 月壁纸 (18 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="小径在召唤" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-11-17</strong> <a href="https://www.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>小径在召唤</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.LyonTraboules_ZH-CN8476826325_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="承载过往的篇章" style="width: 100%; border-radius: 8px;">
