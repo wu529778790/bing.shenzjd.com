@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**秋日里的羽翼明星** (2025-11-18)
+**石头与符号，诉说一个民族的故事** (2025-11-19)
 
-![秋日里的羽翼明星](https://www.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![石头与符号，诉说一个民族的故事](https://www.bing.com/th?id=OHR.BudapestParliament_ZH-CN1607028780_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[雄性棕胁秋沙鸭，俄勒冈州，美国 (© Eric Vogt/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E6%A3%95%E8%83%81%E7%A7%8B%E6%B2%99%E9%B8%AD&form=hpcapt&mkt=zh-cn)
+[匈牙利国会大厦，布达佩斯，匈牙利 (© Alexander Spatari/Getty Images)](https://www.bing.com/search?q=%E5%8C%88%E7%89%99%E5%88%A9%E5%9B%BD%E4%BC%9A%E5%A4%A7%E5%8E%A6&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.BudapestParliament_ZH-CN1607028780_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-11 月壁纸 (18 张)
+## 2025-11 月壁纸 (19 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="秋日里的羽翼明星" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-11-18</strong> <a href="https://www.bing.com/th?id=OHR.AutumnMerganser_ZH-CN1320438449_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>秋日里的羽翼明星</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="小径在召唤" style="width: 100%; border-radius: 8px;">
