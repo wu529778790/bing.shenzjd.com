@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**颂扬保护与美** (2025-11-20)
+**带着“你好”的问候** (2025-11-21)
 
-![颂扬保护与美](https://www.bing.com/th?id=OHR.PondCave_ZH-CN2304770650_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![带着“你好”的问候](https://www.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[查帕达迪亚曼蒂纳国家公园，巴伊亚州，巴西 (© Marcio Dufranc/Getty Images)](https://www.bing.com/search?q=%E6%9F%A5%E5%B8%95%E8%BE%BE-%E8%BF%AA%E4%BA%9A%E6%9B%BC%E8%92%82%E9%82%A3%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+[罗伯特·摩西州立公园的港海豹, 长岛, 纽约, 美国 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://www.bing.com/search?q=%E6%B8%AF%E6%B5%B7%E8%B1%B9&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.PondCave_ZH-CN2304770650_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-11 月壁纸 (20 张)
+## 2025-11 月壁纸 (21 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.PondCave_ZH-CN2304770650_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="颂扬保护与美" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-11-20</strong> <a href="https://www.bing.com/th?id=OHR.PondCave_ZH-CN2304770650_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>颂扬保护与美</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.BudapestParliament_ZH-CN1607028780_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="石头与符号，诉说一个民族的故事" style="width: 100%; border-radius: 8px;">
