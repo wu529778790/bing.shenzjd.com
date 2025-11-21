@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**带着“你好”的问候** (2025-11-21)
+**守护江河的佛像** (2025-11-22)
 
-![带着“你好”的问候](https://www.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![守护江河的佛像](https://www.bing.com/th?id=OHR.LeshanBuddha_ZH-CN2804271540_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[罗伯特·摩西州立公园的港海豹, 长岛, 纽约, 美国 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://www.bing.com/search?q=%E6%B8%AF%E6%B5%B7%E8%B1%B9&form=hpcapt&mkt=zh-cn)
+[乐山大佛, 四川, 中国 (© www.anotherdayattheoffice.org/Getty Images)](https://www.bing.com/search?q=%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.LeshanBuddha_ZH-CN2804271540_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-11 月壁纸 (21 张)
+## 2025-11 月壁纸 (22 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="带着“你好”的问候" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-11-21</strong> <a href="https://www.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>带着“你好”的问候</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.PondCave_ZH-CN2304770650_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="颂扬保护与美" style="width: 100%; border-radius: 8px;">
