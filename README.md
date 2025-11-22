@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**守护江河的佛像** (2025-11-22)
+**大自然的秘密代码** (2025-11-23)
 
-![守护江河的佛像](https://www.bing.com/th?id=OHR.LeshanBuddha_ZH-CN2804271540_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![大自然的秘密代码](https://www.bing.com/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[乐山大佛, 四川, 中国 (© www.anotherdayattheoffice.org/Getty Images)](https://www.bing.com/search?q=%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B&form=hpcapt&mkt=zh-cn)
+[马达加斯加菊石化石 (© ThomasLENNE/Shutterstock)](https://www.bing.com/search?q=%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.LeshanBuddha_ZH-CN2804271540_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-11 月壁纸 (22 张)
+## 2025-11 月壁纸 (23 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.LeshanBuddha_ZH-CN2804271540_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="守护江河的佛像" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-11-22</strong> <a href="https://www.bing.com/th?id=OHR.LeshanBuddha_ZH-CN2804271540_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>守护江河的佛像</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SealWaving_ZH-CN2467723602_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="带着“你好”的问候" style="width: 100%; border-radius: 8px;">
