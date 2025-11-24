@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**岩石中的秘密** (2025-11-24)
+**爱情、幸运与硬币** (2025-11-25)
 
-![岩石中的秘密](https://www.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![爱情、幸运与硬币](https://www.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[瓜廖尔堡, ‌中央邦, 印度 (© ImagesofIndia/Shutterstock)](https://www.bing.com/search?q=%E7%93%9C%E5%BB%96%E5%B0%94%E5%A0%A1%E5%8D%B0%E5%BA%A6%E4%B8%AD%E5%A4%AE%E9%82%A6&form=hpcapt&mkt=zh-cn)
+[罗马的特雷维喷泉, 意大利 (© Nico De Pasquale Photography/Getty Images)](https://www.bing.com/search?q=%E7%89%B9%E9%9B%B7%E7%BB%B4%E5%96%B7%E6%B3%89&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-11 月壁纸 (24 张)
+## 2025-11 月壁纸 (25 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="岩石中的秘密" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-11-24</strong> <a href="https://www.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>岩石中的秘密</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="大自然的秘密代码" style="width: 100%; border-radius: 8px;">
