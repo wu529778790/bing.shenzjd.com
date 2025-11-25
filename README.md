@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**爱情、幸运与硬币** (2025-11-25)
+**让树叶诉说历史** (2025-11-26)
 
-![爱情、幸运与硬币](https://www.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![让树叶诉说历史](https://www.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[罗马的特雷维喷泉, 意大利 (© Nico De Pasquale Photography/Getty Images)](https://www.bing.com/search?q=%E7%89%B9%E9%9B%B7%E7%BB%B4%E5%96%B7%E6%B3%89&form=hpcapt&mkt=zh-cn)
+[特拉蒙塔纳山脉的橄榄园, 马略卡岛, 巴利阿里群岛, 西班牙 (© cinoby/Getty Images)](https://www.bing.com/search?q=%E6%A9%84%E6%A6%84%E6%A0%91&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-11 月壁纸 (25 张)
+## 2025-11 月壁纸 (26 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="爱情、幸运与硬币" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-11-25</strong> <a href="https://www.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>爱情、幸运与硬币</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.GwailorFort_ZH-CN6731607002_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="岩石中的秘密" style="width: 100%; border-radius: 8px;">
