@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**让树叶诉说历史** (2025-11-26)
+**潮起潮落的坚守** (2025-11-27)
 
-![让树叶诉说历史](https://www.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![潮起潮落的坚守](https://www.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[特拉蒙塔纳山脉的橄榄园, 马略卡岛, 巴利阿里群岛, 西班牙 (© cinoby/Getty Images)](https://www.bing.com/search?q=%E6%A9%84%E6%A6%84%E6%A0%91&form=hpcapt&mkt=zh-cn)
+[伊斯特本码头, 东萨塞克斯郡, 英格兰 (© Tolga_TEZCAN/Getty Images)](https://www.bing.com/search?q=%E4%BC%8A%E6%96%AF%E7%89%B9%E6%9C%AC%E7%A0%81%E5%A4%B4&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-11 月壁纸 (26 张)
+## 2025-11 月壁纸 (27 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="让树叶诉说历史" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-11-26</strong> <a href="https://www.bing.com/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>让树叶诉说历史</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.TreviFountain_ZH-CN6892299520_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="爱情、幸运与硬币" style="width: 100%; border-radius: 8px;">
