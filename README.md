@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**白色回响** (2025-11-28)
+**哎呀，好冷啊！** (2025-11-29)
 
-![白色回响](https://www.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![哎呀，好冷啊！](https://www.bing.com/th?id=OHR.DeerVeluwe_ZH-CN1438758687_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[瓦尔·布兰德特, 布雷西亚, 伦巴第大区, 意大利 (© ClickAlps/Alamy)](https://www.bing.com/search?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B8%83%E9%9B%B7%E8%A5%BF%E4%BA%9A&form=hpcapt&mkt=zh-cn)
+[荷兰梵高国家森林公园的马鹿雄鹿, 荷兰 (© CreativeNature_nl/Getty Images)](https://www.bing.com/search?q=%E6%A2%B5%E9%AB%98%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.DeerVeluwe_ZH-CN1438758687_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-11 月壁纸 (28 张)
+## 2025-11 月壁纸 (29 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="白色回响" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-11-28</strong> <a href="https://www.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>白色回响</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.PierOfEastbourne2025_ZH-CN7178301269_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="潮起潮落的坚守" style="width: 100%; border-radius: 8px;">
