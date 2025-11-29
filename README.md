@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**哎呀，好冷啊！** (2025-11-29)
+**一路闪耀** (2025-11-30)
 
-![哎呀，好冷啊！](https://www.bing.com/th?id=OHR.DeerVeluwe_ZH-CN1438758687_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![一路闪耀](https://www.bing.com/th?id=OHR.LeipzigMarket_ZH-CN1517513161_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[荷兰梵高国家森林公园的马鹿雄鹿, 荷兰 (© CreativeNature_nl/Getty Images)](https://www.bing.com/search?q=%E6%A2%B5%E9%AB%98%E5%9B%BD%E5%AE%B6%E6%A3%AE%E6%9E%97%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+[莱比锡圣诞集市, 德国 (© Krzysztof Baranowski/Getty Images)](https://www.bing.com/search?q=%E8%8E%B1%E6%AF%94%E9%94%A1&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.DeerVeluwe_ZH-CN1438758687_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.LeipzigMarket_ZH-CN1517513161_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-11 月壁纸 (29 张)
+## 2025-11 月壁纸 (30 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.DeerVeluwe_ZH-CN1438758687_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="哎呀，好冷啊！" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-11-29</strong> <a href="https://www.bing.com/th?id=OHR.DeerVeluwe_ZH-CN1438758687_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>哎呀，好冷啊！</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.InvernoItalia_ZH-CN1329490862_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="白色回响" style="width: 100%; border-radius: 8px;">
