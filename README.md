@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**一景胜千言** (2025-12-02)
+**曙光中的鹤影** (2025-12-03)
 
-![一景胜千言](https://www.bing.com/th?id=OHR.WillowLake_ZH-CN9798614021_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![曙光中的鹤影](https://www.bing.com/th?id=OHR.BosqueCranes_ZH-CN1838488224_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[柳树湖与布莱克本山, 兰格尔－圣伊利亚斯国家公园暨保护区, 阿拉斯加州, 美国 (© Patrick J. Endres/Getty Images)](https://www.bing.com/search?q=%E5%9C%A3%E4%BC%8A%E5%88%A9%E4%BA%9A%E6%96%AF%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+[日出时的沙丘鹤, ‌阿帕奇森林国家野生动物保护区, 新墨西哥州, 美国 (© Jack Dykinga/Minden Pictures)](https://www.bing.com/search?q=%E6%B2%99%E4%B8%98%E9%B9%A4&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.WillowLake_ZH-CN9798614021_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.BosqueCranes_ZH-CN1838488224_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-12 月壁纸 (2 张)
+## 2025-12 月壁纸 (3 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.WillowLake_ZH-CN9798614021_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="一景胜千言" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-12-02</strong> <a href="https://www.bing.com/th?id=OHR.WillowLake_ZH-CN9798614021_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>一景胜千言</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.AntarcticArch_ZH-CN1622701432_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="冰雪凝息之处" style="width: 100%; border-radius: 8px;">
