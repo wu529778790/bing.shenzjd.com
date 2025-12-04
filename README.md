@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**为生存而疾驰** (2025-12-04)
+**绘制星图的城市** (2025-12-05)
 
-![为生存而疾驰](https://www.bing.com/th?id=OHR.CheetahMound_ZH-CN1970221812_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![绘制星图的城市](https://www.bing.com/th?id=OHR.CopanRuins_ZH-CN2157795324_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[马赛马拉国家保护区的猎豹, 纳罗克, 肯尼亚 (© Andy Rouse/naturepl.com)](https://www.bing.com/search?q=%E7%8C%8E%E8%B1%B9&form=hpcapt&mkt=zh-cn)
+[科潘的玛雅遗址，洪都拉斯 (© diegograndi/Getty Images)](https://www.bing.com/search?q=%E7%A7%91%E6%BD%98%E7%8E%9B%E9%9B%85%E9%81%97%E5%9D%80&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.CheetahMound_ZH-CN1970221812_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.CopanRuins_ZH-CN2157795324_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-12 月壁纸 (4 张)
+## 2025-12 月壁纸 (5 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.CheetahMound_ZH-CN1970221812_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="为生存而疾驰" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-12-04</strong> <a href="https://www.bing.com/th?id=OHR.CheetahMound_ZH-CN1970221812_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>为生存而疾驰</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.BosqueCranes_ZH-CN1838488224_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="曙光中的鹤影" style="width: 100%; border-radius: 8px;">
