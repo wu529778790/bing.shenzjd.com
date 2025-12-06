@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**佛罗里达州的生命湿地** (2025-12-06)
+**雪落下的声音** (2025-12-07)
 
-![佛罗里达州的生命湿地](https://www.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![雪落下的声音](https://www.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[大沼泽地国家公园的蜘蛛网，佛罗里达州，美国 (© Troy Harrison/Getty Images)](https://www.bing.com/search?q=%E5%A4%A7%E6%B2%BC%E6%B3%BD%E5%9C%B0%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+[雪中的故宫，中国北京 (© Ian.CuiYi/Getty Images)](https://www.bing.com/search?q=%E5%A4%A7%E9%9B%AA%E8%8A%82%E6%B0%94&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-12 月壁纸 (6 张)
+## 2025-12 月壁纸 (7 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="佛罗里达州的生命湿地" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-12-06</strong> <a href="https://www.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>佛罗里达州的生命湿地</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.CopanRuins_ZH-CN2157795324_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="绘制星图的城市" style="width: 100%; border-radius: 8px;">
