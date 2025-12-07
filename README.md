@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**雪落下的声音** (2025-12-07)
+**一切安详，一切明亮** (2025-12-08)
 
-![雪落下的声音](https://www.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![一切安详，一切明亮](https://www.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[雪中的故宫，中国北京 (© Ian.CuiYi/Getty Images)](https://www.bing.com/search?q=%E5%A4%A7%E9%9B%AA%E8%8A%82%E6%B0%94&form=hpcapt&mkt=zh-cn)
+[多马索的建筑上的圣诞彩灯，科莫湖，意大利 (© Roberto Moiola/Getty Images)](https://www.bing.com/search?q=%E7%A7%91%E8%8E%AB%E6%B9%96&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-12 月壁纸 (7 张)
+## 2025-12 月壁纸 (8 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="雪落下的声音" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-12-07</strong> <a href="https://www.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>雪落下的声音</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.EvergladesSunrise_ZH-CN2298606730_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="佛罗里达州的生命湿地" style="width: 100%; border-radius: 8px;">
