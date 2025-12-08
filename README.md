@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**一切安详，一切明亮** (2025-12-08)
+**说“茄子”……或者“青草”** (2025-12-09)
 
-![一切安详，一切明亮](https://www.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![说“茄子”……或者“青草”](https://www.bing.com/th?id=OHR.LlamaDay_ZH-CN2646855786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[多马索的建筑上的圣诞彩灯，科莫湖，意大利 (© Roberto Moiola/Getty Images)](https://www.bing.com/search?q=%E7%A7%91%E8%8E%AB%E6%B9%96&form=hpcapt&mkt=zh-cn)
+[原驼，北角，瓦尔德斯半岛, 阿根廷 (© Sylvain Cordier/naturepl.com)](https://www.bing.com/search?q=%E5%8E%9F%E9%A9%BC&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.LlamaDay_ZH-CN2646855786_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-12 月壁纸 (8 张)
+## 2025-12 月壁纸 (9 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="一切安详，一切明亮" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-12-08</strong> <a href="https://www.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>一切安详，一切明亮</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="雪落下的声音" style="width: 100%; border-radius: 8px;">
