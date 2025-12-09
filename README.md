@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**说“茄子”……或者“青草”** (2025-12-09)
+**文化交汇之地** (2025-12-10)
 
-![说“茄子”……或者“青草”](https://www.bing.com/th?id=OHR.LlamaDay_ZH-CN2646855786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![文化交汇之地](https://www.bing.com/th?id=OHR.CordobaCathedral_ZH-CN4603063077_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[原驼，北角，瓦尔德斯半岛, 阿根廷 (© Sylvain Cordier/naturepl.com)](https://www.bing.com/search?q=%E5%8E%9F%E9%A9%BC&form=hpcapt&mkt=zh-cn)
+[科尔多瓦清真寺大教堂的内部，安达卢西亚，西班牙 (© Elena Zolotova/Getty Images)](https://www.bing.com/search?q=%E7%A7%91%E5%B0%94%E5%A4%9A%E7%93%A6%E6%B8%85%E7%9C%9F%E5%AF%BA%E5%A4%A7%E6%95%99%E5%A0%82&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.LlamaDay_ZH-CN2646855786_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.CordobaCathedral_ZH-CN4603063077_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-12 月壁纸 (9 张)
+## 2025-12 月壁纸 (10 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.LlamaDay_ZH-CN2646855786_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="说“茄子”……或者“青草”" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-12-09</strong> <a href="https://www.bing.com/th?id=OHR.LlamaDay_ZH-CN2646855786_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>说“茄子”……或者“青草”</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.ComoChristmas_ZH-CN2565627033_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="一切安详，一切明亮" style="width: 100%; border-radius: 8px;">
