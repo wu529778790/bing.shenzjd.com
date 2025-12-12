@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**点亮节日的红色植物** (2025-12-12)
+**冰封的倒影** (2025-12-13)
 
-![点亮节日的红色植物](https://www.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![冰封的倒影](https://www.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[有斑点的一品红 (© DigiPub/Getty Images)](https://www.bing.com/search?q=%E4%B8%80%E5%93%81%E7%BA%A2&form=hpcapt&mkt=zh-cn)
+[默塞德河, 优胜美地国家公园, 加利福尼亚, 美国 (© Ron and Patty Thomas/Getty Images)](https://www.bing.com/search?q=%E9%BB%98%E5%A1%9E%E5%BE%B7%E6%B2%B3&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-12 月壁纸 (12 张)
+## 2025-12 月壁纸 (13 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="点亮节日的红色植物" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-12-12</strong> <a href="https://www.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>点亮节日的红色植物</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.EverestGlow_ZH-CN4985720231_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="天地相接之处" style="width: 100%; border-radius: 8px;">
