@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**冰封的倒影** (2025-12-13)
+**假日鸟类大比拼** (2025-12-14)
 
-![冰封的倒影](https://www.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![假日鸟类大比拼](https://www.bing.com/th?id=OHR.TuftedTitmouse_ZH-CN4154825372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[默塞德河, 优胜美地国家公园, 加利福尼亚, 美国 (© Ron and Patty Thomas/Getty Images)](https://www.bing.com/search?q=%E9%BB%98%E5%A1%9E%E5%BE%B7%E6%B2%B3&form=hpcapt&mkt=zh-cn)
+[簇山雀栖息在松枝上, 马萨诸塞州, 美国 (© Tim Laman/NPL/Minden Pictures)](https://www.bing.com/search?q=%E7%B0%87%E5%B1%B1%E9%9B%80&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.TuftedTitmouse_ZH-CN4154825372_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-12 月壁纸 (13 张)
+## 2025-12 月壁纸 (14 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="冰封的倒影" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-12-13</strong> <a href="https://www.bing.com/th?id=OHR.YosemiteWinter_ZH-CN3824387818_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>冰封的倒影</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="点亮节日的红色植物" style="width: 100%; border-radius: 8px;">
