@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**静谧水波，闪耀灯影** (2025-12-15)
+**小帽子，大能量** (2025-12-16)
 
-![静谧水波，闪耀灯影](https://www.bing.com/th?id=OHR.AmsterdamLights_ZH-CN4288146509_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![小帽子，大能量](https://www.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[斯皮格尔运河上的灯光装饰, 阿姆斯特丹, 荷兰 (© Amith Nag Photography/Getty Images)](https://www.bing.com/search?q=%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9%E8%BF%90%E6%B2%B3&form=hpcapt&mkt=zh-cn)
+[圣诞市场上的手工小矮人 (© Veronika Seppanen/Shutterstock)](https://www.bing.com/search?q=%E5%9C%A3%E8%AF%9E%E5%9C%B0%E7%B2%BE&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.AmsterdamLights_ZH-CN4288146509_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-12 月壁纸 (15 张)
+## 2025-12 月壁纸 (16 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.AmsterdamLights_ZH-CN4288146509_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="静谧水波，闪耀灯影" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-12-15</strong> <a href="https://www.bing.com/th?id=OHR.AmsterdamLights_ZH-CN4288146509_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>静谧水波，闪耀灯影</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.TuftedTitmouse_ZH-CN4154825372_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="假日鸟类大比拼" style="width: 100%; border-radius: 8px;">
