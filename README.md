@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**小帽子，大能量** (2025-12-16)
+**皮毛、霜冻和盛宴** (2025-12-17)
 
-![小帽子，大能量](https://www.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![皮毛、霜冻和盛宴](https://www.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[圣诞市场上的手工小矮人 (© Veronika Seppanen/Shutterstock)](https://www.bing.com/search?q=%E5%9C%A3%E8%AF%9E%E5%9C%B0%E7%B2%BE&form=hpcapt&mkt=zh-cn)
+[在诺森伯兰郡的欧亚红松鼠, 英格兰 (© Michael_Conrad/Getty Images)](https://www.bing.com/search?q=%E6%AC%A7%E4%BA%9A%E7%BA%A2%E6%9D%BE%E9%BC%A0&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-12 月壁纸 (16 张)
+## 2025-12 月壁纸 (17 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="小帽子，大能量" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-12-16</strong> <a href="https://www.bing.com/th?id=OHR.ChristmasGnomes_ZH-CN4405839101_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>小帽子，大能量</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.AmsterdamLights_ZH-CN4288146509_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="静谧水波，闪耀灯影" style="width: 100%; border-radius: 8px;">
