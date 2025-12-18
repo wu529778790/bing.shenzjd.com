@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**犹他州的时光层叠** (2025-12-18)
+**高山的悠久历史** (2025-12-19)
 
-![犹他州的时光层叠](https://www.bing.com/th?id=OHR.CathedralValley_ZH-CN5237441521_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![高山的悠久历史](https://www.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[太阳神庙，圆顶礁国家公园, 犹他州, 美国 (© Austin Cronnelly/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E5%9C%86%E9%A1%B6%E7%A4%81%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+[博尔米奥的雪景，伦巴第大区，意大利 (© Roberto Moiola/Getty Images)](https://www.bing.com/search?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E5%8D%9A%E5%B0%94%E7%B1%B3%E5%A5%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.CathedralValley_ZH-CN5237441521_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-12 月壁纸 (18 张)
+## 2025-12 月壁纸 (19 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.CathedralValley_ZH-CN5237441521_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="犹他州的时光层叠" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-12-18</strong> <a href="https://www.bing.com/th?id=OHR.CathedralValley_ZH-CN5237441521_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>犹他州的时光层叠</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.FrostySquirrel_ZH-CN4613360783_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="皮毛、霜冻和盛宴" style="width: 100%; border-radius: 8px;">
