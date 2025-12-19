@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**高山的悠久历史** (2025-12-19)
+**闪烁的纸星星** (2025-12-20)
 
-![高山的悠久历史](https://www.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![闪烁的纸星星](https://www.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[博尔米奥的雪景，伦巴第大区，意大利 (© Roberto Moiola/Getty Images)](https://www.bing.com/search?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E5%8D%9A%E5%B0%94%E7%B1%B3%E5%A5%A5&form=hpcapt&mkt=zh-cn)
+[圣诞星形灯笼，德国 (© artas/Getty Images)](https://www.bing.com/search?q=%E6%91%A9%E6%8B%89%E7%BB%B4%E4%BA%9A%E4%B9%8B%E6%98%9F&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-12 月壁纸 (19 张)
+## 2025-12 月壁纸 (20 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="高山的悠久历史" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-12-19</strong> <a href="https://www.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>高山的悠久历史</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.CathedralValley_ZH-CN5237441521_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="犹他州的时光层叠" style="width: 100%; border-radius: 8px;">
