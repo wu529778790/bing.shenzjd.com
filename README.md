@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**闪烁的纸星星** (2025-12-20)
+**美丽的雾凇景色** (2025-12-21)
 
-![闪烁的纸星星](https://www.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![美丽的雾凇景色](https://www.bing.com/th?id=OHR.WintersolsticeY25_ZH-CN6462419684_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[圣诞星形灯笼，德国 (© artas/Getty Images)](https://www.bing.com/search?q=%E6%91%A9%E6%8B%89%E7%BB%B4%E4%BA%9A%E4%B9%8B%E6%98%9F&form=hpcapt&mkt=zh-cn)
+[美丽的雾凇景色，大庆市，黑龙江省，中国 (© Dashu Xinganling/shutterstock)](https://www.bing.com/search?q=%E5%86%AC%E8%87%B3&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.WintersolsticeY25_ZH-CN6462419684_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-12 月壁纸 (20 张)
+## 2025-12 月壁纸 (21 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="闪烁的纸星星" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-12-20</strong> <a href="https://www.bing.com/th?id=OHR.StarLanterns_ZH-CN5598071900_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>闪烁的纸星星</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.BormioItaly_ZH-CN5397313772_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="高山的悠久历史" style="width: 100%; border-radius: 8px;">
