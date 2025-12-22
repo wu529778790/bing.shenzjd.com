@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**历史与现代的交融** (2025-12-22)
+**当节日的魔法踩着蹄声而来** (2025-12-23)
 
-![历史与现代的交融](https://www.bing.com/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![当节日的魔法踩着蹄声而来](https://www.bing.com/th?id=OHR.ReindeerFinland_ZH-CN6822163943_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[法兰克福老桥，德国 (© diegograndi/Getty Images)](https://www.bing.com/search?q=%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%E8%80%81%E6%A1%A5&form=hpcapt&mkt=zh-cn)
+[冬雪中的驯鹿，拉普兰德，芬兰 (© Roberto Moiola/Getty Images)](https://www.bing.com/search?q=%E9%A9%AF%E9%B9%BF&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.ReindeerFinland_ZH-CN6822163943_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-12 月壁纸 (22 张)
+## 2025-12 月壁纸 (23 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="历史与现代的交融" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-12-22</strong> <a href="https://www.bing.com/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>历史与现代的交融</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.WintersolsticeY25_ZH-CN6462419684_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="美丽的雾凇景色" style="width: 100%; border-radius: 8px;">
