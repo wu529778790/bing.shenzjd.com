@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       bing-wallpaper-api:
-        specifier: ^1.0.14
-        version: 1.0.14
+        specifier: ^1.0.33
+        version: 1.0.33
       fs-extra:
         specifier: ^11.1.1
         version: 11.3.0
@@ -20,8 +20,8 @@ importers:
 
 packages:
 
-  bing-wallpaper-api@1.0.14:
-    resolution: {integrity: sha512-b7Sn7zTWuHDFCByI/qOx4ioTsgQw1o3UMv3pQuGh0nvpGuHI0cfYZFZtf+28+Nvc+iEPozZbDTutFtu2zagA4g==}
+  bing-wallpaper-api@1.0.33:
+    resolution: {integrity: sha512-M20WmSFqLFCRxWg2X9fiAHVRDrxo4C1Htpjx+XRcVw49kSb3V0m6cHZ76CZpIRWA8ax+28Rg6HbyqYSvF/Su5Q==}
 
   dayjs@1.11.13:
     resolution: {integrity: sha512-oaMBel6gjolK862uaPQOVTA7q3TZhuSvuMQAAglQDOWYO9A91IrAOUJEyKVlqJlHE0vq5p5UXxzdPfMH/x6xNg==}
@@ -45,7 +45,7 @@ packages:
 
 snapshots:
 
-  bing-wallpaper-api@1.0.14:
+  bing-wallpaper-api@1.0.33:
     dependencies:
       dayjs: 1.11.13
 
