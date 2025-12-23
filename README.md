@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**当节日的魔法踩着蹄声而来** (2025-12-23)
+**流动的传统** (2025-12-24)
 
-![当节日的魔法踩着蹄声而来](https://www.bing.com/th?id=OHR.ReindeerFinland_ZH-CN6822163943_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![流动的传统](https://www.bing.com/th?id=OHR.ElmauChapel_ZH-CN6919330333_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[冬雪中的驯鹿，拉普兰德，芬兰 (© Roberto Moiola/Getty Images)](https://www.bing.com/search?q=%E9%A9%AF%E9%B9%BF&form=hpcapt&mkt=zh-cn)
+[巴伐利亚阿尔卑斯山脉的雪中教堂与圣诞树，德国 (© mauritius images GmbH/Alamy)](https://www.bing.com/search?q=%E5%B9%B3%E5%AE%89%E5%A4%9C&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.ReindeerFinland_ZH-CN6822163943_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.ElmauChapel_ZH-CN6919330333_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-12 月壁纸 (23 张)
+## 2025-12 月壁纸 (24 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.ReindeerFinland_ZH-CN6822163943_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="当节日的魔法踩着蹄声而来" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-12-23</strong> <a href="https://www.bing.com/th?id=OHR.ReindeerFinland_ZH-CN6822163943_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>当节日的魔法踩着蹄声而来</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.FrankfurtAlteBruecke_ZH-CN6621478221_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="历史与现代的交融" style="width: 100%; border-radius: 8px;">
