@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**微缩世界，无尽奇想** (2025-12-25)
+**打破盒子的传统** (2025-12-26)
 
-![微缩世界，无尽奇想](https://www.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![打破盒子的传统](https://www.bing.com/th?id=OHR.WiltshireDawn_ZH-CN2887906329_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[海德堡圣诞市场上的雪球，德国 (© George Pachantouris/Getty Images)](https://www.bing.com/search?q=%E5%9C%A3%E8%AF%9E%E8%8A%82&form=hpcapt&mkt=zh-cn)
+[索尔兹伯里大教堂，威尔特郡，英格兰 (© Julian Elliott Photography/Getty Images)](https://www.bing.com/search?q=%E8%8A%82%E7%A4%BC%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.WiltshireDawn_ZH-CN2887906329_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-12 月壁纸 (25 张)
+## 2025-12 月壁纸 (26 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="微缩世界，无尽奇想" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-12-25</strong> <a href="https://www.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>微缩世界，无尽奇想</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.ElmauChapel_ZH-CN6919330333_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="流动的传统" style="width: 100%; border-radius: 8px;">
