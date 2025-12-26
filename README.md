@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**打破盒子的传统** (2025-12-26)
+**冬之碎片** (2025-12-27)
 
-![打破盒子的传统](https://www.bing.com/th?id=OHR.WiltshireDawn_ZH-CN2887906329_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![冬之碎片](https://www.bing.com/th?id=OHR.SuperiorIceMN_ZH-CN5339027344_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[索尔兹伯里大教堂，威尔特郡，英格兰 (© Julian Elliott Photography/Getty Images)](https://www.bing.com/search?q=%E8%8A%82%E7%A4%BC%E6%97%A5&form=hpcapt&mkt=zh-cn)
+[苏必利尔湖沿岸的冰层，大马雷，明尼苏达州，美国 (© wanderluster/Getty Images)](https://www.bing.com/search?q=%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BE%E5%B7%9E%E8%8B%8F%E5%BF%85%E5%88%A9%E5%B0%94%E6%B9%96&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.WiltshireDawn_ZH-CN2887906329_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.SuperiorIceMN_ZH-CN5339027344_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-12 月壁纸 (26 张)
+## 2025-12 月壁纸 (27 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.WiltshireDawn_ZH-CN2887906329_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="打破盒子的传统" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-12-26</strong> <a href="https://www.bing.com/th?id=OHR.WiltshireDawn_ZH-CN2887906329_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>打破盒子的传统</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SantaGlobe_ZH-CN7032279153_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="微缩世界，无尽奇想" style="width: 100%; border-radius: 8px;">
