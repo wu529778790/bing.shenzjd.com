@@ -3,55 +3,107 @@ const fs = require("fs-extra");
 const moment = require("moment");
 const path = require("path");
 
+/**
+ * 延迟函数
+ */
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
 class BingWallpaperFetcher {
   constructor() {
     this.archiveDir = path.join(__dirname, "../archives");
     this.readmeFile = path.join(__dirname, "../README.md");
+
+    // 缓存机制
+    this.cache = {
+      monthlyFiles: new Map(), // key: monthKey, value: { content, wallpapers, timestamp }
+      archiveMonths: null,
+    };
+
+    // 重试配置
+    this.retryConfig = {
+      maxRetries: 3,
+      initialDelay: 1000, // 1秒
+      maxDelay: 10000, // 10秒
+      backoffMultiplier: 2,
+    };
   }
 
   /**
-   * 获取今日必应壁纸数据
+   * 带重试机制的 API 调用
+   */
+  async fetchWithRetry(apiCall, operationName, retryCount = 0) {
+    try {
+      return await apiCall();
+    } catch (error) {
+      if (retryCount >= this.retryConfig.maxRetries) {
+        console.error(`❌ ${operationName} 在 ${this.retryConfig.maxRetries} 次重试后仍然失败`);
+        throw error;
+      }
+
+      // 计算退避时间
+      const delay = Math.min(
+        this.retryConfig.initialDelay * Math.pow(this.retryConfig.backoffMultiplier, retryCount),
+        this.retryConfig.maxDelay
+      );
+
+      console.warn(`⚠️ ${operationName} 失败: ${error.message}`);
+      console.log(`🔄 第 ${retryCount + 1}/${this.retryConfig.maxRetries} 次重试，等待 ${delay}ms...`);
+
+      await sleep(delay);
+      return this.fetchWithRetry(apiCall, operationName, retryCount + 1);
+    }
+  }
+
+  /**
+   * 获取今日必应壁纸数据（带重试）
    */
   async fetchTodayBingWallpaper() {
-    try {
-      console.log("正在获取今日必应壁纸数据...");
+    console.log("正在获取今日必应壁纸数据...");
 
-      // 只获取今天的壁纸
-      const targetDate = moment().format("YYYY-MM-DD");
+    // 只获取今天的壁纸
+    const targetDate = moment().format("YYYY-MM-DD");
 
-      // 获取显示用的普通分辨率版本
-      const displayWallpaper = await getBingWallpaper({
-        date: targetDate,
-        resolution: "1920x1080",
-        market: "zh-CN",
-      });
+    // 获取显示用的普通分辨率版本
+    const displayWallpaper = await this.fetchWithRetry(
+      async () => {
+        return await getBingWallpaper({
+          date: targetDate,
+          resolution: "1920x1080",
+          market: "zh-CN",
+        });
+      },
+      "获取 1080p 壁纸"
+    );
 
-      // 获取下载用的4K版本
-      const downloadWallpaper = await getBingWallpaper({
-        date: targetDate,
-        resolution: "UHD",
-        market: "zh-CN",
-      });
+    // 获取下载用的4K版本
+    const downloadWallpaper = await this.fetchWithRetry(
+      async () => {
+        return await getBingWallpaper({
+          date: targetDate,
+          resolution: "UHD",
+          market: "zh-CN",
+        });
+      },
+      "获取 4K 壁纸"
+    );
 
-      // 合并数据
-      const wallpaperData = {
-        ...displayWallpaper,
-        displayUrl: displayWallpaper.url,
-        downloadUrl4k: downloadWallpaper.url,
-      };
+    // 合并数据
+    const wallpaperData = {
+      ...displayWallpaper,
+      displayUrl: displayWallpaper.url,
+      downloadUrl4k: downloadWallpaper.url,
+    };
 
-      console.log("=== 今日壁纸数据 ===");
-      console.log("标题:", wallpaperData.title);
-      console.log("开始日期:", wallpaperData.startdate);
-      console.log("显示URL:", wallpaperData.displayUrl);
-      console.log("下载URL:", wallpaperData.downloadUrl4k);
-      console.log("===================");
+    console.log("=== 今日壁纸数据 ===");
+    console.log("标题:", wallpaperData.title);
+    console.log("开始日期:", wallpaperData.startdate);
+    console.log("显示URL:", wallpaperData.displayUrl);
+    console.log("下载URL:", wallpaperData.downloadUrl4k);
+    console.log("===================");
 
-      return wallpaperData;
-    } catch (error) {
-      console.error("获取今日必应壁纸数据失败:", error.message);
-      throw error;
-    }
+    return wallpaperData;
   }
 
   /**
@@ -86,33 +138,65 @@ class BingWallpaperFetcher {
   }
 
   /**
-   * 检查指定日期的壁纸是否已经存在
+   * 从缓存或文件读取月度归档内容
    */
-  async checkWallpaperExists(wallpaper) {
-    const monthFile = path.join(this.archiveDir, `${wallpaper.monthName}.md`);
+  async readMonthlyFile(monthKey, useCache = true) {
+    const cacheKey = monthKey;
+
+    // 检查缓存是否有效（5分钟内有效）
+    if (useCache && this.cache.monthlyFiles.has(cacheKey)) {
+      const cached = this.cache.monthlyFiles.get(cacheKey);
+      const now = Date.now();
+      if (now - cached.timestamp < 5 * 60 * 1000) {
+        console.log(`📦 使用缓存读取 ${monthKey} 归档`);
+        return cached.content;
+      }
+    }
+
+    // 缓存失效，从文件读取
+    const monthFile = path.join(this.archiveDir, `${monthKey}.md`);
 
     try {
       if (await fs.pathExists(monthFile)) {
         const content = await fs.readFile(monthFile, "utf8");
-        // 检查是否包含当前日期
-        return content.includes(`## ${wallpaper.date}`);
+
+        // 更新缓存
+        this.cache.monthlyFiles.set(cacheKey, {
+          content,
+          timestamp: Date.now(),
+        });
+
+        return content;
       }
     } catch (error) {
-      console.warn(`检查壁纸存在性失败: ${error.message}`);
-      // 返回false，让调用方决定如何处理错误
-      return false;
+      console.warn(`读取月度归档失败: ${error.message}`);
+      return null;
+    }
+
+    return null;
+  }
+
+  /**
+   * 检查指定日期的壁纸是否已经存在（使用缓存）
+   */
+  async checkWallpaperExists(wallpaper) {
+    const content = await this.readMonthlyFile(wallpaper.monthName);
+
+    if (content) {
+      // 检查是否包含当前日期
+      return content.includes(`## ${wallpaper.date}`);
     }
 
     return false;
   }
 
   /**
-   * 追加新壁纸到月度归档
+   * 追加新壁纸到月度归档（带备份和缓存优化）
    */
   async appendToMonthlyArchive(wallpaper) {
     await this.ensureDirectoryExists(this.archiveDir);
 
-    // 检查壁纸是否已经存在
+    // 检查壁纸是否已经存在（使用缓存）
     const exists = await this.checkWallpaperExists(wallpaper);
     if (exists) {
       console.log(`壁纸 ${wallpaper.date} 已存在，跳过保存`);
@@ -127,14 +211,22 @@ class BingWallpaperFetcher {
     // 生成新壁纸的 markdown 内容
     const newWallpaperContent = this.generateWallpaperMarkdown(wallpaper);
 
+    // 创建备份（如果文件存在）
+    let backupContent = null;
+    if (await fs.pathExists(monthFile)) {
+      backupContent = await fs.readFile(monthFile, "utf8");
+      console.log(`📦 已创建备份，准备更新 ${wallpaper.monthName} 归档`);
+    }
+
     try {
       // 检查月份文件是否存在
-      if (await fs.pathExists(monthFile)) {
-        // 文件存在，追加内容
+      if (backupContent !== null) {
+        // 文件存在，追加内容（使用已读取的内容）
         await this.insertWallpaperIntoExistingFile(
           monthFile,
           wallpaper,
-          newWallpaperContent
+          newWallpaperContent,
+          backupContent
         );
       } else {
         // 文件不存在，创建新文件
@@ -145,10 +237,25 @@ class BingWallpaperFetcher {
         );
       }
 
-      console.log(`已保存壁纸到归档: ${wallpaper.date}`);
+      // 清除缓存，确保下次读取最新内容
+      this.cache.monthlyFiles.delete(wallpaper.monthName);
+
+      console.log(`✅ 已保存壁纸到归档: ${wallpaper.date}`);
       return true;
     } catch (error) {
-      console.error(`保存月度归档失败: ${error.message}`);
+      console.error(`❌ 保存月度归档失败: ${error.message}`);
+
+      // 回滚：恢复备份
+      if (backupContent !== null) {
+        console.log(`🔄 正在回滚备份...`);
+        try {
+          await fs.writeFile(monthFile, backupContent, "utf8");
+          console.log(`✅ 回滚成功`);
+        } catch (rollbackError) {
+          console.error(`❌ 回滚失败: ${rollbackError.message}`);
+        }
+      }
+
       throw error;
     }
   }
@@ -168,9 +275,13 @@ class BingWallpaperFetcher {
 
   /**
    * 在现有文件中插入新壁纸（按日期顺序）
+   * 优化：直接传入已读取的内容，避免重复 I/O
    */
-  async insertWallpaperIntoExistingFile(monthFile, wallpaper, newContent) {
-    const existingContent = await fs.readFile(monthFile, "utf8");
+  async insertWallpaperIntoExistingFile(monthFile, wallpaper, newContent, existingContent = null) {
+    // 如果没有提供现有内容，才从文件读取
+    if (existingContent === null) {
+      existingContent = await fs.readFile(monthFile, "utf8");
+    }
 
     // 找到插入位置（按日期降序排列）
     const lines = existingContent.split("\n");
@@ -189,6 +300,8 @@ class BingWallpaperFetcher {
     if (headerEndIndex === 0) {
       const updatedContent = existingContent + newContent;
       await fs.writeFile(monthFile, updatedContent, "utf8");
+      // 更新统计
+      await this.refreshMonthlyHeaderCount(monthFile);
       return;
     }
 
@@ -213,7 +326,7 @@ class BingWallpaperFetcher {
       updatedContent = lines.join("\n");
     }
 
-    // 先写入更新后的内容，再更新统计数量
+    // 写入更新后的内容
     await fs.writeFile(monthFile, updatedContent, "utf8");
 
     // 更新文件头部的统计数量
@@ -361,43 +474,49 @@ class BingWallpaperFetcher {
   }
 
   /**
-   * 获取指定月份的所有壁纸数据
+   * 获取指定月份的所有壁纸数据（使用缓存）
    */
   async getMonthlyWallpapers(monthKey) {
-    const monthFile = path.join(this.archiveDir, `${monthKey}.md`);
     const wallpapers = [];
 
-    try {
-      // 检查月度归档文件是否存在
-      if (await fs.pathExists(monthFile)) {
-        const content = await fs.readFile(monthFile, "utf8");
+    // 使用缓存读取月度文件
+    const content = await this.readMonthlyFile(monthKey);
 
-        // 解析 markdown 文件提取壁纸信息
-        const sections = content.split("## ").slice(1); // 移除第一个空部分
+    if (content) {
+      // 解析 markdown 文件提取壁纸信息
+      const sections = content.split("## ").slice(1); // 移除第一个空部分
 
-        for (const section of sections) {
-          const wallpaperInfo = this.extractWallpaperInfo(section);
-          if (wallpaperInfo) {
-            wallpapers.push(wallpaperInfo);
-          }
+      for (const section of sections) {
+        const wallpaperInfo = this.extractWallpaperInfo(section);
+        if (wallpaperInfo) {
+          wallpapers.push(wallpaperInfo);
         }
-
-        // 按日期倒序排列（最新的在前）
-        wallpapers.sort((a, b) => new Date(b.date) - new Date(a.date));
       }
 
-      console.log(`已读取 ${monthKey} 的 ${wallpapers.length} 张壁纸`);
-    } catch (error) {
-      console.warn(`读取月度归档失败: ${error.message}`);
+      // 按日期倒序排列（最新的在前）
+      wallpapers.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+      console.log(`📦 已读取 ${monthKey} 的 ${wallpapers.length} 张壁纸`);
+    } else {
+      console.log(`ℹ️ ${monthKey} 归档文件不存在`);
     }
 
     return wallpapers;
   }
 
   /**
-   * 获取所有归档月份
+   * 获取所有归档月份（使用缓存）
    */
   async getArchiveMonths() {
+    // 检查缓存（5分钟有效）
+    if (this.cache.archiveMonths) {
+      const now = Date.now();
+      if (now - this.cache.archiveMonths.timestamp < 5 * 60 * 1000) {
+        console.log(`📦 使用缓存读取归档月份列表`);
+        return this.cache.archiveMonths.months;
+      }
+    }
+
     try {
       const files = await fs.readdir(this.archiveDir);
       const months = files
@@ -405,6 +524,13 @@ class BingWallpaperFetcher {
         .map((file) => file.replace(".md", ""))
         .sort((a, b) => b.localeCompare(a)); // 按时间倒序排列
 
+      // 更新缓存
+      this.cache.archiveMonths = {
+        months,
+        timestamp: Date.now(),
+      };
+
+      console.log(`📦 已读取归档月份列表: ${months.length} 个月`);
       return months;
     } catch (error) {
       console.warn(`读取归档目录失败: ${error.message}`);
@@ -436,11 +562,27 @@ class BingWallpaperFetcher {
   }
 
   /**
+   * 显示优化统计信息
+   */
+  showOptimizationStats() {
+    console.log("\n📊 优化统计信息:");
+    console.log("==================");
+    console.log(`缓存命中统计:`);
+    console.log(`  - 月度文件缓存: ${this.cache.monthlyFiles.size} 个`);
+    if (this.cache.archiveMonths) {
+      console.log(`  - 归档月份缓存: 已缓存 (${this.cache.archiveMonths.months.length} 个月)`);
+    }
+    console.log(`重试配置: ${this.retryConfig.maxRetries} 次重试，最大延迟 ${this.retryConfig.maxDelay}ms`);
+    console.log("==================\n");
+  }
+
+  /**
    * 主要执行函数
    */
   async run() {
     try {
       console.log("🚀 开始获取今日必应壁纸...");
+      console.log("⚡ 已启用优化: 重试机制 + 缓存 + 数据备份");
 
       // 获取今日壁纸数据
       const todayWallpaper = await this.fetchTodayBingWallpaper();
@@ -467,6 +609,9 @@ class BingWallpaperFetcher {
 
       // 更新 README（总是更新以确保显示最新数据）
       await this.updateReadme(processedWallpaper);
+
+      // 显示优化统计
+      this.showOptimizationStats();
 
       console.log("✅ 所有任务完成！");
     } catch (error) {
