@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**仍存野性** (2025-12-28)
+**一座比城市更悠久的教堂** (2025-12-29)
 
-![仍存野性](https://www.bing.com/th?id=OHR.RuffedLemur_ZH-CN5636795490_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![一座比城市更悠久的教堂](https://www.bing.com/th?id=OHR.AniTurkey_ZH-CN5838141955_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[马达加斯加的黑白环尾狐猴 (© Cyrielle Beaubois/Getty Images)](https://www.bing.com/search?q=%E9%BB%91%E7%99%BD%E7%8E%AF%E5%B0%BE%E7%8B%90%E7%8C%B4&form=hpcapt&mkt=zh-cn)
+[阿尼遗址的圣格雷戈里教堂，卡尔斯省，土耳其 (© Kenan Talas/Getty Images)](https://www.bing.com/search?q=%E5%9C%9F%E8%80%B3%E5%85%B6%E9%98%BF%E5%B0%BC%E9%81%97%E5%9D%80&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.RuffedLemur_ZH-CN5636795490_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.AniTurkey_ZH-CN5838141955_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-12 月壁纸 (28 张)
+## 2025-12 月壁纸 (29 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.RuffedLemur_ZH-CN5636795490_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="仍存野性" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-12-28</strong> <a href="https://www.bing.com/th?id=OHR.RuffedLemur_ZH-CN5636795490_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>仍存野性</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SuperiorIceMN_ZH-CN5339027344_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="冬之碎片" style="width: 100%; border-radius: 8px;">
