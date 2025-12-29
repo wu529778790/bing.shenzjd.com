@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**一座比城市更悠久的教堂** (2025-12-29)
+**新太阳的诞生** (2025-12-30)
 
-![一座比城市更悠久的教堂](https://www.bing.com/th?id=OHR.AniTurkey_ZH-CN5838141955_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![新太阳的诞生](https://www.bing.com/th?id=OHR.SwedenSolstice_ZH-CN8975506700_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[阿尼遗址的圣格雷戈里教堂，卡尔斯省，土耳其 (© Kenan Talas/Getty Images)](https://www.bing.com/search?q=%E5%9C%9F%E8%80%B3%E5%85%B6%E9%98%BF%E5%B0%BC%E9%81%97%E5%9D%80&form=hpcapt&mkt=zh-cn)
+[晨光透过结霜的树木洒下，瑞典 (© Schon/Getty Images)](https://www.bing.com/search?q=%E5%8C%97%E5%8D%8A%E7%90%83%E7%9A%84%E5%86%AC%E5%AD%A3&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.AniTurkey_ZH-CN5838141955_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.SwedenSolstice_ZH-CN8975506700_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2025-12 月壁纸 (29 张)
+## 2025-12 月壁纸 (30 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.AniTurkey_ZH-CN5838141955_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="一座比城市更悠久的教堂" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-12-29</strong> <a href="https://www.bing.com/th?id=OHR.AniTurkey_ZH-CN5838141955_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>一座比城市更悠久的教堂</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.RuffedLemur_ZH-CN5636795490_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="仍存野性" style="width: 100%; border-radius: 8px;">
