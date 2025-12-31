@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**柏林，新年之桥** (2025-12-31)
+**伸个懒腰，迈向新年！** (2026-01-01)
 
-![柏林，新年之桥](https://www.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![伸个懒腰，迈向新年！](https://www.bing.com/th?id=OHR.NewYearFox_ZH-CN9312618796_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[除夕夜，奥伯鲍姆桥，柏林，德国 (© spreephoto.de/Getty Images)](https://www.bing.com/search?q=%E9%99%A4%E5%A4%95%E5%A4%9C&form=hpcapt&mkt=zh-cn)
+[正在睡觉的北极狐 (© Chansak Joe/Getty Images)](https://www.bing.com/search?q=%E5%85%83%E6%97%A6&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.NewYearFox_ZH-CN9312618796_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
 ## 2025-12 月壁纸 (31 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="柏林，新年之桥" style="width: 100%; border-radius: 8px;">
+<p><strong>2025-12-31</strong> <a href="https://www.bing.com/th?id=OHR.GermanyNewYear_ZH-CN9155122755_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>柏林，新年之桥</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SwedenSolstice_ZH-CN8975506700_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="新太阳的诞生" style="width: 100%; border-radius: 8px;">
@@ -198,7 +204,7 @@
 
 ## 历史归档
 
-[2025-12](./archives/2025-12.md) | [2025-11](./archives/2025-11.md) | [2025-10](./archives/2025-10.md) | [2025-09](./archives/2025-09.md) | [2025-08](./archives/2025-08.md) | [2025-07](./archives/2025-07.md) | [2025-02](./archives/2025-02.md)
+[2026-01](./archives/2026-01.md) | [2025-12](./archives/2025-12.md) | [2025-11](./archives/2025-11.md) | [2025-10](./archives/2025-10.md) | [2025-09](./archives/2025-09.md) | [2025-08](./archives/2025-08.md) | [2025-07](./archives/2025-07.md) | [2025-02](./archives/2025-02.md)
 
 ## 关于
 
