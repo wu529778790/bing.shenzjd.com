@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**高角羚群紧急戒备** (2026-01-05)
+**努克的慵懒时光** (2026-01-06)
 
-![高角羚群紧急戒备](https://www.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![努克的慵懒时光](https://www.bing.com/th?id=OHR.NuukGreenland_ZH-CN2414771686_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[一群高角羚, 隆多洛齐野生动物保护区, 南非 (© Mint Images/Getty Images)](https://www.bing.com/search?q=%E9%AB%98%E8%A7%92%E7%BE%9A&form=hpcapt&mkt=zh-cn)
+[努克, 格陵兰 (© nevereverro/Getty Images)](https://www.bing.com/search?q=%E5%8A%AA%E5%85%8B%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.NuukGreenland_ZH-CN2414771686_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-01 月壁纸 (5 张)
+## 2026-01 月壁纸 (6 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="高角羚群紧急戒备" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-01-05</strong> <a href="https://www.bing.com/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>高角羚群紧急戒备</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.KingMountain_ZH-CN0397508222_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="王者视野" style="width: 100%; border-radius: 8px;">
