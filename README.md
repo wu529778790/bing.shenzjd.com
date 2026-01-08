@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**废墟之上，椋鸟群舞** (2026-01-08)
+**时光在此处茁壮成长** (2026-01-09)
 
-![废墟之上，椋鸟群舞](https://www.bing.com/th?id=OHR.StarlingBrighton2025_ZH-CN2775446092_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![时光在此处茁壮成长](https://www.bing.com/th?id=OHR.MuirWoodsMonument_ZH-CN2985538001_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[椋鸟群在布莱顿西码头废墟上空盘旋, 英格兰 (© Philip Reeve/Photodisc/Getty Images)](https://www.bing.com/search?q=%E6%A4%8B%E9%B8%9F&form=hpcapt&mkt=zh-cn)
+[缪尔树林国家保护区的巨型红杉树林, 加利福尼亚州, 美国 (© photo by canderson/Getty Images)](https://www.bing.com/search?q=%E7%BC%AA%E5%B0%94%E6%A0%91%E6%9E%97%E5%9B%BD%E5%AE%B6%E4%BF%9D%E6%8A%A4%E5%8C%BA&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.StarlingBrighton2025_ZH-CN2775446092_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.MuirWoodsMonument_ZH-CN2985538001_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-01 月壁纸 (8 张)
+## 2026-01 月壁纸 (9 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.StarlingBrighton2025_ZH-CN2775446092_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="废墟之上，椋鸟群舞" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-01-08</strong> <a href="https://www.bing.com/th?id=OHR.StarlingBrighton2025_ZH-CN2775446092_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>废墟之上，椋鸟群舞</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.OldRockArch_ZH-CN2061140260_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="古老岩石的传奇" style="width: 100%; border-radius: 8px;">
