@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**纯粹的瑞士魔力** (2026-01-10)
+**从抗拒到绽放** (2026-01-11)
 
-![纯粹的瑞士魔力](https://www.bing.com/th?id=OHR.MatterhornSunrise_ZH-CN3171879631_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![从抗拒到绽放](https://www.bing.com/th?id=OHR.BlueMorocco_ZH-CN3296596109_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[日出时分，马特洪峰的倒影映照在斯特利湖中, 采尔马特, 瑞士 (© Andy Trowbridge/naturepl.com)](https://www.bing.com/search?q=%E9%A9%AC%E7%89%B9%E6%B4%AA%E5%B3%B0&form=hpcapt&mkt=zh-cn)
+[舍夫沙万的蓝色墙壁, 摩洛哥 (© AnetteAndersen/Getty Images)](https://www.bing.com/search?q=%E6%91%A9%E6%B4%9B%E5%93%A5%E8%88%8D%E5%A4%AB%E6%B2%99%E4%B8%87&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.MatterhornSunrise_ZH-CN3171879631_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.BlueMorocco_ZH-CN3296596109_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-01 月壁纸 (10 张)
+## 2026-01 月壁纸 (11 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.MatterhornSunrise_ZH-CN3171879631_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="纯粹的瑞士魔力" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-01-10</strong> <a href="https://www.bing.com/th?id=OHR.MatterhornSunrise_ZH-CN3171879631_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>纯粹的瑞士魔力</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.MuirWoodsMonument_ZH-CN2985538001_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="时光在此处茁壮成长" style="width: 100%; border-radius: 8px;">
