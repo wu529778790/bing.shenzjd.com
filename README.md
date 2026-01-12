@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**水獭之国爱沙尼亚** (2026-01-12)
+**苹果韵，旧时光** (2026-01-13)
 
-![水獭之国爱沙尼亚](https://www.bing.com/th?id=OHR.SnowOtters_ZH-CN3563991803_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![苹果韵，旧时光](https://www.bing.com/th?id=OHR.WalesWinter_ZH-CN3692879767_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[欧亚水獭和幼崽, 爱沙尼亚 (© Sven Zacek/naturepl.com)](https://www.bing.com/search?q=%E6%AC%A7%E4%BA%9A%E6%B0%B4%E7%8D%AD&form=hpcapt&mkt=zh-cn)
+[克卢伊德谷, 威尔士 (© Valerie Blencowe/Getty Images)](https://www.bing.com/search?q=%E5%A8%81%E5%B0%94%E5%A3%AB%E5%85%8B%E5%8D%A2%E4%BC%8A%E5%BE%B7%E8%B0%B7&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.SnowOtters_ZH-CN3563991803_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.WalesWinter_ZH-CN3692879767_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-01 月壁纸 (12 张)
+## 2026-01 月壁纸 (13 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.SnowOtters_ZH-CN3563991803_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="水獭之国爱沙尼亚" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-01-12</strong> <a href="https://www.bing.com/th?id=OHR.SnowOtters_ZH-CN3563991803_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>水獭之国爱沙尼亚</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.BlueMorocco_ZH-CN3296596109_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="从抗拒到绽放" style="width: 100%; border-radius: 8px;">
