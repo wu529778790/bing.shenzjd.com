@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**帕拉米蒂的历史之阶** (2026-01-14)
+**小村庄，大视野** (2026-01-15)
 
-![帕拉米蒂的历史之阶](https://www.bing.com/th?id=OHR.PalamidiFortress_ZH-CN5420143053_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![小村庄，大视野](https://www.bing.com/th?id=OHR.ReineSunrise_ZH-CN6297586399_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[帕拉米蒂要塞的阶梯, 纳夫普利翁, 希腊 (© George Pachantouris/Getty Images)](https://www.bing.com/search?q=%E5%B8%95%E6%8B%89%E7%B1%B3%E8%92%82%E5%9F%8E%E5%A0%A1&form=hpcapt&mkt=zh-cn)
+[雷讷渔村, 挪威 (© Roberto Moiola/Cavan Images/SuperStock)](https://www.bing.com/search?q=%E9%9B%B7%E8%AE%B7&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.PalamidiFortress_ZH-CN5420143053_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.ReineSunrise_ZH-CN6297586399_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-01 月壁纸 (14 张)
+## 2026-01 月壁纸 (15 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.PalamidiFortress_ZH-CN5420143053_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="帕拉米蒂的历史之阶" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-01-14</strong> <a href="https://www.bing.com/th?id=OHR.PalamidiFortress_ZH-CN5420143053_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>帕拉米蒂的历史之阶</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.WalesWinter_ZH-CN3692879767_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="苹果韵，旧时光" style="width: 100%; border-radius: 8px;">
