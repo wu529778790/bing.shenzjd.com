@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**普雷比希托广场上的穹顶** (2026-01-17)
+**伪装成沙漠的奇境** (2026-01-18)
 
-![普雷比希托广场上的穹顶](https://www.bing.com/th?id=OHR.NaplesBasilica_ZH-CN6888150174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![伪装成沙漠的奇境](https://www.bing.com/th?id=OHR.WhiteSandsNM_ZH-CN7070772772_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[保罗圣方济圣殿，那不勒斯，意大利 (© javarman3/Getty Images)](https://www.bing.com/search?q=%E9%82%A3%E4%B8%8D%E5%8B%92%E6%96%AF%E4%BF%9D%E7%BD%97%E5%9C%A3%E8%8A%B3%E6%B5%8E%E5%9C%A3%E6%AE%BF&form=hpcapt&mkt=zh-cn)
+[白沙国家公园，新墨西哥州，美国 (© Francesco Carucci/Getty Images)](https://www.bing.com/search?q=%E7%99%BD%E6%B2%99%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.NaplesBasilica_ZH-CN6888150174_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.WhiteSandsNM_ZH-CN7070772772_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-01 月壁纸 (17 张)
+## 2026-01 月壁纸 (18 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.NaplesBasilica_ZH-CN6888150174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="普雷比希托广场上的穹顶" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-01-17</strong> <a href="https://www.bing.com/th?id=OHR.NaplesBasilica_ZH-CN6888150174_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>普雷比希托广场上的穹顶</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.EtoshaLeopard_ZH-CN6654006040_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="眼神对上了" style="width: 100%; border-radius: 8px;">
