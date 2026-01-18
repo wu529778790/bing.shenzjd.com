@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**伪装成沙漠的奇境** (2026-01-18)
+**大自然的波普艺术** (2026-01-19)
 
-![伪装成沙漠的奇境](https://www.bing.com/th?id=OHR.WhiteSandsNM_ZH-CN7070772772_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![大自然的波普艺术](https://www.bing.com/th?id=OHR.BubblesAbraham_ZH-CN7203734882_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[白沙国家公园，新墨西哥州，美国 (© Francesco Carucci/Getty Images)](https://www.bing.com/search?q=%E7%99%BD%E6%B2%99%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+[亚伯拉罕湖冰封景象，艾伯塔省，加拿大 (© Luis F Arevalo/Getty Images)](https://www.bing.com/search?q=%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%E6%B9%96&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.WhiteSandsNM_ZH-CN7070772772_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.BubblesAbraham_ZH-CN7203734882_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-01 月壁纸 (18 张)
+## 2026-01 月壁纸 (19 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.WhiteSandsNM_ZH-CN7070772772_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="伪装成沙漠的奇境" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-01-18</strong> <a href="https://www.bing.com/th?id=OHR.WhiteSandsNM_ZH-CN7070772772_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>伪装成沙漠的奇境</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.NaplesBasilica_ZH-CN6888150174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="普雷比希托广场上的穹顶" style="width: 100%; border-radius: 8px;">
