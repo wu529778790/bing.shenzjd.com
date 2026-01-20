@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**冬季里的呆萌小可爱** (2026-01-20)
+**冬日白雪中的一抹红** (2026-01-21)
 
-![冬季里的呆萌小可爱](https://www.bing.com/th?id=OHR.TheGreatColdY25_ZH-CN7239762815_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![冬日白雪中的一抹红](https://www.bing.com/th?id=OHR.BerrySquirrel_ZH-CN7382553646_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[栖息在树枝上的北长尾山雀，大庆市，中国黑龙江省 (© Visual China Group/Getty Images)](https://www.bing.com/search?q=%E5%A4%A7%E5%AF%92%E8%8A%82%E6%B0%94&form=hpcapt&mkt=zh-cn)
+[欧亚红松鼠 (© Galina Jacyna/Getty Images)](https://www.bing.com/search?q=%E6%AC%A7%E4%BA%9A%E7%BA%A2%E6%9D%BE%E9%BC%A0&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.TheGreatColdY25_ZH-CN7239762815_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.BerrySquirrel_ZH-CN7382553646_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-01 月壁纸 (20 张)
+## 2026-01 月壁纸 (21 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.TheGreatColdY25_ZH-CN7239762815_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="冬季里的呆萌小可爱" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-01-20</strong> <a href="https://www.bing.com/th?id=OHR.TheGreatColdY25_ZH-CN7239762815_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>冬季里的呆萌小可爱</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.BubblesAbraham_ZH-CN7203734882_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="大自然的波普艺术" style="width: 100%; border-radius: 8px;">
