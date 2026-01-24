@@ -2,15 +2,15 @@
 
 ## 今日壁纸
 
-**Fur, frost, and feast** (2025-12-18)
+**传统熠熠生辉** (2026-01-25)
 
-![Fur, frost, and feast](https://www.bing.com/th?id=OHR.FrostySquirrel_EN-US5169660143_1920x1080.jpg)
+![传统熠熠生辉](https://www.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-Eurasian red squirrel in Northumberland, England (© Michael_Conrad/Getty Images)
+[伯恩斯国家遗产公园，艾尔，南艾尔郡，苏格兰 (© Alister Firth/Alamy)](https://www.bing.com/search?q=%E8%8B%8F%E6%A0%BC%E5%85%B0%E5%8D%97%E8%89%BE%E5%B0%94%E9%83%A1&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.AndermattSwiss_ZH-CN4112824348_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-01 月壁纸 (23 张)
+## 2026-01 月壁纸 (24 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
