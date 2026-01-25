@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**传统熠熠生辉** (2026-01-25)
+**巴伐利亚的瑰宝** (2026-01-26)
 
-![传统熠熠生辉](https://www.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![巴伐利亚的瑰宝](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_ZH-CN4972014681_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[伯恩斯国家遗产公园，艾尔，南艾尔郡，苏格兰 (© Alister Firth/Alamy)](https://www.bing.com/search?q=%E8%8B%8F%E6%A0%BC%E5%85%B0%E5%8D%97%E8%89%BE%E5%B0%94%E9%83%A1&form=hpcapt&mkt=zh-cn)
+[新天鹅堡，巴伐利亚州，德国 (© www.fredconcha.com @ All Rights Reserved/Getty Images)](https://www.bing.com/search?q=%E6%96%B0%E5%A4%A9%E9%B9%85%E5%A0%A1&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.NeuschwansteinWinter_ZH-CN4972014681_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-01 月壁纸 (24 张)
+## 2026-01 月壁纸 (25 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="传统熠熠生辉" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-01-25</strong> <a href="https://www.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>传统熠熠生辉</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.IcelandSheep_ZH-CN3931993073_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="霜雪中的盛宴" style="width: 100%; border-radius: 8px;">
