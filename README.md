@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**巴伐利亚的瑰宝** (2026-01-26)
+**羽翼预告：前方有鹈鹕** (2026-01-27)
 
-![巴伐利亚的瑰宝](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_ZH-CN4972014681_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![羽翼预告：前方有鹈鹕](https://www.bing.com/th?id=OHR.DalmationPelicans_ZH-CN5252732863_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[新天鹅堡，巴伐利亚州，德国 (© www.fredconcha.com @ All Rights Reserved/Getty Images)](https://www.bing.com/search?q=%E6%96%B0%E5%A4%A9%E9%B9%85%E5%A0%A1&form=hpcapt&mkt=zh-cn)
+[卷羽鹈鹕，凯尔基尼湖，希腊 (© Guy Edwardes/naturepl.com)](https://www.bing.com/search?q=%E5%8D%B7%E7%BE%BD%E9%B9%88%E9%B9%95&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.NeuschwansteinWinter_ZH-CN4972014681_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.DalmationPelicans_ZH-CN5252732863_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-01 月壁纸 (25 张)
+## 2026-01 月壁纸 (26 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.NeuschwansteinWinter_ZH-CN4972014681_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="巴伐利亚的瑰宝" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-01-26</strong> <a href="https://www.bing.com/th?id=OHR.NeuschwansteinWinter_ZH-CN4972014681_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>巴伐利亚的瑰宝</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.BurnsPark_ZH-CN4442772228_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="传统熠熠生辉" style="width: 100%; border-radius: 8px;">
