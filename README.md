@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**羽翼预告：前方有鹈鹕** (2026-01-27)
+**随河而行** (2026-01-28)
 
-![羽翼预告：前方有鹈鹕](https://www.bing.com/th?id=OHR.DalmationPelicans_ZH-CN5252732863_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![随河而行](https://www.bing.com/th?id=OHR.WhanganuiPark_ZH-CN5664518836_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[卷羽鹈鹕，凯尔基尼湖，希腊 (© Guy Edwardes/naturepl.com)](https://www.bing.com/search?q=%E5%8D%B7%E7%BE%BD%E9%B9%88%E9%B9%95&form=hpcapt&mkt=zh-cn)
+[旺格努伊国家公园，雷塔鲁克，新西兰 (© Matthew Micah Wright/Getty Images)](https://www.bing.com/search?q=%E6%96%B0%E8%A5%BF%E5%85%B0%E6%97%BA%E6%A0%BC%E5%8A%AA%E4%BC%8A%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.DalmationPelicans_ZH-CN5252732863_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.WhanganuiPark_ZH-CN5664518836_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-01 月壁纸 (26 张)
+## 2026-01 月壁纸 (27 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.DalmationPelicans_ZH-CN5252732863_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="羽翼预告：前方有鹈鹕" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-01-27</strong> <a href="https://www.bing.com/th?id=OHR.DalmationPelicans_ZH-CN5252732863_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>羽翼预告：前方有鹈鹕</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.NeuschwansteinWinter_ZH-CN4972014681_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="巴伐利亚的瑰宝" style="width: 100%; border-radius: 8px;">
