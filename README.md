@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**随河而行** (2026-01-28)
+**密尔沃基的传奇故事** (2026-01-29)
 
-![随河而行](https://www.bing.com/th?id=OHR.WhanganuiPark_ZH-CN5664518836_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![密尔沃基的传奇故事](https://www.bing.com/th?id=OHR.MilwaukeeHall_ZH-CN5779477975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[旺格努伊国家公园，雷塔鲁克，新西兰 (© Matthew Micah Wright/Getty Images)](https://www.bing.com/search?q=%E6%96%B0%E8%A5%BF%E5%85%B0%E6%97%BA%E6%A0%BC%E5%8A%AA%E4%BC%8A%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+[密尔沃基市政厅的八层开放式中庭，威斯康星州，美国 (© lavin photography/Getty Images)](https://www.bing.com/search?q=%E5%AF%86%E5%B0%94%E6%B2%83%E5%9F%BA%E5%B8%82&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.WhanganuiPark_ZH-CN5664518836_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.MilwaukeeHall_ZH-CN5779477975_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-01 月壁纸 (27 张)
+## 2026-01 月壁纸 (28 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.WhanganuiPark_ZH-CN5664518836_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="随河而行" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-01-28</strong> <a href="https://www.bing.com/th?id=OHR.WhanganuiPark_ZH-CN5664518836_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>随河而行</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.DalmationPelicans_ZH-CN5252732863_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="羽翼预告：前方有鹈鹕" style="width: 100%; border-radius: 8px;">
