@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**优雅掠过天际** (2026-02-04)
+**困在网格里** (2026-02-05)
 
-![优雅掠过天际](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_ZH-CN6864628198_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![困在网格里](https://www.bing.com/th?id=OHR.MaltaSalt_ZH-CN7025158187_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[雪中​​的红鸢 (© Carl Mckie/500px/Getty Images)](https://www.bing.com/search?q=%E7%BA%A2%E9%B8%A2%E9%B8%9F&form=hpcapt&mkt=zh-cn)
+[戈佐岛上的盐田, 马耳他 (© Marius Roman/Getty Images)](https://www.bing.com/search?q=%E9%A9%AC%E8%80%B3%E4%BB%96%E6%88%88%E4%BD%90%E5%B2%9B+&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_ZH-CN6864628198_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.MaltaSalt_ZH-CN7025158187_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-02 月壁纸 (4 张)
+## 2026-02 月壁纸 (5 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_ZH-CN6864628198_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="优雅掠过天际" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-02-04</strong> <a href="https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_ZH-CN6864628198_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>优雅掠过天际</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.FanetteIsland_ZH-CN6466809551_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="太浩湖视觉盛宴" style="width: 100%; border-radius: 8px;">
