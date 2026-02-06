@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**拉古塞拉——奥运赛季的巅峰** (2026-02-06)
+**在盐沼与天空之间，万物静谧** (2026-02-07)
 
-![拉古塞拉——奥运赛季的巅峰](https://www.bing.com/th?id=OHR.GiauPass_ZH-CN3901214501_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![在盐沼与天空之间，万物静谧](https://www.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[贾乌山口的拉古塞拉峰, 在科尔蒂纳丹佩佐附近, 意大利 (© Tomasz Podolski/Getty Images)](https://www.bing.com/search?q=2026%E5%B9%B4%E5%86%AC%E5%AD%A3%E5%A5%A5%E8%BF%90%E4%BC%9A&form=hpcapt&mkt=zh-cn)
+[玻利维亚乌尤尼盐湖 (© Abstract Aerial Art/Getty Images)](https://www.bing.com/search?q=%E7%8E%BB%E5%88%A9%E7%BB%B4%E4%BA%9A%E4%B9%8C%E5%B0%A4%E5%B0%BC%E7%9B%90%E6%B2%BC&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.GiauPass_ZH-CN3901214501_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-02 月壁纸 (6 张)
+## 2026-02 月壁纸 (7 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.GiauPass_ZH-CN3901214501_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="拉古塞拉——奥运赛季的巅峰" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-02-06</strong> <a href="https://www.bing.com/th?id=OHR.GiauPass_ZH-CN3901214501_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>拉古塞拉——奥运赛季的巅峰</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.MaltaSalt_ZH-CN7025158187_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="困在网格里" style="width: 100%; border-radius: 8px;">
