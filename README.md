@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**在盐沼与天空之间，万物静谧** (2026-02-07)
+**从宁静的夜晚到充满冒险的白天** (2026-02-08)
 
-![在盐沼与天空之间，万物静谧](https://www.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![从宁静的夜晚到充满冒险的白天](https://www.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[玻利维亚乌尤尼盐湖 (© Abstract Aerial Art/Getty Images)](https://www.bing.com/search?q=%E7%8E%BB%E5%88%A9%E7%BB%B4%E4%BA%9A%E4%B9%8C%E5%B0%A4%E5%B0%BC%E7%9B%90%E6%B2%BC&form=hpcapt&mkt=zh-cn)
+[科孚岛的夜晚, 希腊 (© whitewizzard/Getty Images)](https://www.bing.com/search?q=%E5%B8%8C%E8%85%8A%E7%A7%91%E5%AD%9A%E5%B2%9B&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-02 月壁纸 (7 张)
+## 2026-02 月壁纸 (8 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="在盐沼与天空之间，万物静谧" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-02-07</strong> <a href="https://www.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>在盐沼与天空之间，万物静谧</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.GiauPass_ZH-CN3901214501_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="拉古塞拉——奥运赛季的巅峰" style="width: 100%; border-radius: 8px;">
