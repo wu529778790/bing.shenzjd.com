@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**从宁静的夜晚到充满冒险的白天** (2026-02-08)
+**斑纹流转** (2026-02-09)
 
-![从宁静的夜晚到充满冒险的白天](https://www.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![斑纹流转](https://www.bing.com/th?id=OHR.LeopardCat_ZH-CN4431427444_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[科孚岛的夜晚, 希腊 (© whitewizzard/Getty Images)](https://www.bing.com/search?q=%E5%B8%8C%E8%85%8A%E7%A7%91%E5%AD%9A%E5%B2%9B&form=hpcapt&mkt=zh-cn)
+[阿穆尔豹猫，俄罗斯 (© Valeriy Maleev/naturepl.com)](https://www.bing.com/search?q=%E8%B1%B9%E7%8C%AB&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.LeopardCat_ZH-CN4431427444_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-02 月壁纸 (8 张)
+## 2026-02 月壁纸 (9 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="从宁静的夜晚到充满冒险的白天" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-02-08</strong> <a href="https://www.bing.com/th?id=OHR.CorfuGreece_ZH-CN4305970968_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>从宁静的夜晚到充满冒险的白天</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SalarUyuni_ZH-CN4163237089_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="在盐沼与天空之间，万物静谧" style="width: 100%; border-radius: 8px;">
