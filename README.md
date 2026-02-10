@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**海妖歌唱之处** (2026-02-10)
+**对比之谷** (2026-02-11)
 
-![海妖歌唱之处](https://www.bing.com/th?id=OHR.IbizaIslets_ZH-CN4580106286_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![对比之谷](https://www.bing.com/th?id=OHR.BadwaterFlats_ZH-CN4713617982_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[埃斯韦德拉岛和埃斯韦德拉内尔岛，伊维萨岛，西班牙 (© L. Apolli/Getty Images)](https://www.bing.com/search?q=%E4%BC%8A%E7%BB%B4%E8%90%A8%E5%B2%9B%E5%9F%83%E6%96%AF%E7%BB%B4%E5%BE%B7%E6%8B%89&form=hpcapt&mkt=zh-cn)
+[死亡谷国家公园恶水盆地的盐滩, 加利福尼亚州, 美国 (© Jim Patterson/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E6%AD%BB%E8%B0%B7%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.IbizaIslets_ZH-CN4580106286_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.BadwaterFlats_ZH-CN4713617982_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-02 月壁纸 (10 张)
+## 2026-02 月壁纸 (11 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.IbizaIslets_ZH-CN4580106286_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="海妖歌唱之处" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-02-10</strong> <a href="https://www.bing.com/th?id=OHR.IbizaIslets_ZH-CN4580106286_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>海妖歌唱之处</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.LeopardCat_ZH-CN4431427444_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="斑纹流转" style="width: 100%; border-radius: 8px;">
