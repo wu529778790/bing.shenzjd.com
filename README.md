@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**对比之谷** (2026-02-11)
+**聚焦进化** (2026-02-12)
 
-![对比之谷](https://www.bing.com/th?id=OHR.BadwaterFlats_ZH-CN4713617982_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![聚焦进化](https://www.bing.com/th?id=OHR.DarwinBooby_ZH-CN4925779873_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[死亡谷国家公园恶水盆地的盐滩, 加利福尼亚州, 美国 (© Jim Patterson/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E6%AD%BB%E8%B0%B7%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+[蓝脚鲣鸟，加拉帕戈斯群岛, 厄瓜多尔 (© Karine Aigner/TANDEM Stills + Motion)](https://www.bing.com/search?q=%E8%93%9D%E8%84%9A%E9%B2%A3%E9%B8%9F&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.BadwaterFlats_ZH-CN4713617982_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.DarwinBooby_ZH-CN4925779873_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-02 月壁纸 (11 张)
+## 2026-02 月壁纸 (12 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.BadwaterFlats_ZH-CN4713617982_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="对比之谷" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-02-11</strong> <a href="https://www.bing.com/th?id=OHR.BadwaterFlats_ZH-CN4713617982_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>对比之谷</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.IbizaIslets_ZH-CN4580106286_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="海妖歌唱之处" style="width: 100%; border-radius: 8px;">
