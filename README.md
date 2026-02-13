@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**为拉近距离而建** (2026-02-13)
+**爱意绽放** (2026-02-14)
 
-![为拉近距离而建](https://www.bing.com/th?id=OHR.FriendshipBridge_ZH-CN5199165736_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![爱意绽放](https://www.bing.com/th?id=OHR.ValentineHearts_ZH-CN5332774664_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[连接老挝和泰国的第三座泰老友谊大桥 (© chaiyut samsuk/Getty Images)](https://www.bing.com/search?q=%E7%AC%AC%E4%B8%89%E5%BA%A7%E6%B3%B0%E8%80%81%E5%8F%8B%E8%B0%8A%E5%A4%A7%E6%A1%A5&form=hpcapt&mkt=zh-cn)
+[荷包牡丹 (© Dorene Hookey/Cavan Images)](https://www.bing.com/search?q=%E6%83%85%E4%BA%BA%E8%8A%82&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.FriendshipBridge_ZH-CN5199165736_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.ValentineHearts_ZH-CN5332774664_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-02 月壁纸 (13 张)
+## 2026-02 月壁纸 (14 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.FriendshipBridge_ZH-CN5199165736_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="为拉近距离而建" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-02-13</strong> <a href="https://www.bing.com/th?id=OHR.FriendshipBridge_ZH-CN5199165736_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>为拉近距离而建</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.DarwinBooby_ZH-CN4925779873_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="聚焦进化" style="width: 100%; border-radius: 8px;">
