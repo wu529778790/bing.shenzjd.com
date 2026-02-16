@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**祝除夕团圆，新年顺遂！** (2026-02-16)
+**福气满满，马年大吉** (2026-02-17)
 
-![祝除夕团圆，新年顺遂！](https://www.bing.com/th?id=OHR.ChineseNewYearEveY26_ZH-CN7770318975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![福气满满，马年大吉](https://www.bing.com/th?id=OHR.SpringFestivalY26_ZH-CN0228318064_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[庆祝春节的龙形灯笼，中国西安 (© Pan Hong/Getty Images)](https://www.bing.com/search?q=%E9%99%A4%E5%A4%95%E5%A4%9C&form=hpcapt&mkt=zh-cn)
+[中国春节传统汉字“福” (© DuKai摄影师/Getty Images)](https://www.bing.com/search?q=2026%E9%A9%AC%E5%B9%B4%E6%98%A5%E8%8A%82&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.ChineseNewYearEveY26_ZH-CN7770318975_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.SpringFestivalY26_ZH-CN0228318064_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-02 月壁纸 (16 张)
+## 2026-02 月壁纸 (17 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.ChineseNewYearEveY26_ZH-CN7770318975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="祝除夕团圆，新年顺遂！" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-02-16</strong> <a href="https://www.bing.com/th?id=OHR.ChineseNewYearEveY26_ZH-CN7770318975_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>祝除夕团圆，新年顺遂！</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.MontereyHumpbacks_ZH-CN5426789466_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="浪涛下的歌谣" style="width: 100%; border-radius: 8px;">
