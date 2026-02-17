@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**福气满满，马年大吉** (2026-02-17)
+**生而自由，永不驯服** (2026-02-18)
 
-![福气满满，马年大吉](https://www.bing.com/th?id=OHR.SpringFestivalY26_ZH-CN0228318064_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![生而自由，永不驯服](https://www.bing.com/th?id=OHR.PrzewalskisHorse_ZH-CN5785609662_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[中国春节传统汉字“福” (© DuKai摄影师/Getty Images)](https://www.bing.com/search?q=2026%E9%A9%AC%E5%B9%B4%E6%98%A5%E8%8A%82&form=hpcapt&mkt=zh-cn)
+[普氏野马 (© Nemyrivskyi Viacheslav/Getty Images)](https://www.bing.com/search?q=%E6%99%AE%E6%B0%8F%E9%87%8E%E9%A9%AC&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.SpringFestivalY26_ZH-CN0228318064_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.PrzewalskisHorse_ZH-CN5785609662_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-02 月壁纸 (17 张)
+## 2026-02 月壁纸 (18 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.SpringFestivalY26_ZH-CN0228318064_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="福气满满，马年大吉" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-02-17</strong> <a href="https://www.bing.com/th?id=OHR.SpringFestivalY26_ZH-CN0228318064_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>福气满满，马年大吉</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.ChineseNewYearEveY26_ZH-CN7770318975_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="祝除夕团圆，新年顺遂！" style="width: 100%; border-radius: 8px;">
