@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**生而自由，永不驯服** (2026-02-18)
+**大地凝视着我们** (2026-02-19)
 
-![生而自由，永不驯服](https://www.bing.com/th?id=OHR.PrzewalskisHorse_ZH-CN5785609662_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![大地凝视着我们](https://www.bing.com/th?id=OHR.DragonsEyeRock_ZH-CN6164478776_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[普氏野马 (© Nemyrivskyi Viacheslav/Getty Images)](https://www.bing.com/search?q=%E6%99%AE%E6%B0%8F%E9%87%8E%E9%A9%AC&form=hpcapt&mkt=zh-cn)
+[乌塔克莱夫海滩的“龙之眼”岩层，挪威 (© reisegraf/Getty Images)](https://www.bing.com/search?q=%E4%B9%8C%E5%A1%94%E5%85%8B%E8%8E%B1%E5%A4%AB%E6%B5%B7%E6%BB%A9&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.PrzewalskisHorse_ZH-CN5785609662_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.DragonsEyeRock_ZH-CN6164478776_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-02 月壁纸 (18 张)
+## 2026-02 月壁纸 (19 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.PrzewalskisHorse_ZH-CN5785609662_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="生而自由，永不驯服" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-02-18</strong> <a href="https://www.bing.com/th?id=OHR.PrzewalskisHorse_ZH-CN5785609662_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>生而自由，永不驯服</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SpringFestivalY26_ZH-CN0228318064_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="福气满满，马年大吉" style="width: 100%; border-radius: 8px;">
