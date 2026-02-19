@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**大地凝视着我们** (2026-02-19)
+**光照之处** (2026-02-20)
 
-![大地凝视着我们](https://www.bing.com/th?id=OHR.DragonsEyeRock_ZH-CN6164478776_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![光照之处](https://www.bing.com/th?id=OHR.AdamsFirefall_ZH-CN9409143565_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[乌塔克莱夫海滩的“龙之眼”岩层，挪威 (© reisegraf/Getty Images)](https://www.bing.com/search?q=%E4%B9%8C%E5%A1%94%E5%85%8B%E8%8E%B1%E5%A4%AB%E6%B5%B7%E6%BB%A9&form=hpcapt&mkt=zh-cn)
+[约塞米蒂国家公园里的火瀑布，加利福尼亚州，美国 (© Jorge Villalba/Getty Images)](https://www.bing.com/search?q=%E7%BA%A6%E5%A1%9E%E7%B1%B3%E8%92%82%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%E9%87%8C%E7%9A%84%E7%81%AB%E7%80%91%E5%B8%83&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.DragonsEyeRock_ZH-CN6164478776_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.AdamsFirefall_ZH-CN9409143565_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-02 月壁纸 (19 张)
+## 2026-02 月壁纸 (20 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.DragonsEyeRock_ZH-CN6164478776_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="大地凝视着我们" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-02-19</strong> <a href="https://www.bing.com/th?id=OHR.DragonsEyeRock_ZH-CN6164478776_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>大地凝视着我们</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.PrzewalskisHorse_ZH-CN5785609662_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="生而自由，永不驯服" style="width: 100%; border-radius: 8px;">
