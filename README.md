@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**雪原之王** (2026-02-23)
+**池底的生命律动** (2026-02-24)
 
-![雪原之王](https://www.bing.com/th?id=OHR.BavariaEgret_ZH-CN0521643213_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![池底的生命律动](https://www.bing.com/th?id=OHR.TulumLilies_ZH-CN0959403613_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[大白鹭，上巴伐利亚州，德国 (© Konrad Wothe/naturepl.com)](https://www.bing.com/search?q=%E5%A4%A7%E7%99%BD%E9%B9%AD&form=hpcapt&mkt=zh-cn)
+[大天坑里的睡莲，图卢姆，墨西哥 (© Christian Vizl/Tandem Stills + Motion)](https://www.bing.com/search?q=%E5%9B%BE%E5%8D%A2%E5%A7%86%E5%A4%A7%E5%A4%A9%E5%9D%91&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.BavariaEgret_ZH-CN0521643213_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.TulumLilies_ZH-CN0959403613_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-02 月壁纸 (23 张)
+## 2026-02 月壁纸 (24 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.BavariaEgret_ZH-CN0521643213_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="雪原之王" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-02-23</strong> <a href="https://www.bing.com/th?id=OHR.BavariaEgret_ZH-CN0521643213_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>雪原之王</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.MamTorSunrise_ZH-CN9698497298_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="群山的母亲" style="width: 100%; border-radius: 8px;">
