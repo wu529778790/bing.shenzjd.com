@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**冰，由内而外透出光芒** (2026-02-25)
+**一幅壮丽的景象** (2026-02-26)
 
-![冰，由内而外透出光芒](https://www.bing.com/th?id=OHR.MendenhallCave_ZH-CN1850649760_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![一幅壮丽的景象](https://www.bing.com/th?id=OHR.GrandSunset_ZH-CN1905986519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[门登霍尔冰川的冰洞，阿拉斯加州，美国 (© Designpics/Adobe Stock)](https://www.bing.com/search?q=%E9%97%A8%E7%99%BB%E9%9C%8D%E5%B0%94%E5%86%B0%E5%B7%9D&form=hpcapt&mkt=zh-cn)
+[大峡谷和科罗拉多河，亚利桑那州，美国 (© Matt Anderson Photography/Getty Images)](https://www.bing.com/search?q=%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%B3%A1%E8%B0%B7%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.MendenhallCave_ZH-CN1850649760_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.GrandSunset_ZH-CN1905986519_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-02 月壁纸 (25 张)
+## 2026-02 月壁纸 (26 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.MendenhallCave_ZH-CN1850649760_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="冰，由内而外透出光芒" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-02-25</strong> <a href="https://www.bing.com/th?id=OHR.MendenhallCave_ZH-CN1850649760_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>冰，由内而外透出光芒</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.TulumLilies_ZH-CN0959403613_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="池底的生命律动" style="width: 100%; border-radius: 8px;">
