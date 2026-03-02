@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**漂浮的传承** (2026-03-02)
+**花灯映月，团圆吉祥** (2026-03-03)
 
-![漂浮的传承](https://www.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![花灯映月，团圆吉祥](https://www.bing.com/th?id=OHR.LanternFestivalY26_ZH-CN9186685796_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[苏梅岛的港口和长尾船, 泰国 (© Foto2rich/Shutterstock)](https://www.bing.com/search?q=%E6%B3%B0%E5%9B%BD%E8%8B%8F%E6%A2%85%E5%B2%9B&form=hpcapt&mkt=zh-cn)
+[元宵节期间悬挂的宫灯，北京自贡灯会现场，北京，中国 (© Grisha Bruev/Shutterstock)](https://www.bing.com/search?q=%E5%85%83%E5%AE%B5%E8%8A%82&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.LanternFestivalY26_ZH-CN9186685796_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-03 月壁纸 (2 张)
+## 2026-03 月壁纸 (3 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="漂浮的传承" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-03-02</strong> <a href="https://www.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>漂浮的传承</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="每一步，都是传承" style="width: 100%; border-radius: 8px;">
