@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**花灯映月，团圆吉祥** (2026-03-03)
+**聚光灯下的番红花** (2026-03-04)
 
-![花灯映月，团圆吉祥](https://www.bing.com/th?id=OHR.LanternFestivalY26_ZH-CN9186685796_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![聚光灯下的番红花](https://www.bing.com/th?id=OHR.RilaCrocuses_ZH-CN3650360951_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[元宵节期间悬挂的宫灯，北京自贡灯会现场，北京，中国 (© Grisha Bruev/Shutterstock)](https://www.bing.com/search?q=%E5%85%83%E5%AE%B5%E8%8A%82&form=hpcapt&mkt=zh-cn)
+[紫番红花, 里拉七湖, 保加利亚 (© Maya Karkalicheva/Getty Images)](https://www.bing.com/search?q=%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%E9%87%8C%E6%8B%89%E4%B8%83%E6%B9%96%E7%95%AA%E7%BA%A2%E8%8A%B1&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.LanternFestivalY26_ZH-CN9186685796_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.RilaCrocuses_ZH-CN3650360951_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-03 月壁纸 (3 张)
+## 2026-03 月壁纸 (4 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.LanternFestivalY26_ZH-CN9186685796_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="花灯映月，团圆吉祥" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-03-03</strong> <a href="https://www.bing.com/th?id=OHR.LanternFestivalY26_ZH-CN9186685796_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>花灯映月，团圆吉祥</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="漂浮的传承" style="width: 100%; border-radius: 8px;">
