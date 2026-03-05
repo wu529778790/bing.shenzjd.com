@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**古老岩石，现代灯光** (2026-03-05)
+**混凝土中铸造的波浪** (2026-03-06)
 
-![古老岩石，现代灯光](https://www.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![混凝土中铸造的波浪](https://www.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[格雷梅的傍晚, 卡帕多西亚, 土耳其 (© ONNAJA/Getty Images)](https://www.bing.com/search?q=%E5%9C%9F%E8%80%B3%E5%85%B6%E6%A0%BC%E9%9B%B7%E6%A2%85&form=hpcapt&mkt=zh-cn)
+[波浪住宅楼, 瓦埃勒, 丹麦 (© Frank Bach/Alamy)](https://www.bing.com/search?q=%E4%B8%B9%E9%BA%A6%E7%93%A6%E5%9F%83%E5%8B%92%E6%B3%A2%E6%B5%AA%E5%A4%A7%E5%8E%A6&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-03 月壁纸 (5 张)
+## 2026-03 月壁纸 (6 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="古老岩石，现代灯光" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-03-05</strong> <a href="https://www.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>古老岩石，现代灯光</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.RilaCrocuses_ZH-CN3650360951_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="聚光灯下的番红花" style="width: 100%; border-radius: 8px;">
