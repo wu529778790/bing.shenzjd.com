@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**治愈、宁静且充满希望** (2026-03-07)
+**节约日光的艺术** (2026-03-08)
 
-![治愈、宁静且充满希望](https://www.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![节约日光的艺术](https://www.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[布罗肯峰的日出, 哈尔茨国家公园, 德国 (© imageBROKER/AVTG/Getty Images)](https://www.bing.com/search?q=%E5%93%88%E5%B0%94%E8%8C%A8%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+[乌尔姆市政厅的天文钟, 德国 (© Tomekbudujedomek/Getty Images)](https://www.bing.com/search?q=%E5%A4%A9%E6%96%87%E9%92%9F&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-03 月壁纸 (7 张)
+## 2026-03 月壁纸 (8 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="治愈、宁静且充满希望" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-03-07</strong> <a href="https://www.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>治愈、宁静且充满希望</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="混凝土中铸造的波浪" style="width: 100%; border-radius: 8px;">
