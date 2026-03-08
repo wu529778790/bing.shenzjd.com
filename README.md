@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**节约日光的艺术** (2026-03-08)
+**一次恰到好处的午睡** (2026-03-09)
 
-![节约日光的艺术](https://www.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![一次恰到好处的午睡](https://www.bing.com/th?id=OHR.NappingSeal_ZH-CN9424683964_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[乌尔姆市政厅的天文钟, 德国 (© Tomekbudujedomek/Getty Images)](https://www.bing.com/search?q=%E5%A4%A9%E6%96%87%E9%92%9F&form=hpcapt&mkt=zh-cn)
+[在海滩上睡觉的灰海豹, 奥克尼群岛, 苏格兰 (© Andrew Mason/Minden Pictures)](https://www.bing.com/search?q=%E7%81%B0%E6%B5%B7%E8%B1%B9&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.NappingSeal_ZH-CN9424683964_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-03 月壁纸 (8 张)
+## 2026-03 月壁纸 (9 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="节约日光的艺术" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-03-08</strong> <a href="https://www.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>节约日光的艺术</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="治愈、宁静且充满希望" style="width: 100%; border-radius: 8px;">
