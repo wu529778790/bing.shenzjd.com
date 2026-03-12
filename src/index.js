@@ -3,6 +3,8 @@ const fs = require("fs-extra");
 const moment = require("moment");
 const path = require("path");
 
+const BING_TIMEZONE = "Asia/Shanghai";
+
 /**
  * 延迟函数
  */
@@ -63,13 +65,13 @@ class BingWallpaperFetcher {
     console.log("正在获取今日必应壁纸数据...");
 
     // 只获取今天的壁纸
-    const targetDate = moment().format("YYYY-MM-DD");
 
     // 获取显示用的普通分辨率版本
     const displayWallpaper = await this.fetchWithRetry(
       async () => {
         return await getBingWallpaper({
-          date: targetDate,
+          index: 0,
+          timezone: BING_TIMEZONE,
           resolution: "1920x1080",
           market: "zh-CN",
         });
@@ -81,7 +83,8 @@ class BingWallpaperFetcher {
     const downloadWallpaper = await this.fetchWithRetry(
       async () => {
         return await getBingWallpaper({
-          date: targetDate,
+          index: 0,
+          timezone: BING_TIMEZONE,
           resolution: "UHD",
           market: "zh-CN",
         });
@@ -110,12 +113,15 @@ class BingWallpaperFetcher {
    * 处理单张壁纸数据
    */
   processSingleWallpaperData(image) {
-    // 直接使用API返回的startdate，确保日期准确性
-    const date = moment(image.startdate, "YYYYMMDD");
-    const adjustedDate = date.add(1, "day"); // 根据需求，加一天以匹配实际日期
+    // 优先使用请求日期，确保归档日期与实际抓取目标一致
+    const effectiveDate = moment(image.startdate, "YYYYMMDD", true);
+
+    if (!effectiveDate.isValid()) {
+      throw new Error("壁纸日期无效");
+    }
 
     return {
-      date: adjustedDate.format("YYYY-MM-DD"), // 使用调整后的日期
+      date: effectiveDate.format("YYYY-MM-DD"),
       title: image.title,
       copyright: image.copyright,
       description: image.copyrightlink
@@ -124,9 +130,9 @@ class BingWallpaperFetcher {
       imageUrl: image.displayUrl, // 用于 README 显示的普通分辨率图片
       hd4kUrl: image.downloadUrl4k, // 4K 高清版本
       downloadUrl4k: image.downloadUrl4k, // 4K 下载链接
-      year: adjustedDate.format("YYYY"),
-      month: adjustedDate.format("MM"),
-      monthName: adjustedDate.format("YYYY-MM"),
+      year: effectiveDate.format("YYYY"),
+      month: effectiveDate.format("MM"),
+      monthName: effectiveDate.format("YYYY-MM"),
     };
   }
 
@@ -395,7 +401,7 @@ class BingWallpaperFetcher {
     content += `🔗 <a href="${latestWallpaper.downloadUrl4k}" target="_blank">下载 4K 高清版本</a>\n\n`;
 
     // 获取当月所有壁纸数据用于显示
-    const currentMonth = moment().format("YYYY-MM");
+    const currentMonth = latestWallpaper.monthName;
     // 优化：直接从归档文件中获取当月壁纸，而不是重新解析整个文件
     const monthlyWallpapers = await this.getMonthlyWallpapers(currentMonth);
 

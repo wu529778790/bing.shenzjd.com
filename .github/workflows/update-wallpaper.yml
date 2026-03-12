@@ -1,5 +1,8 @@
 name: 更新必应壁纸
 
+env:
+  TZ: Asia/Shanghai
+
 on:
   schedule:
     # 每天 UTC 时间 17:00 运行（北京时间 1:00）
@@ -71,7 +74,7 @@ jobs:
       - name: 提交更新
         if: steps.check_changes.outputs.has_changes == 'true'
         run: |
-          git commit -m "🖼️ 自动更新必应壁纸 $(date -d '+1 day' '+%Y-%m-%d')"
+          git commit -m "🖼️ 自动更新必应壁纸 $(date '+%Y-%m-%d')"
           git push
 
       - name: 更新状态
