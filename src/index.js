@@ -3,8 +3,6 @@ const fs = require("fs-extra");
 const moment = require("moment");
 const path = require("path");
 
-const BING_TIMEZONE = "Asia/Shanghai";
-
 /**
  * 延迟函数
  */
@@ -64,14 +62,15 @@ class BingWallpaperFetcher {
   async fetchTodayBingWallpaper() {
     console.log("正在获取今日必应壁纸数据...");
 
+    const targetDate = moment().format("YYYY-MM-DD");
+
     // 只获取今天的壁纸
 
     // 获取显示用的普通分辨率版本
     const displayWallpaper = await this.fetchWithRetry(
       async () => {
         return await getBingWallpaper({
-          index: 0,
-          timezone: BING_TIMEZONE,
+          date: targetDate,
           resolution: "1920x1080",
           market: "zh-CN",
         });
@@ -83,8 +82,7 @@ class BingWallpaperFetcher {
     const downloadWallpaper = await this.fetchWithRetry(
       async () => {
         return await getBingWallpaper({
-          index: 0,
-          timezone: BING_TIMEZONE,
+          date: targetDate,
           resolution: "UHD",
           market: "zh-CN",
         });
@@ -95,6 +93,7 @@ class BingWallpaperFetcher {
     // 合并数据
     const wallpaperData = {
       ...displayWallpaper,
+      requestedDate: targetDate,
       displayUrl: displayWallpaper.url,
       downloadUrl4k: downloadWallpaper.url,
     };
@@ -114,7 +113,9 @@ class BingWallpaperFetcher {
    */
   processSingleWallpaperData(image) {
     // 优先使用请求日期，确保归档日期与实际抓取目标一致
-    const effectiveDate = moment(image.startdate, "YYYYMMDD", true);
+    const effectiveDate = image.requestedDate
+      ? moment(image.requestedDate, "YYYY-MM-DD", true)
+      : moment(image.startdate, "YYYYMMDD", true);
 
     if (!effectiveDate.isValid()) {
       throw new Error("壁纸日期无效");
