@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**静谧的石之杰作** (2026-03-13)
+**圆周率的古老启示** (2026-03-14)
 
-![静谧的石之杰作](https://www.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![圆周率的古老启示](https://www.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[邦港圣母教堂拱顶，莱萨布勒多洛讷，法国 (© Helmut Meyer zur Capellen/Alamy)](https://www.bing.com/search?q=%E6%B3%95%E5%9B%BD%E8%8E%B1%E8%90%A8%E5%B8%83%E5%8B%92%E5%A4%9A%E6%B4%9B%E8%AE%B7&form=hpcapt&mkt=zh-cn)
+[兰扬石门，位于英格兰康沃尔郡的一座兰扬新石器时代石棚墓，英国 (© Helen Hotson/Alamy)](https://www.bing.com/search?q=%E5%9C%86%E5%91%A8%E7%8E%87%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-03 月壁纸 (13 张)
+## 2026-03 月壁纸 (14 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="静谧的石之杰作" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-03-13</strong> <a href="https://www.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>静谧的石之杰作</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="排练中的翅膀" style="width: 100%; border-radius: 8px;">
