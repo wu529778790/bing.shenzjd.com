@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**爱尔兰的精神十字路口** (2026-03-17)
+**城市花开** (2026-03-18)
 
-![爱尔兰的精神十字路口](https://www.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![城市花开](https://www.bing.com/th?id=OHR.PortlandBlossoms_ZH-CN0814501668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[艾利赫格里安南环形堡，多内加尔，爱尔兰 (© Lukassek/Getty Images)](https://www.bing.com/search?q=%E5%9C%A3%E5%B8%95%E7%89%B9%E9%87%8C%E5%85%8B%E8%8A%82&form=hpcapt&mkt=zh-cn)
+[汤姆·麦考尔滨水公园的樱花，波特兰，俄勒冈州，美国 (© Eric Vogt/Tandem Stills + Motion)](https://www.bing.com/search?q=%E6%B1%A4%E5%A7%86%C2%B7%E9%BA%A6%E8%80%83%E5%B0%94%E6%BB%A8%E6%B0%B4%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.PortlandBlossoms_ZH-CN0814501668_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-03 月壁纸 (17 张)
+## 2026-03 月壁纸 (18 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="爱尔兰的精神十字路口" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-03-17</strong> <a href="https://www.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>爱尔兰的精神十字路口</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.PandaForest_ZH-CN0545156080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="走进熊猫世界" style="width: 100%; border-radius: 8px;">
