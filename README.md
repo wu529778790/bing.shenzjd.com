@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**激发你的好奇心** (2026-03-19)
+**春日绯梦** (2026-03-20)
 
-![激发你的好奇心](https://www.bing.com/th?id=OHR.EchidnaAustralia_ZH-CN0913792118_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![春日绯梦](https://www.bing.com/th?id=OHR.SpringEquinoxY26_ZH-CN7450181382_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[澳洲针鼹，阿德莱德山，澳大利亚 (© Etienne Littlefair/naturepl.com)](https://www.bing.com/search?q=%E6%BE%B3%E6%B4%B2%E9%92%88%E9%BC%B9&form=hpcapt&mkt=zh-cn)
+[春日樱花，上海，中国 (© junyyeung/Getty Images)](https://www.bing.com/search?q=%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%A8%B1%E8%8A%B1&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.EchidnaAustralia_ZH-CN0913792118_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.SpringEquinoxY26_ZH-CN7450181382_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-03 月壁纸 (19 张)
+## 2026-03 月壁纸 (20 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.EchidnaAustralia_ZH-CN0913792118_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="激发你的好奇心" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-03-19</strong> <a href="https://www.bing.com/th?id=OHR.EchidnaAustralia_ZH-CN0913792118_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>激发你的好奇心</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.PortlandBlossoms_ZH-CN0814501668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="城市花开" style="width: 100%; border-radius: 8px;">
