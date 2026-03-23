@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**当水划出界线** (2026-03-23)
+**春天的形状** (2026-03-24)
 
-![当水划出界线](https://www.bing.com/th?id=OHR.SonoranStorm_ZH-CN0579792563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![春天的形状](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[坦噶尼喀湖，非洲 (© BEST-BACKGROUNDS/NASA/Shutterstock)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B0%B4%E6%97%A5&form=hpcapt&mkt=zh-cn)
+[东湖樱花园的樱花，武汉，中国 (© Zhang Qiao/VCG/Getty Images)](https://www.bing.com/search?q=%E4%B8%AD%E5%9B%BD%E6%AD%A6%E6%B1%89%E4%B8%9C%E6%B9%96%E6%A8%B1%E8%8A%B1%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.SonoranStorm_ZH-CN0579792563_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-03 月壁纸 (23 张)
+## 2026-03 月壁纸 (24 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.SonoranStorm_ZH-CN0579792563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="当水划出界线" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-03-23</strong> <a href="https://www.bing.com/th?id=OHR.SonoranStorm_ZH-CN0579792563_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>当水划出界线</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.TanganyikaWater_ZH-CN4884850067_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="当水划出界线" style="width: 100%; border-radius: 8px;">
