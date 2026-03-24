@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**春天的形状** (2026-03-24)
+**海牛的秘密生活** (2026-03-25)
 
-![春天的形状](https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![海牛的秘密生活](https://www.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[东湖樱花园的樱花，武汉，中国 (© Zhang Qiao/VCG/Getty Images)](https://www.bing.com/search?q=%E4%B8%AD%E5%9B%BD%E6%AD%A6%E6%B1%89%E4%B8%9C%E6%B9%96%E6%A8%B1%E8%8A%B1%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+[淡水泉中的幼年海牛，水晶河，佛罗里达州，美国 (© Gregory Sweeney/Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B5%B7%E7%89%9B%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-03 月壁纸 (24 张)
+## 2026-03 月壁纸 (25 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="春天的形状" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-03-24</strong> <a href="https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>春天的形状</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SonoranStorm_ZH-CN0579792563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="当水划出界线" style="width: 100%; border-radius: 8px;">
