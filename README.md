@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**海牛的秘密生活** (2026-03-25)
+**凌驾荒野之上** (2026-03-26)
 
-![海牛的秘密生活](https://www.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![凌驾荒野之上](https://www.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[淡水泉中的幼年海牛，水晶河，佛罗里达州，美国 (© Gregory Sweeney/Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B5%B7%E7%89%9B%E6%97%A5&form=hpcapt&mkt=zh-cn)
+[洛根溪吊桥，西海岸步道，加拿大 (© Tandem Stock/Adobe Stock)](https://www.bing.com/search?q=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%A5%BF%E6%B5%B7%E5%B2%B8%E6%AD%A5%E9%81%93&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-03 月壁纸 (25 张)
+## 2026-03 月壁纸 (26 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="海牛的秘密生活" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-03-25</strong> <a href="https://www.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>海牛的秘密生活</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="春天的形状" style="width: 100%; border-radius: 8px;">
