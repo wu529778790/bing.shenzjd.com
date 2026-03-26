@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**凌驾荒野之上** (2026-03-26)
+**依然明亮地燃烧着** (2026-03-27)
 
-![凌驾荒野之上](https://www.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![依然明亮地燃烧着](https://www.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[洛根溪吊桥，西海岸步道，加拿大 (© Tandem Stock/Adobe Stock)](https://www.bing.com/search?q=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%A5%BF%E6%B5%B7%E5%B2%B8%E6%AD%A5%E9%81%93&form=hpcapt&mkt=zh-cn)
+[纽约市的无线电城音乐厅, 美国 (© Clarence Holmes Photography/Alamy)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%88%8F%E5%89%A7%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-03 月壁纸 (26 张)
+## 2026-03 月壁纸 (27 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="凌驾荒野之上" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-03-26</strong> <a href="https://www.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>凌驾荒野之上</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="海牛的秘密生活" style="width: 100%; border-radius: 8px;">
