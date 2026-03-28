@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**未驯服的精神** (2026-03-28)
+**海边的宁静** (2026-03-29)
 
-![未驯服的精神](https://www.bing.com/th?id=OHR.CapeBuffalo_ZH-CN5591123662_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![海边的宁静](https://www.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[非洲水牛, 恩戈罗恩戈罗火山口, 坦桑尼亚 (© jesuss8/500px/Getty Images)](https://www.bing.com/search?q=%E9%9D%9E%E6%B4%B2%E6%B0%B4%E7%89%9B&form=hpcapt&mkt=zh-cn)
+[佩吉角灯塔, 大西洋海岸, 新斯科舍省, 加拿大 (© Prashanth Bala/Shutterstock)](https://www.bing.com/search?q=%E4%BD%A9%E5%90%89%E8%A7%92%E7%81%AF%E5%A1%94&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.CapeBuffalo_ZH-CN5591123662_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-03 月壁纸 (28 张)
+## 2026-03 月壁纸 (29 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.CapeBuffalo_ZH-CN5591123662_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="未驯服的精神" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-03-28</strong> <a href="https://www.bing.com/th?id=OHR.CapeBuffalo_ZH-CN5591123662_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>未驯服的精神</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="依然明亮地燃烧着" style="width: 100%; border-radius: 8px;">
