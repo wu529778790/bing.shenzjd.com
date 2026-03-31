@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**地下天堂** (2026-03-31)
+**跃入四月** (2026-04-01)
 
-![地下天堂](https://www.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![跃入四月](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[天堂洞, 峰牙-格邦国家公园, 越南 (© Pakawat Thongcharoen/Getty Images)](https://www.bing.com/search?q=%E8%B6%8A%E5%8D%97%E5%A4%A9%E5%A0%82%E6%B4%9E&form=hpcapt&mkt=zh-cn)
+[粉色牵牛花里的日本树蛙 (© Tetsuya Tanooka/Getty Images)](https://www.bing.com/search?q=%E6%97%A5%E6%9C%AC%E6%A0%91%E8%9B%99&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
 ## 2026-03 月壁纸 (31 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="地下天堂" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-03-31</strong> <a href="https://www.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>地下天堂</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.IndiaCranes_ZH-CN5871338482_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="优雅的动态" style="width: 100%; border-radius: 8px;">
@@ -198,7 +204,7 @@
 
 ## 历史归档
 
-[2026-03](./archives/2026-03.md) | [2026-02](./archives/2026-02.md) | [2026-01](./archives/2026-01.md) | [2025-12](./archives/2025-12.md) | [2025-11](./archives/2025-11.md) | [2025-10](./archives/2025-10.md) | [2025-09](./archives/2025-09.md) | [2025-08](./archives/2025-08.md) | [2025-07](./archives/2025-07.md) | [2025-02](./archives/2025-02.md)
+[2026-04](./archives/2026-04.md) | [2026-03](./archives/2026-03.md) | [2026-02](./archives/2026-02.md) | [2026-01](./archives/2026-01.md) | [2025-12](./archives/2025-12.md) | [2025-11](./archives/2025-11.md) | [2025-10](./archives/2025-10.md) | [2025-09](./archives/2025-09.md) | [2025-08](./archives/2025-08.md) | [2025-07](./archives/2025-07.md) | [2025-02](./archives/2025-02.md)
 
 ## 关于
 
