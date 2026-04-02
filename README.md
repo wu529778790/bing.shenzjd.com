@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**春天的图案** (2026-04-02)
+**一次挥动桥臂，连接两岸** (2026-04-03)
 
-![春天的图案](https://www.bing.com/th?id=OHR.WildflowerValley_ZH-CN7048300331_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![一次挥动桥臂，连接两岸](https://www.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[野花绽放, 中央谷地, 加利福尼亚州, 美国 (© Jeff Lewis/Tandem Stills + Motion)](https://www.bing.com/search?q=%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%B7%9E%E4%B8%AD%E5%A4%AE%E8%B0%B7%E5%9C%B0&form=hpcapt&mkt=zh-cn)
+[阿姆布鲁大桥，阿姆斯特丹，荷兰 (© Alexander Spatari/Getty Images)](https://www.bing.com/search?q=%E9%98%BF%E5%A7%86%E5%B8%83%E9%B2%81%E5%A4%A7%E6%A1%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.WildflowerValley_ZH-CN7048300331_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-04 月壁纸 (2 张)
+## 2026-04 月壁纸 (3 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.WildflowerValley_ZH-CN7048300331_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="春天的图案" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-04-02</strong> <a href="https://www.bing.com/th?id=OHR.WildflowerValley_ZH-CN7048300331_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>春天的图案</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="跃入四月" style="width: 100%; border-radius: 8px;">
