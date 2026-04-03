@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**一次挥动桥臂，连接两岸** (2026-04-03)
+**求偶展示场的故事** (2026-04-04)
 
-![一次挥动桥臂，连接两岸](https://www.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![求偶展示场的故事](https://www.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[阿姆布鲁大桥，阿姆斯特丹，荷兰 (© Alexander Spatari/Getty Images)](https://www.bing.com/search?q=%E9%98%BF%E5%A7%86%E5%B8%83%E9%B2%81%E5%A4%A7%E6%A1%A5&form=hpcapt&mkt=zh-cn)
+[求偶展示场上对峙的雄性黑琴鸡，爱沙尼亚 (© Sven Zacek/Nature Picture Library)](https://www.bing.com/search?q=%E9%BB%91%E7%90%B4%E9%B8%A1&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-04 月壁纸 (3 张)
+## 2026-04 月壁纸 (4 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="一次挥动桥臂，连接两岸" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-04-03</strong> <a href="https://www.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>一次挥动桥臂，连接两岸</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.WildflowerValley_ZH-CN7048300331_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="春天的图案" style="width: 100%; border-radius: 8px;">
