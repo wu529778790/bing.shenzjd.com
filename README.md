@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**求偶展示场的故事** (2026-04-04)
+**静静绽放的变化** (2026-04-05)
 
-![求偶展示场的故事](https://www.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![静静绽放的变化](https://www.bing.com/th?id=OHR.SpringSnowdrops_ZH-CN2933051747_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[求偶展示场上对峙的雄性黑琴鸡，爱沙尼亚 (© Sven Zacek/Nature Picture Library)](https://www.bing.com/search?q=%E9%BB%91%E7%90%B4%E9%B8%A1&form=hpcapt&mkt=zh-cn)
+[春天的雪钟花 (© klagyivik/Getty Images)](https://www.bing.com/search?q=%E9%9B%AA%E9%92%9F%E8%8A%B1&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.SpringSnowdrops_ZH-CN2933051747_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-04 月壁纸 (4 张)
+## 2026-04 月壁纸 (5 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="求偶展示场的故事" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-04-04</strong> <a href="https://www.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>求偶展示场的故事</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="一次挥动桥臂，连接两岸" style="width: 100%; border-radius: 8px;">
