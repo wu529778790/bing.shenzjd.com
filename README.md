@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**芬芳四月** (2026-04-06)
+**一根树枝，一点工程** (2026-04-07)
 
-![芬芳四月](https://www.bing.com/th?id=OHR.CastleBlossoms_ZH-CN3064288127_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![一根树枝，一点工程](https://www.bing.com/th?id=OHR.BeaverPortrait_ZH-CN4700069789_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[樱花盛开的弘前城，弘前，日本 (© Glenn Waters/Getty Images)](https://www.bing.com/search?q=%E6%97%A5%E6%9C%AC%E7%9A%84%E6%A8%B1%E8%8A%B1&form=hpcapt&mkt=zh-cn)
+[河狸，德国 (© Andyworks/Getty Images)](https://www.bing.com/search?q=beaver+rodent&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.CastleBlossoms_ZH-CN3064288127_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.BeaverPortrait_ZH-CN4700069789_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-04 月壁纸 (6 张)
+## 2026-04 月壁纸 (7 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.CastleBlossoms_ZH-CN3064288127_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="芬芳四月" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-04-06</strong> <a href="https://www.bing.com/th?id=OHR.CastleBlossoms_ZH-CN3064288127_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>芬芳四月</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SpringSnowdrops_ZH-CN2933051747_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="静静绽放的变化" style="width: 100%; border-radius: 8px;">
