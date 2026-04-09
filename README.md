@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**光之水帘** (2026-04-09)
+**算计的小爪子** (2026-04-10)
 
-![光之水帘](https://www.bing.com/th?id=OHR.WalesWaterfall_ZH-CN3175091833_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![算计的小爪子](https://www.bing.com/th?id=OHR.FoxSiblings_ZH-CN8133856518_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[雪落瀑布，布雷肯比肯斯国家公园，威尔士 (© Guy Edwardes/Nature Picture Library)](https://www.bing.com/search?q=%E5%B8%83%E9%9B%B7%E8%82%AF%E6%AF%94%E8%82%AF%E6%96%AF%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+[卡鲁拉国家公园的两只幼年赤狐, 爱沙尼亚 (© Sven Zacek/Nature Picture Library)](https://www.bing.com/search?q=%E5%B9%BC%E5%B9%B4%E8%B5%A4%E7%8B%90&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.WalesWaterfall_ZH-CN3175091833_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.FoxSiblings_ZH-CN8133856518_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-04 月壁纸 (9 张)
+## 2026-04 月壁纸 (10 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.WalesWaterfall_ZH-CN3175091833_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="光之水帘" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-04-09</strong> <a href="https://www.bing.com/th?id=OHR.WalesWaterfall_ZH-CN3175091833_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>光之水帘</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SeattleSunrise_ZH-CN2884575647_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="翡翠之城" style="width: 100%; border-radius: 8px;">
