@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**火山外衣** (2026-04-11)
+**离开地球的第一步** (2026-04-12)
 
-![火山外衣](https://www.bing.com/th?id=OHR.PlayaPapagayo_ZH-CN7708804019_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![离开地球的第一步](https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[帕帕加约海滩, 兰萨罗特, 加那利群岛, 西班牙 (© Gavin Hellier/Getty Images)](https://www.bing.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8A%A0%E9%82%A3%E5%88%A9%E7%BE%A4%E5%B2%9B%E5%85%B0%E8%90%A8%E7%BD%97%E7%89%B9%E5%B2%9B&form=hpcapt&mkt=zh-cn)
+[城市灯光在下方划过, 拍摄于国际空间站 (© NASA)](https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E4%BA%BA%E7%B1%BB%E8%88%AA%E5%A4%A9%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.PlayaPapagayo_ZH-CN7708804019_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-04 月壁纸 (11 张)
+## 2026-04 月壁纸 (12 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.PlayaPapagayo_ZH-CN7708804019_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="火山外衣" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-04-11</strong> <a href="https://www.bing.com/th?id=OHR.PlayaPapagayo_ZH-CN7708804019_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>火山外衣</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.FoxSiblings_ZH-CN8133856518_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="算计的小爪子" style="width: 100%; border-radius: 8px;">
