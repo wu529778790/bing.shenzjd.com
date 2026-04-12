@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**离开地球的第一步** (2026-04-12)
+**当灯光熄灭之后** (2026-04-13)
 
-![离开地球的第一步](https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![当灯光熄灭之后](https://www.bing.com/th?id=OHR.BorregoStars_ZH-CN8915519147_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[城市灯光在下方划过, 拍摄于国际空间站 (© NASA)](https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E4%BA%BA%E7%B1%BB%E8%88%AA%E5%A4%A9%E6%97%A5&form=hpcapt&mkt=zh-cn)
+[安扎-博雷戈沙漠州立公园上空的银河, 加利福尼亚州, 美国 (© Kevin Key/Slworking)/Getty Images)](https://www.bing.com/search?q=%E9%93%B6%E6%B2%B3&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.BorregoStars_ZH-CN8915519147_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-04 月壁纸 (12 张)
+## 2026-04 月壁纸 (13 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="离开地球的第一步" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-04-12</strong> <a href="https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>离开地球的第一步</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.PlayaPapagayo_ZH-CN7708804019_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="火山外衣" style="width: 100%; border-radius: 8px;">
