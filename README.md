@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**当灯光熄灭之后** (2026-04-13)
+**珊瑚礁邻居** (2026-04-14)
 
-![当灯光熄灭之后](https://www.bing.com/th?id=OHR.BorregoStars_ZH-CN8915519147_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![珊瑚礁邻居](https://www.bing.com/th?id=OHR.OcellarisClownfish_ZH-CN9362948727_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[安扎-博雷戈沙漠州立公园上空的银河, 加利福尼亚州, 美国 (© Kevin Key/Slworking)/Getty Images)](https://www.bing.com/search?q=%E9%93%B6%E6%B2%B3&form=hpcapt&mkt=zh-cn)
+[海葵中的普通小丑鱼, 拉贾安帕特群岛, 印度尼西亚 (© Magnus Lundgren/Nature Picture Library)](https://www.bing.com/search?q=%E6%B5%B7%E8%91%B5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.BorregoStars_ZH-CN8915519147_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.OcellarisClownfish_ZH-CN9362948727_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-04 月壁纸 (13 张)
+## 2026-04 月壁纸 (14 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.BorregoStars_ZH-CN8915519147_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="当灯光熄灭之后" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-04-13</strong> <a href="https://www.bing.com/th?id=OHR.BorregoStars_ZH-CN8915519147_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>当灯光熄灭之后</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="离开地球的第一步" style="width: 100%; border-radius: 8px;">
