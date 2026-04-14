@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**珊瑚礁邻居** (2026-04-14)
+**走进这幅鲜活的画布** (2026-04-15)
 
-![珊瑚礁邻居](https://www.bing.com/th?id=OHR.OcellarisClownfish_ZH-CN9362948727_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![走进这幅鲜活的画布](https://www.bing.com/th?id=OHR.VanGoghFields_ZH-CN3495668941_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[海葵中的普通小丑鱼, 拉贾安帕特群岛, 印度尼西亚 (© Magnus Lundgren/Nature Picture Library)](https://www.bing.com/search?q=%E6%B5%B7%E8%91%B5&form=hpcapt&mkt=zh-cn)
+[光之采石场的文森特·梵高展览, 莱博德普罗旺斯, 法国 (© Patrick Aventurier/Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E8%89%BA%E6%9C%AF%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.OcellarisClownfish_ZH-CN9362948727_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.VanGoghFields_ZH-CN3495668941_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-04 月壁纸 (14 张)
+## 2026-04 月壁纸 (15 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.OcellarisClownfish_ZH-CN9362948727_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="珊瑚礁邻居" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-04-14</strong> <a href="https://www.bing.com/th?id=OHR.OcellarisClownfish_ZH-CN9362948727_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>珊瑚礁邻居</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.BorregoStars_ZH-CN8915519147_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="当灯光熄灭之后" style="width: 100%; border-radius: 8px;">
