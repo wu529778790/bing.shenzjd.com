@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**花瓣巡游** (2026-04-16)
+**蝙蝠信号：开启** (2026-04-17)
 
-![花瓣巡游](https://www.bing.com/th?id=OHR.SkagitTulips_ZH-CN4234324174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![蝙蝠信号：开启](https://www.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[斯卡吉特谷地郁金香花田, 华盛顿, 美国 (© Alan Majchrowicz/Getty Images)](https://www.bing.com/search?q=%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%B7%9E%E6%96%AF%E5%8D%A1%E5%90%89%E7%89%B9%E8%B0%B7&form=hpcapt&mkt=zh-cn)
+[灰头狐蝠母亲携幼崽，雅拉湾国家公园，澳大利亚 (© Doug Gimesy/Nature Picture Library)](https://www.bing.com/search?q=%E8%9D%99%E8%9D%A0&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.SkagitTulips_ZH-CN4234324174_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-04 月壁纸 (16 张)
+## 2026-04 月壁纸 (17 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.SkagitTulips_ZH-CN4234324174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="花瓣巡游" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-04-16</strong> <a href="https://www.bing.com/th?id=OHR.SkagitTulips_ZH-CN4234324174_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>花瓣巡游</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.VanGoghFields_ZH-CN3495668941_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="走进这幅鲜活的画布" style="width: 100%; border-radius: 8px;">
