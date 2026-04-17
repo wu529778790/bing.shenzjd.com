@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**蝙蝠信号：开启** (2026-04-17)
+**未完成巨像的静默** (2026-04-18)
 
-![蝙蝠信号：开启](https://www.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![未完成巨像的静默](https://www.bing.com/th?id=OHR.MaoiStatues_ZH-CN3219447748_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[灰头狐蝠母亲携幼崽，雅拉湾国家公园，澳大利亚 (© Doug Gimesy/Nature Picture Library)](https://www.bing.com/search?q=%E8%9D%99%E8%9D%A0&form=hpcapt&mkt=zh-cn)
+[摩艾石像采石场，拉诺拉拉库，复活节岛，智利 (© Gavin Hellier/Alamy)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E9%81%97%E4%BA%A7%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.MaoiStatues_ZH-CN3219447748_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-04 月壁纸 (17 张)
+## 2026-04 月壁纸 (18 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="蝙蝠信号：开启" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-04-17</strong> <a href="https://www.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>蝙蝠信号：开启</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SkagitTulips_ZH-CN4234324174_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="花瓣巡游" style="width: 100%; border-radius: 8px;">
