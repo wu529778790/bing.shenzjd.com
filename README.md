@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**日落之后，探索仍在继续** (2026-04-20)
+**春季的“带刺巡逻兵”** (2026-04-21)
 
-![日落之后，探索仍在继续](https://www.bing.com/th?id=OHR.SunsetKiva_ZH-CN3978606378_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![春季的“带刺巡逻兵”](https://www.bing.com/th?id=OHR.SpringHedgehog_ZH-CN5232922916_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[夕阳下的峡谷地国家公园，莫阿布，犹他州，美国 (© Jason Hatfield/Tandem Stills + Motion)](https://www.bing.com/search?q=%E5%B3%A1%E8%B0%B7%E5%9C%B0%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+[西欧刺猬，法国 (© Klein & Hubert/Nature Picture Library)](https://www.bing.com/search?q=%E8%A5%BF%E6%AC%A7%E5%88%BA%E7%8C%AC&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.SunsetKiva_ZH-CN3978606378_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.SpringHedgehog_ZH-CN5232922916_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-04 月壁纸 (20 张)
+## 2026-04 月壁纸 (21 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.SunsetKiva_ZH-CN3978606378_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="日落之后，探索仍在继续" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-04-20</strong> <a href="https://www.bing.com/th?id=OHR.SunsetKiva_ZH-CN3978606378_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>日落之后，探索仍在继续</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.TranBA_ZH-CN3467060262_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="潮汐留下的印记" style="width: 100%; border-radius: 8px;">
