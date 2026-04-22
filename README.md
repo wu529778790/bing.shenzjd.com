@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**行动的力量** (2026-04-22)
+**一座充满故事的小屋** (2026-04-23)
 
-![行动的力量](https://www.bing.com/th?id=OHR.TartuEstonia_ZH-CN5477370206_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![一座充满故事的小屋](https://www.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[阿拉姆-佩德亚自然保护区，塔尔图县，爱沙尼亚 (© Sven Zacek/Nature Picture Library)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%83%E6%97%A5&form=hpcapt&mkt=zh-cn)
+[安妮·海瑟薇的小屋与花园，埃文河畔斯特拉特，英格兰 (© David Steele/Shutterstock)](https://www.bing.com/search?q=%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9A%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.TartuEstonia_ZH-CN5477370206_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-04 月壁纸 (22 张)
+## 2026-04 月壁纸 (23 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.TartuEstonia_ZH-CN5477370206_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="行动的力量" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-04-22</strong> <a href="https://www.bing.com/th?id=OHR.TartuEstonia_ZH-CN5477370206_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>行动的力量</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SpringHedgehog_ZH-CN5232922916_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="春季的“带刺巡逻兵”" style="width: 100%; border-radius: 8px;">
