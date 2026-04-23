@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**一座充满故事的小屋** (2026-04-23)
+**向树木致敬** (2026-04-24)
 
-![一座充满故事的小屋](https://www.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![向树木致敬](https://www.bing.com/th?id=OHR.SlashPine_ZH-CN5629388290_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[安妮·海瑟薇的小屋与花园，埃文河畔斯特拉特，英格兰 (© David Steele/Shutterstock)](https://www.bing.com/search?q=%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9A%E6%97%A5&form=hpcapt&mkt=zh-cn)
+[湿地松和锯棕榈组成的森林吊床, 大沼泽地国家公园, 佛罗里达, 美国 (© Mary Liz Austin/Alamy)](https://www.bing.com/search?q=%E5%A4%A7%E6%B2%BC%E6%B3%BD%E5%9C%B0%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.SlashPine_ZH-CN5629388290_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-04 月壁纸 (23 张)
+## 2026-04 月壁纸 (24 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="一座充满故事的小屋" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-04-23</strong> <a href="https://www.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>一座充满故事的小屋</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.TartuEstonia_ZH-CN5477370206_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="行动的力量" style="width: 100%; border-radius: 8px;">
