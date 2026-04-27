@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**有格调的玻璃** (2026-04-27)
+**野外奇观** (2026-04-28)
 
-![有格调的玻璃](https://www.bing.com/th?id=OHR.MilanGalleria_ZH-CN6060869879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![野外奇观](https://www.bing.com/th?id=OHR.AndeanBear_ZH-CN6152330738_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[维托里奥·埃马努埃莱二世拱廊的玻璃穹顶, 米兰, 意大利 (© PhillipMinnis/Getty Images)](https://www.bing.com/search?q=%E5%9F%83%E9%A9%AC%E5%8A%AA%E5%9F%83%E8%8E%B1%E4%BA%8C%E4%B8%96%E6%8B%B1%E5%BB%8A&form=hpcapt&mkt=zh-cn)
+[眼镜熊在树上休息, 厄瓜多尔 (© Andy Rouse/Nature Picture Library)](https://www.bing.com/search?q=%E7%9C%BC%E9%95%9C%E7%86%8A&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.MilanGalleria_ZH-CN6060869879_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.AndeanBear_ZH-CN6152330738_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-04 月壁纸 (27 张)
+## 2026-04 月壁纸 (28 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.MilanGalleria_ZH-CN6060869879_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="有格调的玻璃" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-04-27</strong> <a href="https://www.bing.com/th?id=OHR.MilanGalleria_ZH-CN6060869879_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>有格调的玻璃</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.AppleBlossoms_ZH-CN5887711928_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="繁花盛放" style="width: 100%; border-radius: 8px;">
