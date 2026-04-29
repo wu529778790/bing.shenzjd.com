@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**历史镌刻于石上** (2026-04-29)
+**郁金香是这里的主角** (2026-04-30)
 
-![历史镌刻于石上](https://www.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![郁金香是这里的主角](https://www.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[塔霍河岸边的贝伦塔, 里斯本, 葡萄牙 (© f9photos/Getty Images)](https://www.bing.com/search?q=%E8%B4%9D%E4%BC%A6%E5%A1%94&form=hpcapt&mkt=zh-cn)
+[葡萄风信子和郁金香, 库肯霍夫花园, 利塞, 荷兰 (© Martin Ruegner/Getty Images)](https://www.bing.com/search?q=%E5%BA%93%E8%82%AF%E9%9C%8D%E5%A4%AB%E8%8A%B1%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-04 月壁纸 (29 张)
+## 2026-04 月壁纸 (30 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="历史镌刻于石上" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-04-29</strong> <a href="https://www.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>历史镌刻于石上</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.AndeanBear_ZH-CN6152330738_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="野外奇观" style="width: 100%; border-radius: 8px;">
