@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**郁金香是这里的主角** (2026-04-30)
+**初夏·翠微长城** (2026-05-01)
 
-![郁金香是这里的主角](https://www.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![初夏·翠微长城](https://www.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[葡萄风信子和郁金香, 库肯霍夫花园, 利塞, 荷兰 (© Martin Ruegner/Getty Images)](https://www.bing.com/search?q=%E5%BA%93%E8%82%AF%E9%9C%8D%E5%A4%AB%E8%8A%B1%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+[中国的长城 (© aphotostory/Getty Images)](https://www.bing.com/search?q=%E9%95%BF%E5%9F%8E&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
 ## 2026-04 月壁纸 (30 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="郁金香是这里的主角" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-04-30</strong> <a href="https://www.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>郁金香是这里的主角</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="历史镌刻于石上" style="width: 100%; border-radius: 8px;">
@@ -192,7 +198,7 @@
 
 ## 历史归档
 
-[2026-04](./archives/2026-04.md) | [2026-03](./archives/2026-03.md) | [2026-02](./archives/2026-02.md) | [2026-01](./archives/2026-01.md) | [2025-12](./archives/2025-12.md) | [2025-11](./archives/2025-11.md) | [2025-10](./archives/2025-10.md) | [2025-09](./archives/2025-09.md) | [2025-08](./archives/2025-08.md) | [2025-07](./archives/2025-07.md) | [2025-02](./archives/2025-02.md)
+[2026-05](./archives/2026-05.md) | [2026-04](./archives/2026-04.md) | [2026-03](./archives/2026-03.md) | [2026-02](./archives/2026-02.md) | [2026-01](./archives/2026-01.md) | [2025-12](./archives/2025-12.md) | [2025-11](./archives/2025-11.md) | [2025-10](./archives/2025-10.md) | [2025-09](./archives/2025-09.md) | [2025-08](./archives/2025-08.md) | [2025-07](./archives/2025-07.md) | [2025-02](./archives/2025-02.md)
 
 ## 关于
 
