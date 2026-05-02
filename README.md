@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**贾斯珀的自然魅力** (2026-05-02)
+**萨瓦纳的晚霞** (2026-05-03)
 
-![贾斯珀的自然魅力](https://www.bing.com/th?id=OHR.GreenJasper_ZH-CN3030401138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![萨瓦纳的晚霞](https://www.bing.com/th?id=OHR.MasaiLeopard_ZH-CN3406483238_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[阿尔伯塔省贾斯珀国家公园中的小型湖泊与湿地，加拿大 (© Don White/Getty Images)](https://www.bing.com/search?q=%E9%98%BF%E5%B0%94%E4%BC%AF%E5%A1%94%E7%9C%81%E8%B4%BE%E6%96%AF%E7%8F%80%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+[萨瓦纳草原的树上睡觉的豹子，马赛马拉国家保护区，肯尼亚 (© Klein & Hubert/Nature Picture Library)](https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E8%B1%B9%E7%B1%BB%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.GreenJasper_ZH-CN3030401138_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.MasaiLeopard_ZH-CN3406483238_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-05 月壁纸 (2 张)
+## 2026-05 月壁纸 (3 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.GreenJasper_ZH-CN3030401138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="贾斯珀的自然魅力" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-05-02</strong> <a href="https://www.bing.com/th?id=OHR.GreenJasper_ZH-CN3030401138_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>贾斯珀的自然魅力</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="初夏·翠微长城" style="width: 100%; border-radius: 8px;">
