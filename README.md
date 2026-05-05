@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**藕花风起，首夏清和** (2026-05-05)
+**承受压力之下的平原** (2026-05-06)
 
-![藕花风起，首夏清和](https://www.bing.com/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![承受压力之下的平原](https://www.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[莲花与莲花植株 (© real444/Getty Images)](https://www.bing.com/search?q=%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%8D%B7%E8%8A%B1&form=hpcapt&mkt=zh-cn)
+[平原上空的雷暴，保加利亚 (© Revolu7ion93/Getty Images)](https://www.bing.com/search?q=%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-05 月壁纸 (5 张)
+## 2026-05 月壁纸 (6 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="藕花风起，首夏清和" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-05-05</strong> <a href="https://www.bing.com/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>藕花风起，首夏清和</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.KsarOuledSoltane_ZH-CN3569810663_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="科幻源于现实" style="width: 100%; border-radius: 8px;">
