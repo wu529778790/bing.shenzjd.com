@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**广袤铺展的沙漠** (2026-05-07)
+**不仅仅是一声咿呀学语** (2026-05-08)
 
-![广袤铺展的沙漠](https://www.bing.com/th?id=OHR.Kofa_ZH-CN0584573563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![不仅仅是一声咿呀学语](https://www.bing.com/th?id=OHR.SardinianDonkey_ZH-CN0758031524_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[科法国家野生动物保护区，亚利桑那州，美国 (© Denis Tangney Jr/Getty Images)](https://www.bing.com/search?q=%E7%A7%91%E6%B3%95%E5%9B%BD%E5%AE%B6%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E4%BF%9D%E6%8A%A4%E5%8C%BA&form=hpcapt&mkt=zh-cn)
+[撒丁岛母驴和幼崽, 法国 (© Klein & Hubert/Nature Picture Library)](https://www.bing.com/search?q=%E9%A9%B4&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.Kofa_ZH-CN0584573563_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.SardinianDonkey_ZH-CN0758031524_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-05 月壁纸 (7 张)
+## 2026-05 月壁纸 (8 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.Kofa_ZH-CN0584573563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="广袤铺展的沙漠" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-05-07</strong> <a href="https://www.bing.com/th?id=OHR.Kofa_ZH-CN0584573563_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>广袤铺展的沙漠</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="承受压力之下的平原" style="width: 100%; border-radius: 8px;">
