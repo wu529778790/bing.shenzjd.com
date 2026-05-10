@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**一份经久不衰的羁绊** (2026-05-10)
+**水下建筑** (2026-05-11)
 
-![一份经久不衰的羁绊](https://www.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![水下建筑](https://www.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[北极熊妈妈和幼崽在瓦普斯克国家公园玩耍, 马尼托巴省, 加拿大 (© Hao Jiang/Getty Images)](https://www.bing.com/search?q=%E6%AF%8D%E4%BA%B2%E8%8A%82&form=hpcapt&mkt=zh-cn)
+[从上方俯瞰大堡礁, 昆士兰州, 澳大利亚 (© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/search?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%A4%A7%E5%A0%A1%E7%A4%81&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-05 月壁纸 (10 张)
+## 2026-05 月壁纸 (11 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="一份经久不衰的羁绊" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-05-10</strong> <a href="https://www.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>一份经久不衰的羁绊</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SkradinskiBuk_ZH-CN0882603359_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="克尔卡的造物主" style="width: 100%; border-radius: 8px;">
