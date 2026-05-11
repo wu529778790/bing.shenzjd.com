@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**水下建筑** (2026-05-11)
+**振翅, 潜水, 生存** (2026-05-12)
 
-![水下建筑](https://www.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![振翅, 潜水, 生存](https://www.bing.com/th?id=OHR.Fratercula_ZH-CN1239275412_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[从上方俯瞰大堡礁, 昆士兰州, 澳大利亚 (© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/search?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%A4%A7%E5%A0%A1%E7%A4%81&form=hpcapt&mkt=zh-cn)
+[北极海鹦, 威尔士 (© FLPA/Alamy)](https://www.bing.com/search?q=%E5%8C%97%E6%9E%81%E6%B5%B7%E9%B9%A6&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.Fratercula_ZH-CN1239275412_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-05 月壁纸 (11 张)
+## 2026-05 月壁纸 (12 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="水下建筑" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-05-11</strong> <a href="https://www.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>水下建筑</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="一份经久不衰的羁绊" style="width: 100%; border-radius: 8px;">
