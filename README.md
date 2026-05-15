@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**鲸鱼，你会救我吗？** (2026-05-15)
+**跌到谷底？这里可不是。** (2026-05-16)
 
-![鲸鱼，你会救我吗？](https://www.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![跌到谷底？这里可不是。](https://www.bing.com/th?id=OHR.SmithRockPark_ZH-CN4210144402_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[一群抹香鲸, 印度洋 (© Tony Wu/Nature Picture Library)](https://www.bing.com/search?q=%E6%8A%B9%E9%A6%99%E9%B2%B8&form=hpcapt&mkt=zh-cn)
+[史密斯岩州立公园, 俄勒冈州, 美国 (© Alex Ratson/Getty Images)](https://www.bing.com/search?q=%E5%8F%B2%E5%AF%86%E6%96%AF%E5%B2%A9%E5%B7%9E%E7%AB%8B%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.SmithRockPark_ZH-CN4210144402_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-05 月壁纸 (15 张)
+## 2026-05 月壁纸 (16 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="鲸鱼，你会救我吗？" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-05-15</strong> <a href="https://www.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>鲸鱼，你会救我吗？</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.Pitigliano_ZH-CN1509921892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="一场穿越时空的旅程" style="width: 100%; border-radius: 8px;">
