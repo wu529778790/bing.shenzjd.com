@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**为龟类喝彩！** (2026-05-23)
+**守护欧洲的自然净土** (2026-05-24)
 
-![为龟类喝彩！](https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_ZH-CN7043849571_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![守护欧洲的自然净土](https://www.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[与蝴蝶在一起的乌龟 (© Patrick Gallet/Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E4%B9%8C%E9%BE%9F%E6%97%A5&form=hpcapt&mkt=zh-cn)
+[三峰自然公园，南蒂罗尔，意大利 (© Adisorn Fineday Chutikunakorn/Getty Images)](https://www.bing.com/search?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E4%B8%89%E5%B3%B0%E8%87%AA%E7%84%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_ZH-CN7043849571_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-05 月壁纸 (23 张)
+## 2026-05 月壁纸 (24 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_ZH-CN7043849571_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="为龟类喝彩！" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-05-23</strong> <a href="https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_ZH-CN7043849571_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>为龟类喝彩！</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.KauehiAtollLagoon_ZH-CN9552036080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="海洋生命的律动" style="width: 100%; border-radius: 8px;">
