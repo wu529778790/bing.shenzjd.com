@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**守护欧洲的自然净土** (2026-05-24)
+**石间的清风** (2026-05-25)
 
-![守护欧洲的自然净土](https://www.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![石间的清风](https://www.bing.com/th?id=OHR.HawaMahal2026_ZH-CN7233246545_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[三峰自然公园，南蒂罗尔，意大利 (© Adisorn Fineday Chutikunakorn/Getty Images)](https://www.bing.com/search?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E4%B8%89%E5%B3%B0%E8%87%AA%E7%84%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+[从风之宫殿俯瞰斋浦尔市景，拉贾斯坦邦，印度 (© byheaven/Getty Images)](https://www.bing.com/search?q=%E9%A3%8E%E4%B9%8B%E5%AE%AB&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.HawaMahal2026_ZH-CN7233246545_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-05 月壁纸 (24 张)
+## 2026-05 月壁纸 (25 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="守护欧洲的自然净土" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-05-24</strong> <a href="https://www.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>守护欧洲的自然净土</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_ZH-CN7043849571_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="为龟类喝彩！" style="width: 100%; border-radius: 8px;">
