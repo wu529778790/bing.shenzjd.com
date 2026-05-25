@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**石间的清风** (2026-05-25)
+**羽扇豆书写的季节** (2026-05-26)
 
-![石间的清风](https://www.bing.com/th?id=OHR.HawaMahal2026_ZH-CN7233246545_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![羽扇豆书写的季节](https://www.bing.com/th?id=OHR.LupineBloom_ZH-CN7639721663_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[从风之宫殿俯瞰斋浦尔市景，拉贾斯坦邦，印度 (© byheaven/Getty Images)](https://www.bing.com/search?q=%E9%A3%8E%E4%B9%8B%E5%AE%AB&form=hpcapt&mkt=zh-cn)
+[盛开的羽扇豆，北加利福尼亚州，美国 (© Jeffrey Lewis/Tandem Stills + Motion)](https://www.bing.com/search?q=%E7%BE%BD%E6%89%87%E8%B1%86&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.HawaMahal2026_ZH-CN7233246545_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.LupineBloom_ZH-CN7639721663_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-05 月壁纸 (25 张)
+## 2026-05 月壁纸 (26 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.HawaMahal2026_ZH-CN7233246545_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="石间的清风" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-05-25</strong> <a href="https://www.bing.com/th?id=OHR.HawaMahal2026_ZH-CN7233246545_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>石间的清风</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="守护欧洲的自然净土" style="width: 100%; border-radius: 8px;">
