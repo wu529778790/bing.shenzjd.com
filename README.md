@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**设计与秩序相结合** (2026-05-28)
+**巅峰历史时刻** (2026-05-29)
 
-![设计与秩序相结合](https://www.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![巅峰历史时刻](https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[华城堡的古城墙，水原，韩国 (© aomam/Getty Images)](https://www.bing.com/search?q=%E9%9F%A9%E5%9B%BD%E6%B0%B4%E5%8E%9F%E7%9A%84%E5%8D%8E%E5%9F%8E%E5%A0%A1&form=hpcapt&mkt=zh-cn)
+[珠穆朗玛峰峰顶，萨加玛塔国家公园，尼泊尔 (© fotoVoyager/Getty Images)](https://www.bing.com/search?q=%E4%BA%BA%E7%B1%BB%E9%A6%96%E6%AC%A1%E5%BE%81%E6%9C%8D%E4%B8%96%E7%95%8C%E6%9C%80%E9%AB%98%E5%B3%B0&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-05 月壁纸 (27 张)
+## 2026-05 月壁纸 (28 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="设计与秩序相结合" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-05-28</strong> <a href="https://www.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>设计与秩序相结合</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.LupineBloom_ZH-CN7639721663_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="羽扇豆书写的季节" style="width: 100%; border-radius: 8px;">
