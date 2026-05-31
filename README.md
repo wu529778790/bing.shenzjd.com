@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**顺流而行** (2026-05-31)
+**历史的况味** (2026-06-01)
 
-![顺流而行](https://www.bing.com/th?id=OHR.EvergladesWetlands_ZH-CN9515366484_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![历史的况味](https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[大沼泽地国家公园航拍景观，佛罗里达州，美国 (© Tetra Images/Getty Images)](https://www.bing.com/search?q=%E5%A4%A7%E6%B2%BC%E6%B3%BD%E5%9C%B0%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+[巴勒莫暮色下的天际线，西西里岛，意大利 (© Sean Pavone/Getty Images)](https://www.bing.com/search?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B7%B4%E5%8B%92%E8%8E%AB&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.EvergladesWetlands_ZH-CN9515366484_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
 ## 2026-05 月壁纸 (30 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.EvergladesWetlands_ZH-CN9515366484_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="顺流而行" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-05-31</strong> <a href="https://www.bing.com/th?id=OHR.EvergladesWetlands_ZH-CN9515366484_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>顺流而行</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.EquusQuagga_ZH-CN9323988132_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="读懂黑白之间" style="width: 100%; border-radius: 8px;">
@@ -192,7 +198,7 @@
 
 ## 历史归档
 
-[2026-05](./archives/2026-05.md) | [2026-04](./archives/2026-04.md) | [2026-03](./archives/2026-03.md) | [2026-02](./archives/2026-02.md) | [2026-01](./archives/2026-01.md) | [2025-12](./archives/2025-12.md) | [2025-11](./archives/2025-11.md) | [2025-10](./archives/2025-10.md) | [2025-09](./archives/2025-09.md) | [2025-08](./archives/2025-08.md) | [2025-07](./archives/2025-07.md) | [2025-02](./archives/2025-02.md)
+[2026-06](./archives/2026-06.md) | [2026-05](./archives/2026-05.md) | [2026-04](./archives/2026-04.md) | [2026-03](./archives/2026-03.md) | [2026-02](./archives/2026-02.md) | [2026-01](./archives/2026-01.md) | [2025-12](./archives/2025-12.md) | [2025-11](./archives/2025-11.md) | [2025-10](./archives/2025-10.md) | [2025-09](./archives/2025-09.md) | [2025-08](./archives/2025-08.md) | [2025-07](./archives/2025-07.md) | [2025-02](./archives/2025-02.md)
 
 ## 关于
 
