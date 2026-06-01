@@ -2,196 +2,22 @@
 
 ## 今日壁纸
 
-**历史的况味** (2026-06-01)
+**穿行于蓝色之间** (2026-06-02)
 
-![历史的况味](https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![穿行于蓝色之间](https://www.bing.com/th?id=OHR.Qinghai_ZH-CN9899656327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[巴勒莫暮色下的天际线，西西里岛，意大利 (© Sean Pavone/Getty Images)](https://www.bing.com/search?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B7%B4%E5%8B%92%E8%8E%AB&form=hpcapt&mkt=zh-cn)
+[穿越西台吉乃尔湖的公路，青海省，中国 (© Kaicheng Xu/Getty Images)](https://www.bing.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9F%B4%E8%BE%BE%E6%9C%A8%E7%9B%86%E5%9C%B0&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.Qinghai_ZH-CN9899656327_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-05 月壁纸 (30 张)
+## 2026-06 月壁纸 (2 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
 <div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.EvergladesWetlands_ZH-CN9515366484_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="顺流而行" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-31</strong> <a href="https://www.bing.com/th?id=OHR.EvergladesWetlands_ZH-CN9515366484_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>顺流而行</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.EquusQuagga_ZH-CN9323988132_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="读懂黑白之间" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-30</strong> <a href="https://www.bing.com/th?id=OHR.EquusQuagga_ZH-CN9323988132_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>读懂黑白之间</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="巅峰历史时刻" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-29</strong> <a href="https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>巅峰历史时刻</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="设计与秩序相结合" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-28</strong> <a href="https://www.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>设计与秩序相结合</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.LupineBloom_ZH-CN7639721663_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="羽扇豆书写的季节" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-26</strong> <a href="https://www.bing.com/th?id=OHR.LupineBloom_ZH-CN7639721663_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>羽扇豆书写的季节</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.HawaMahal2026_ZH-CN7233246545_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="石间的清风" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-25</strong> <a href="https://www.bing.com/th?id=OHR.HawaMahal2026_ZH-CN7233246545_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>石间的清风</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="守护欧洲的自然净土" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-24</strong> <a href="https://www.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>守护欧洲的自然净土</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_ZH-CN7043849571_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="为龟类喝彩！" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-23</strong> <a href="https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_ZH-CN7043849571_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>为龟类喝彩！</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.KauehiAtollLagoon_ZH-CN9552036080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="海洋生命的律动" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-22</strong> <a href="https://www.bing.com/th?id=OHR.KauehiAtollLagoon_ZH-CN9552036080_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>海洋生命的律动</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.SichuanTea_ZH-CN6703437873_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="酿造传承" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-21</strong> <a href="https://www.bing.com/th?id=OHR.SichuanTea_ZH-CN6703437873_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>酿造传承</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.BumbleBee_ZH-CN6429376340_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="喧闹从这里开始" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-20</strong> <a href="https://www.bing.com/th?id=OHR.BumbleBee_ZH-CN6429376340_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>喧闹从这里开始</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.SpainLighthouse_ZH-CN6024263415_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="马略卡岛的边缘" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-19</strong> <a href="https://www.bing.com/th?id=OHR.SpainLighthouse_ZH-CN6024263415_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>马略卡岛的边缘</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.MuseumLondon_ZH-CN5602977820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="大厅里的希望" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-18</strong> <a href="https://www.bing.com/th?id=OHR.MuseumLondon_ZH-CN5602977820_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>大厅里的希望</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.ShenandoahSunset_ZH-CN4399136794_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="静谧之巅，喧嚣之景" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-17</strong> <a href="https://www.bing.com/th?id=OHR.ShenandoahSunset_ZH-CN4399136794_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>静谧之巅，喧嚣之景</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.SmithRockPark_ZH-CN4210144402_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="跌到谷底？这里可不是。" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-16</strong> <a href="https://www.bing.com/th?id=OHR.SmithRockPark_ZH-CN4210144402_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>跌到谷底？这里可不是。</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="鲸鱼，你会救我吗？" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-15</strong> <a href="https://www.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>鲸鱼，你会救我吗？</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.Pitigliano_ZH-CN1509921892_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="一场穿越时空的旅程" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-14</strong> <a href="https://www.bing.com/th?id=OHR.Pitigliano_ZH-CN1509921892_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>一场穿越时空的旅程</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.AlabamaHills_ZH-CN1387018045_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="银河系，摇滚吧！" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-13</strong> <a href="https://www.bing.com/th?id=OHR.AlabamaHills_ZH-CN1387018045_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>银河系，摇滚吧！</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.Fratercula_ZH-CN1239275412_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="振翅, 潜水, 生存" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-12</strong> <a href="https://www.bing.com/th?id=OHR.Fratercula_ZH-CN1239275412_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>振翅, 潜水, 生存</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="水下建筑" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-11</strong> <a href="https://www.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>水下建筑</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="一份经久不衰的羁绊" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-10</strong> <a href="https://www.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>一份经久不衰的羁绊</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.SkradinskiBuk_ZH-CN0882603359_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="克尔卡的造物主" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-09</strong> <a href="https://www.bing.com/th?id=OHR.SkradinskiBuk_ZH-CN0882603359_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>克尔卡的造物主</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.SardinianDonkey_ZH-CN0758031524_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="不仅仅是一声咿呀学语" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-08</strong> <a href="https://www.bing.com/th?id=OHR.SardinianDonkey_ZH-CN0758031524_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>不仅仅是一声咿呀学语</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.Kofa_ZH-CN0584573563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="广袤铺展的沙漠" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-07</strong> <a href="https://www.bing.com/th?id=OHR.Kofa_ZH-CN0584573563_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>广袤铺展的沙漠</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="承受压力之下的平原" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-06</strong> <a href="https://www.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>承受压力之下的平原</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="藕花风起，首夏清和" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-05</strong> <a href="https://www.bing.com/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>藕花风起，首夏清和</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.KsarOuledSoltane_ZH-CN3569810663_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="科幻源于现实" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-04</strong> <a href="https://www.bing.com/th?id=OHR.KsarOuledSoltane_ZH-CN3569810663_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>科幻源于现实</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.MasaiLeopard_ZH-CN3406483238_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="萨瓦纳的晚霞" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-03</strong> <a href="https://www.bing.com/th?id=OHR.MasaiLeopard_ZH-CN3406483238_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>萨瓦纳的晚霞</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.GreenJasper_ZH-CN3030401138_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="贾斯珀的自然魅力" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-02</strong> <a href="https://www.bing.com/th?id=OHR.GreenJasper_ZH-CN3030401138_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>贾斯珀的自然魅力</p>
-</div>
-
-<div style="text-align: center;">
-<img src="https://www.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="初夏·翠微长城" style="width: 100%; border-radius: 8px;">
-<p><strong>2026-05-01</strong> <a href="https://www.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
-<p>初夏·翠微长城</p>
+<img src="https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="历史的况味" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-06-01</strong> <a href="https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>历史的况味</p>
 </div>
 
 </div>
