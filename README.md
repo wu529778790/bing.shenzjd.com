@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**优雅羽饰** (2026-06-04)
+**无人问津之地的静默力量** (2026-06-05)
 
-![优雅羽饰](https://www.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![无人问津之地的静默力量](https://www.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[梳理羽毛的雪鹭，佛罗里达州中部，美国 (© Donald M. Jones/Minden Pictures)](https://www.bing.com/search?q=%E9%9B%AA%E9%B9%AD&form=hpcapt&mkt=zh-cn)
+[从斯基尔夫山俯瞰拉帕达伦河三角洲, 萨雷克国家公园, 拉波尼亚, 瑞典拉普兰 (© Robert Haasmann/Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E7%8E%AF%E5%A2%83%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-06 月壁纸 (4 张)
+## 2026-06 月壁纸 (5 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="优雅羽饰" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-06-04</strong> <a href="https://www.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>优雅羽饰</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="路之所止，行之所启" style="width: 100%; border-radius: 8px;">
