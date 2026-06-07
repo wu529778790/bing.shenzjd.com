@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**最后一堵墙矗立着** (2026-06-07)
+**随波逐流** (2026-06-08)
 
-![最后一堵墙矗立着](https://www.bing.com/th?id=OHR.DunseverickCastle2026_ZH-CN3036266326_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![随波逐流](https://www.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[邓塞弗里克城堡遗址, 安特里姆郡, 北爱尔兰 (© Krzysztof Rogalski/Getty Images)](https://www.bing.com/search?q=%E9%82%93%E5%A1%9E%E5%BC%97%E9%87%8C%E5%85%8B%E5%9F%8E%E5%A0%A1++&form=hpcapt&mkt=zh-cn)
+[在海洋中游动的狮鬃水母 (© Alexander Semenov Images/Shutterstock)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B5%B7%E6%B4%8B%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.DunseverickCastle2026_ZH-CN3036266326_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-06 月壁纸 (7 张)
+## 2026-06 月壁纸 (8 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.DunseverickCastle2026_ZH-CN3036266326_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="最后一堵墙矗立着" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-06-07</strong> <a href="https://www.bing.com/th?id=OHR.DunseverickCastle2026_ZH-CN3036266326_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>最后一堵墙矗立着</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.HikingNatchez_ZH-CN2495512699_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="多走走，多思考" style="width: 100%; border-radius: 8px;">
