@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**品尝日落** (2026-06-09)
+**一抹蓝色** (2026-06-10)
 
-![品尝日落](https://www.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![一抹蓝色](https://www.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[韦尔纳扎, 五渔村, 利古里亚, 意大利 (© Kelly Cheng/Getty Images)](https://www.bing.com/search?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E9%9F%A6%E5%B0%94%E7%BA%B3%E6%89%8E%E4%BA%94%E6%B8%94%E6%9D%91&form=hpcapt&mkt=zh-cn)
+[赫瑙萨波鲁尔火山口, 菲亚拉巴克自然保护区, 兰德曼纳劳加尔, 冰岛 (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/search?q=%E5%86%B0%E5%B2%9B%E8%B5%AB%E7%91%99%E8%90%A8%E6%B3%A2%E9%B2%81%E5%B0%94&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-06 月壁纸 (9 张)
+## 2026-06 月壁纸 (10 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="品尝日落" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-06-09</strong> <a href="https://www.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>品尝日落</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="随波逐流" style="width: 100%; border-radius: 8px;">
