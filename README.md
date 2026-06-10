@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**一抹蓝色** (2026-06-10)
+**沉静的力量** (2026-06-11)
 
-![一抹蓝色](https://www.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![沉静的力量](https://www.bing.com/th?id=OHR.Limpets_ZH-CN4991771513_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[赫瑙萨波鲁尔火山口, 菲亚拉巴克自然保护区, 兰德曼纳劳加尔, 冰岛 (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/search?q=%E5%86%B0%E5%B2%9B%E8%B5%AB%E7%91%99%E8%90%A8%E6%B3%A2%E9%B2%81%E5%B0%94&form=hpcapt&mkt=zh-cn)
+[退潮时裸露在乌尔萨海滩海岸上的帽贝, 葡萄牙 (© Theo Bosboom/Nature Picture Library)](https://www.bing.com/search?q=%E8%91%A1%E8%90%84%E7%89%99%E4%B9%8C%E5%B0%94%E8%90%A8%E6%B5%B7%E6%BB%A9&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.Limpets_ZH-CN4991771513_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-06 月壁纸 (10 张)
+## 2026-06 月壁纸 (11 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="一抹蓝色" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-06-10</strong> <a href="https://www.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>一抹蓝色</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="品尝日落" style="width: 100%; border-radius: 8px;">
