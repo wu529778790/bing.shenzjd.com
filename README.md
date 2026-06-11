@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**沉静的力量** (2026-06-11)
+**惊鸿一瞥** (2026-06-12)
 
-![沉静的力量](https://www.bing.com/th?id=OHR.Limpets_ZH-CN4991771513_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![惊鸿一瞥](https://www.bing.com/th?id=OHR.SpainBeeEater_ZH-CN4424052851_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[退潮时裸露在乌尔萨海滩海岸上的帽贝, 葡萄牙 (© Theo Bosboom/Nature Picture Library)](https://www.bing.com/search?q=%E8%91%A1%E8%90%84%E7%89%99%E4%B9%8C%E5%B0%94%E8%90%A8%E6%B5%B7%E6%BB%A9&form=hpcapt&mkt=zh-cn)
+[黄喉蜂虎，格拉萨莱马山自然公园，加的斯，西班牙 (© Andres M. Dominguez/Nature Picture Library)](https://www.bing.com/search?q=%E9%BB%84%E5%96%89%E8%9C%82%E8%99%8E&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.Limpets_ZH-CN4991771513_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.SpainBeeEater_ZH-CN4424052851_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-06 月壁纸 (11 张)
+## 2026-06 月壁纸 (12 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.Limpets_ZH-CN4991771513_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="沉静的力量" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-06-11</strong> <a href="https://www.bing.com/th?id=OHR.Limpets_ZH-CN4991771513_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>沉静的力量</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="一抹蓝色" style="width: 100%; border-radius: 8px;">
