@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**惊鸿一瞥** (2026-06-12)
+**岁月的层峦** (2026-06-13)
 
-![惊鸿一瞥](https://www.bing.com/th?id=OHR.SpainBeeEater_ZH-CN4424052851_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![岁月的层峦](https://www.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[黄喉蜂虎，格拉萨莱马山自然公园，加的斯，西班牙 (© Andres M. Dominguez/Nature Picture Library)](https://www.bing.com/search?q=%E9%BB%84%E5%96%89%E8%9C%82%E8%99%8E&form=hpcapt&mkt=zh-cn)
+[落日，恶地国家公园，南达科他州，美国 (© Troy Harrison/Getty Images)](https://www.bing.com/search?q=%E6%81%B6%E5%9C%B0%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.SpainBeeEater_ZH-CN4424052851_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-06 月壁纸 (12 张)
+## 2026-06 月壁纸 (13 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.SpainBeeEater_ZH-CN4424052851_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="惊鸿一瞥" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-06-12</strong> <a href="https://www.bing.com/th?id=OHR.SpainBeeEater_ZH-CN4424052851_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>惊鸿一瞥</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.Limpets_ZH-CN4991771513_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="沉静的力量" style="width: 100%; border-radius: 8px;">
