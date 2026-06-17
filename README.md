@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**蜿蜒而上** (2026-06-17)
+**坚如磐石的奇观** (2026-06-18)
 
-![蜿蜒而上](https://www.bing.com/th?id=OHR.TremolaRoad_ZH-CN8810749250_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![坚如磐石的奇观](https://www.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[特雷莫拉公路在圣哥达山口，艾罗洛，瑞士 (© Sandro Bisaro/Getty Images)](https://www.bing.com/search?q=%E7%89%B9%E9%9B%B7%E8%8E%AB%E6%8B%89%E5%85%AC%E8%B7%AF&form=hpcapt&mkt=zh-cn)
+[萨克赛瓦曼遗址俯瞰图，库斯科，秘鲁 (© Creative-Family/Getty Images Plus)](https://www.bing.com/search?q=%E7%A7%98%E9%B2%81%E8%90%A8%E5%85%8B%E5%A1%9E%E5%8D%8E%E6%9B%BC&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.TremolaRoad_ZH-CN8810749250_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-06 月壁纸 (17 张)
+## 2026-06 月壁纸 (18 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.TremolaRoad_ZH-CN8810749250_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="蜿蜒而上" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-06-17</strong> <a href="https://www.bing.com/th?id=OHR.TremolaRoad_ZH-CN8810749250_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>蜿蜒而上</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SevenMileTurtle_ZH-CN4346512721_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="蔚蓝海礁的守护者" style="width: 100%; border-radius: 8px;">
