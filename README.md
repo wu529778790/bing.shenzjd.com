@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**龙吟古韵** (2026-06-19)
+**海洋中冰封的大教堂** (2026-06-20)
 
-![龙吟古韵](https://www.bing.com/th?id=OHR.DragonBoatFestivalY26_ZH-CN3070279417_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![海洋中冰封的大教堂](https://www.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[湖中的龙舟，中国 (©  Zhonghui Bao/Getty Images)](https://www.bing.com/search?q=%E7%AB%AF%E5%8D%88%E8%8A%82&form=hpcapt&mkt=zh-cn)
+[漂浮在南极半岛西部海域的拱形冰山, 南大洋 (© Steven Kazlowski/Nature Picture Library)](https://www.bing.com/search?q=%E5%86%B0%E5%B1%B1&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.DragonBoatFestivalY26_ZH-CN3070279417_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-06 月壁纸 (19 张)
+## 2026-06 月壁纸 (20 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.DragonBoatFestivalY26_ZH-CN3070279417_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="龙吟古韵" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-06-19</strong> <a href="https://www.bing.com/th?id=OHR.DragonBoatFestivalY26_ZH-CN3070279417_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>龙吟古韵</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="坚如磐石的奇观" style="width: 100%; border-radius: 8px;">
