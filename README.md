@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**一个郁郁葱葱的王国** (2026-06-22)
+**天际线上的印记** (2026-06-23)
 
-![一个郁郁葱葱的王国](https://www.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![天际线上的印记](https://www.bing.com/th?id=OHR.Fujisan_ZH-CN7203975085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[奎诺尔特雨林, 奥林匹克国家公园, 华盛顿州, 美国 (© Chris Moore/Tandem Stills + Motion)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E9%9B%A8%E6%9E%97%E6%97%A5&form=hpcapt&mkt=zh-cn)
+[本州岛上的富士山, 日本 (© phutthiseth thongtae/Getty Images)](https://www.bing.com/search?q=%E5%AF%8C%E5%A3%AB%E5%B1%B1&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.Fujisan_ZH-CN7203975085_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-06 月壁纸 (22 张)
+## 2026-06 月壁纸 (23 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="一个郁郁葱葱的王国" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-06-22</strong> <a href="https://www.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>一个郁郁葱葱的王国</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="鸟类好爸爸" style="width: 100%; border-radius: 8px;">
