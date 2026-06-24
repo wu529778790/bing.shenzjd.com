@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**花粉与翅膀相遇** (2026-06-24)
+**在广场中感受历史** (2026-06-25)
 
-![花粉与翅膀相遇](https://www.bing.com/th?id=OHR.BFPollin_ZH-CN7654067396_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![在广场中感受历史](https://www.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[蝴蝶正在黄花上授粉 (© lzh/Getty Images)](https://www.bing.com/search?q=%E8%9D%B4%E8%9D%B6%E6%8E%88%E7%B2%89&form=hpcapt&mkt=zh-cn)
+[布鲁塞尔大广场上的建筑群, 比利时 (© Vladislav Zolotov/Getty Images Plus)](https://www.bing.com/search?q=%E5%B8%83%E9%B2%81%E5%A1%9E%E5%B0%94%E5%A4%A7%E5%B9%BF%E5%9C%BA&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.BFPollin_ZH-CN7654067396_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-06 月壁纸 (24 张)
+## 2026-06 月壁纸 (25 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.BFPollin_ZH-CN7654067396_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="花粉与翅膀相遇" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-06-24</strong> <a href="https://www.bing.com/th?id=OHR.BFPollin_ZH-CN7654067396_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>花粉与翅膀相遇</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.Fujisan_ZH-CN7203975085_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="天际线上的印记" style="width: 100%; border-radius: 8px;">
