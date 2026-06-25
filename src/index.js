@@ -1,48 +1,86 @@
 const { getBingWallpaper } = require("bing-wallpaper-api");
 const fs = require("fs-extra");
-const moment = require("moment");
+const dayjs = require("dayjs");
 const path = require("path");
 
+// 加载配置文件
+const config = require("../config.json");
+
 /**
- * 延迟函数
+ * 延迟函数 - 用于重试机制的等待
+ * @param {number} ms - 等待时间（毫秒）
+ * @returns {Promise<void>}
  */
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
+/**
+ * 必应壁纸自动归档工具
+ *
+ * 功能说明：
+ * 1. 每天自动获取必应当日壁纸（带重试机制）
+ * 2. 将壁纸信息保存到按月份分类的 Markdown 归档文件
+ * 3. 自动更新 README.md 显示最新壁纸和当月壁纸列表
+ *
+ * 性能优化：
+ * - 缓存机制：减少重复的文件 I/O 操作
+ * - 重试机制：API 调用失败时自动重试（最多 3 次，指数退避）
+ * - 数据备份：写入前自动备份，失败时可回滚
+ *
+ * 使用方式：
+ * - 直接运行: node src/index.js
+ * - 通过 update 脚本运行: node src/update.js
+ * - GitHub Actions 定时任务自动执行
+ */
 class BingWallpaperFetcher {
   constructor() {
-    this.archiveDir = path.join(__dirname, "../archives");
-    this.readmeFile = path.join(__dirname, "../README.md");
+    // 从配置文件读取路径，支持自定义
+    this.archiveDir = path.join(__dirname, config.archiveDir);
+    this.readmeFile = path.join(__dirname, config.readmeFile);
 
-    // 缓存机制
+    // ===== 缓存机制配置 =====
+    // 用于减少重复的文件 I/O 操作，提升性能
     this.cache = {
       monthlyFiles: new Map(), // key: monthKey, value: { content, wallpapers, timestamp }
       archiveMonths: null,
     };
 
-    // 重试配置
+    // ===== 重试机制配置 =====
+    // 当 API 调用网络波动时，自动重试提高成功率
     this.retryConfig = {
-      maxRetries: 3,
-      initialDelay: 1000, // 1秒
-      maxDelay: 10000, // 10秒
-      backoffMultiplier: 2,
+      maxRetries: 3,           // 最大重试次数
+      initialDelay: 1000,     // 初始延迟 1 秒
+      maxDelay: 10000,        // 最大延迟 10 秒
+      backoffMultiplier: 2,   // 指数退避倍数
     };
   }
 
   /**
-   * 带重试机制的 API 调用
+   * 带重试机制的 API 调用封装
+   *
+   * 实现策略：
+   * - 使用指数退避算法，避免频繁重试导致被限流
+   * - 每次重试等待时间 = initialDelay * (backoffMultiplier ^ retryCount)
+   * - 但不超过 maxDelay 上限
+   *
+   * @param {Function} apiCall - 返回 Promise 的 API 调用函数
+   * @param {string} operationName - 操作名称（用于日志输出）
+   * @param {number} retryCount - 当前重试次数（内部递归使用）
+   * @returns {Promise<*>} API 返回结果
+   * @throws {Error} 超过最大重试次数后抛出原始错误
    */
   async fetchWithRetry(apiCall, operationName, retryCount = 0) {
     try {
       return await apiCall();
     } catch (error) {
+      // 达到最大重试次数，放弃并抛出错误
       if (retryCount >= this.retryConfig.maxRetries) {
         console.error(`❌ ${operationName} 在 ${this.retryConfig.maxRetries} 次重试后仍然失败`);
         throw error;
       }
 
-      // 计算退避时间
+      // 计算本次重试的等待时间（指数退避）
       const delay = Math.min(
         this.retryConfig.initialDelay * Math.pow(this.retryConfig.backoffMultiplier, retryCount),
         this.retryConfig.maxDelay
@@ -51,49 +89,58 @@ class BingWallpaperFetcher {
       console.warn(`⚠️ ${operationName} 失败: ${error.message}`);
       console.log(`🔄 第 ${retryCount + 1}/${this.retryConfig.maxRetries} 次重试，等待 ${delay}ms...`);
 
+      // 等待后递归调用自身进行重试
       await sleep(delay);
       return this.fetchWithRetry(apiCall, operationName, retryCount + 1);
     }
   }
 
   /**
-   * 获取今日必应壁纸数据（带重试）
+   * 获取今日必应壁纸数据（带重试机制）
+   *
+   * 实现逻辑：
+   * 1. 使用 dayjs 格式化当前日期作为查询参数
+   * 2. 分别获取普通分辨率版本（用于展示）和 UHD 版本（用于下载）
+   * 3. 合并两个版本的 URL 到同一个数据对象中返回
+   * 4. 所有 API 调用都通过 fetchWithRetry 进行容错处理
+   *
+   * @returns {Promise<Object>} 壁纸数据对象，包含 displayUrl 和 downloadUrl4k
    */
   async fetchTodayBingWallpaper() {
     console.log("正在获取今日必应壁纸数据...");
 
-    // 只获取今天的壁纸
-    const targetDate = moment().format("YYYY-MM-DD");
+    // 使用 dayjs 格式化今天的日期
+    const targetDate = dayjs().format(config.dateFormat);
 
-    // 获取显示用的普通分辨率版本
+    // 获取显示用的普通分辨率版本（1920x1080）- 带重试
     const displayWallpaper = await this.fetchWithRetry(
       async () => {
         return await getBingWallpaper({
           date: targetDate,
-          resolution: "1920x1080",
-          market: "zh-CN",
+          resolution: config.displayResolution, // "1920x1080"
+          market: config.market, // "zh-CN" 中国区
         });
       },
       "获取 1080p 壁纸"
     );
 
-    // 获取下载用的4K版本
+    // 获取下载用的4K/UHD版本 - 带重试
     const downloadWallpaper = await this.fetchWithRetry(
       async () => {
         return await getBingWallpaper({
           date: targetDate,
-          resolution: "UHD",
-          market: "zh-CN",
+          resolution: config.downloadResolution, // "UHD"
+          market: config.market,
         });
       },
       "获取 4K 壁纸"
     );
 
-    // 合并数据
+    // 合并两个分辨率的数据到一个对象中
     const wallpaperData = {
       ...displayWallpaper,
-      displayUrl: displayWallpaper.url,
-      downloadUrl4k: downloadWallpaper.url,
+      displayUrl: displayWallpaper.url, // 用于页面展示的普通分辨率图片
+      downloadUrl4k: downloadWallpaper.url, // 用于用户下载的4K高清图片
     };
 
     console.log("=== 今日壁纸数据 ===");
@@ -107,31 +154,43 @@ class BingWallpaperFetcher {
   }
 
   /**
-   * 处理单张壁纸数据
+   * 处理单张壁纸数据，转换为标准格式
+   *
+   * 重要说明：日期调整逻辑
+   * 必应 API 返回的 startdate 格式为 "YYYYMMDD"，表示的是壁纸发布日期（UTC时间）。
+   * 由于时区差异（中国 UTC+8），实际显示日期需要 +1 天才能匹配用户的本地日期。
+   * 例如：API 返回 startdate=20251223，实际应该显示为 2025-12-24。
+   *
+   * @param {Object} image - 必应 API 返回的原始壁纸数据
+   * @returns {Object} 标准格式的壁纸数据对象
    */
   processSingleWallpaperData(image) {
-    // 直接使用API返回的startdate，确保日期准确性
-    const date = moment(image.startdate, "YYYYMMDD");
-    const adjustedDate = date.add(1, "day"); // 根据需求，加一天以匹配实际日期
+    // 解析 API 返回的日期格式 YYYYMMDD
+    const date = dayjs(image.startdate, config.dateInputFormat);
+
+    // 关键：加一天以修正时区差异，匹配用户看到的实际日期
+    const adjustedDate = date.add(1, "day");
 
     return {
-      date: adjustedDate.format("YYYY-MM-DD"), // 使用调整后的日期
-      title: image.title,
-      copyright: image.copyright,
+      date: adjustedDate.format(config.dateFormat), // 调整后的实际显示日期
+      title: image.title, // 壁纸标题/描述文字
+      copyright: image.copyright, // 版权信息（含作者）
       description: image.copyrightlink
-        ? `[${image.copyright}](${image.copyrightlink})`
-        : image.copyright,
-      imageUrl: image.displayUrl, // 用于 README 显示的普通分辨率图片
-      hd4kUrl: image.downloadUrl4k, // 4K 高清版本
-      downloadUrl4k: image.downloadUrl4k, // 4K 下载链接
-      year: adjustedDate.format("YYYY"),
-      month: adjustedDate.format("MM"),
-      monthName: adjustedDate.format("YYYY-MM"),
+        ? `[${image.copyright}](${image.copyrightlink})` // 有链接则生成 Markdown 链接
+        : image.copyright, // 无链接则使用纯文本
+      imageUrl: image.displayUrl, // 用于 README 展示的普通分辨率图片 URL
+      hd4kUrl: image.downloadUrl4k, // 别名：4K 高清版本
+      downloadUrl4k: image.downloadUrl4k, // 4K 下载链接（用于 <a> 标签）
+      year: adjustedDate.format("YYYY"), // 年份（用于归档路径）
+      month: adjustedDate.format("MM"), // 月份（用于归档路径）
+      monthName: adjustedDate.format("YYYY-MM"), // 月度文件名（如 "2025-12.md"）
     };
   }
 
   /**
-   * 确保目录存在
+   * 确保目录存在，不存在则创建
+   *
+   * @param {string} dir - 目录路径
    */
   async ensureDirectoryExists(dir) {
     await fs.ensureDir(dir);
@@ -139,6 +198,15 @@ class BingWallpaperFetcher {
 
   /**
    * 从缓存或文件读取月度归档内容
+   *
+   * 缓存策略：
+   * - 缓存有效期为 5 分钟
+   * - 在同一次执行流程中多次读取同一月份时，直接使用缓存
+   * - 这避免了重复的文件 I/O，显著提升性能
+   *
+   * @param {string} monthKey - 月份键名（如 "2025-12"）
+   * @param {boolean} useCache - 是否使用缓存（默认 true）
+   * @returns {Promise<string|null>} 文件内容字符串，文件不存在返回 null
    */
   async readMonthlyFile(monthKey, useCache = true) {
     const cacheKey = monthKey;
@@ -153,7 +221,7 @@ class BingWallpaperFetcher {
       }
     }
 
-    // 缓存失效，从文件读取
+    // 缓存失效或未启用缓存，从文件读取
     const monthFile = path.join(this.archiveDir, `${monthKey}.md`);
 
     try {
@@ -177,13 +245,20 @@ class BingWallpaperFetcher {
   }
 
   /**
-   * 检查指定日期的壁纸是否已经存在（使用缓存）
+   * 检查指定日期的壁纸是否已经存在于月度归档中
+   *
+   * 去重机制：
+   * 通过检查月度 Markdown 文件是否包含 "## {date}" 来判断是否已存在
+   * 这种简单的方式可以避免重复保存同一日的壁纸
+   *
+   * @param {Object} wallpaper - 包含 monthName 和 date 的壁纸对象
+   * @returns {Promise<boolean>} true 表示已存在，false 表示不存在或出错
    */
   async checkWallpaperExists(wallpaper) {
     const content = await this.readMonthlyFile(wallpaper.monthName);
 
     if (content) {
-      // 检查是否包含当前日期
+      // 检查是否包含该日期的二级标题（格式：## 2025-12-24）
       return content.includes(`## ${wallpaper.date}`);
     }
 
@@ -191,27 +266,41 @@ class BingWallpaperFetcher {
   }
 
   /**
-   * 追加新壁纸到月度归档（带备份和缓存优化）
+   * 追加新壁纸到月度归档文件（带备份和缓存优化）
+   *
+   * 流程：
+   * 1. 检查目录是否存在
+   * 2. 通过缓存的 checkWallpaperExists 进行去重检查
+   * 3. 如果已存在，仅更新头部统计数字后返回
+   * 4. 如果不存在，在写入前创建当前文件的备份
+   * 5. 写入成功后清除相关缓存
+   * 6. 如果写入失败，自动从备份恢复（回滚）
+   *
+   * @param {Object} wallpaper - 处理后的壁纸数据对象
+   * @returns {Promise<boolean>} true 表示新保存，false 表示已存在
    */
   async appendToMonthlyArchive(wallpaper) {
     await this.ensureDirectoryExists(this.archiveDir);
 
-    // 检查壁纸是否已经存在（使用缓存）
+    // 第一步：去重检查（使用缓存加速）
     const exists = await this.checkWallpaperExists(wallpaper);
     if (exists) {
       console.log(`壁纸 ${wallpaper.date} 已存在，跳过保存`);
-      // 即使已存在，也刷新头部统计，确保数字准确
-      const monthFile = path.join(this.archiveDir, `${wallpaper.monthName}.md`);
+      // 即使已存在，也刷新头部的统计数量，确保数字准确
+      const monthFile = path.join(
+        this.archiveDir,
+        `${wallpaper.monthName}.md`
+      );
       await this.refreshMonthlyHeaderCount(monthFile);
-      return false;
+      return false; // 返回 false 表示没有新增
     }
 
     const monthFile = path.join(this.archiveDir, `${wallpaper.monthName}.md`);
 
-    // 生成新壁纸的 markdown 内容
+    // 生成该壁纸的 Markdown 内容块
     const newWallpaperContent = this.generateWallpaperMarkdown(wallpaper);
 
-    // 创建备份（如果文件存在）
+    // 第二步：创建备份（如果文件存在）- 用于出错时的回滚恢复
     let backupContent = null;
     if (await fs.pathExists(monthFile)) {
       backupContent = await fs.readFile(monthFile, "utf8");
@@ -219,9 +308,9 @@ class BingWallpaperFetcher {
     }
 
     try {
-      // 检查月份文件是否存在
+      // 第三步：根据月度文件是否存在决定操作方式
       if (backupContent !== null) {
-        // 文件存在，追加内容（使用已读取的内容）
+        // 月度文件已存在 → 在正确位置插入（保持日期倒序），传入已有内容避免重复 I/O
         await this.insertWallpaperIntoExistingFile(
           monthFile,
           wallpaper,
@@ -229,7 +318,7 @@ class BingWallpaperFetcher {
           backupContent
         );
       } else {
-        // 文件不存在，创建新文件
+        // 月度文件不存在 → 创建新的月度归档文件
         await this.createNewMonthlyFile(
           monthFile,
           wallpaper,
@@ -237,15 +326,15 @@ class BingWallpaperFetcher {
         );
       }
 
-      // 清除缓存，确保下次读取最新内容
+      // 第四步：写入成功，清除缓存以确保下次读取最新内容
       this.cache.monthlyFiles.delete(wallpaper.monthName);
 
       console.log(`✅ 已保存壁纸到归档: ${wallpaper.date}`);
-      return true;
+      return true; // 返回 true 表示成功新增
     } catch (error) {
       console.error(`❌ 保存月度归档失败: ${error.message}`);
 
-      // 回滚：恢复备份
+      // 出错时的回滚机制：从备份恢复文件内容
       if (backupContent !== null) {
         console.log(`🔄 正在回滚备份...`);
         try {
@@ -261,7 +350,25 @@ class BingWallpaperFetcher {
   }
 
   /**
-   * 生成单张壁纸的 markdown 内容
+   * 生成单张壁纸的 Markdown 内容块
+   *
+   * 输出格式示例：
+   * ```markdown
+   * ## 2025-12-24
+   *
+   * **圣诞快乐**
+   *
+   * ![圣诞快乐](图片URL)
+   *
+   * [版权信息](版权链接)
+   *
+   * 🔗 <a href="4K下载URL" target="_blank">下载 4K 高清版本</a>
+   *
+   * ---
+   * ```
+   *
+   * @param {Object} wallpaper - 壁纸数据对象
+   * @returns {string} 格式化的 Markdown 字符串
    */
   generateWallpaperMarkdown(wallpaper) {
     let content = `## ${wallpaper.date}\n\n`;
@@ -269,25 +376,36 @@ class BingWallpaperFetcher {
     content += `![${wallpaper.title}](${wallpaper.imageUrl})\n\n`;
     content += `${wallpaper.description}\n\n`;
     content += `🔗 <a href="${wallpaper.downloadUrl4k}" target="_blank">下载 4K 高清版本</a>\n\n`;
-    content += `---\n\n`;
+    content += `---\n\n`; // 分隔线，用于视觉分隔不同日期的壁纸
     return content;
   }
 
   /**
-   * 在现有文件中插入新壁纸（按日期顺序）
-   * 优化：直接传入已读取的内容，避免重复 I/O
+   * 将新壁纸插入到已有的月度归档文件中（保持日期降序排列）
+   *
+   * 插入算法：
+   * 1. 找到文件头部信息结束的位置（第一个 "## " 开头的行）
+   * 2. 从头部之后开始遍历，找到第一个日期小于当前壁纸的位置
+   * 3. 在该位置之前插入新内容，确保整体保持降序（最新在前）
+   *
+   * 优化：支持传入已有的 existingContent 参数，避免重复的文件 I/O
+   *
+   * @param {string} monthFile - 月度归档文件的完整路径
+   * @param {Object} wallpaper - 要插入的壁纸数据
+   * @param {string} newContent - 已生成的 Markdown 内容字符串
+   * @param {string|null} existingContent - 可选的已有文件内容（传入可跳过文件读取）
    */
   async insertWallpaperIntoExistingFile(monthFile, wallpaper, newContent, existingContent = null) {
-    // 如果没有提供现有内容，才从文件读取
+    // 如果没有提供现有内容，才从文件读取（避免重复 I/O）
     if (existingContent === null) {
       existingContent = await fs.readFile(monthFile, "utf8");
     }
 
-    // 找到插入位置（按日期降序排列）
+    // 按行分割，便于逐行处理
     const lines = existingContent.split("\n");
     let insertIndex = -1;
 
-    // 查找文件头部信息结束位置
+    // 第一步：找到头部信息结束位置（即第一个日期标题所在行）
     let headerEndIndex = 0;
     for (let i = 0; i < lines.length; i++) {
       if (lines[i].startsWith("## ")) {
@@ -296,7 +414,7 @@ class BingWallpaperFetcher {
       }
     }
 
-    // 如果没有找到任何日期标题，插入到文件末尾
+    // 特殊情况：如果没有任何日期标题，直接追加到末尾
     if (headerEndIndex === 0) {
       const updatedContent = existingContent + newContent;
       await fs.writeFile(monthFile, updatedContent, "utf8");
@@ -305,10 +423,12 @@ class BingWallpaperFetcher {
       return;
     }
 
-    // 查找正确的插入位置（保持日期降序）
+    // 第二步：在已有壁纸中查找正确的插入位置（保持日期降序）
     for (let i = headerEndIndex; i < lines.length; i++) {
       if (lines[i].startsWith("## ")) {
+        // 提取现有壁纸的日期进行比较
         const existingDate = lines[i].substring(3).trim();
+        // 如果当前壁纸日期 > 已有壁纸日期，说明应该插在这里（前面）
         if (wallpaper.date > existingDate) {
           insertIndex = i;
           break;
@@ -316,12 +436,13 @@ class BingWallpaperFetcher {
       }
     }
 
+    // 第三步：执行插入操作
     let updatedContent;
     if (insertIndex === -1) {
-      // 插入到文件末尾
+      // 没找到合适位置（当前壁纸是最早的），追加到文件末尾
       updatedContent = existingContent + newContent;
     } else {
-      // 插入到指定位置
+      // 找到了位置，在该行之前插入新内容
       lines.splice(insertIndex, 0, ...newContent.split("\n"));
       updatedContent = lines.join("\n");
     }
@@ -329,34 +450,57 @@ class BingWallpaperFetcher {
     // 写入更新后的内容
     await fs.writeFile(monthFile, updatedContent, "utf8");
 
-    // 更新文件头部的统计数量
+    // 最后更新文件头部的统计数量
     await this.refreshMonthlyHeaderCount(monthFile);
   }
 
   /**
-   * 创建新的月份文件
+   * 创建新的月度归档文件
+   *
+   * 文件结构：
+   * - 一级标题：月份名称 + "必应壁纸"
+   * - 统计行：初始为 1 张
+   * - 第一张壁纸的内容
+   *
+   * @param {string} monthFile - 要创建的文件路径
+   * @param {Object} wallpaper - 壁纸数据（用于生成标题中的月份）
+   * @param {string} wallpaperContent - 壁纸的 Markdown 内容
    */
   async createNewMonthlyFile(monthFile, wallpaper, wallpaperContent) {
     let content = `# ${wallpaper.monthName} 必应壁纸\n\n`;
-    content += `> 本月共收录 1 张壁纸\n\n`;
+    content += `> 本月共收录 1 张壁纸\n\n`; // 初始计数为 1
     content += wallpaperContent;
 
     await fs.writeFile(monthFile, content, "utf8");
   }
 
   /**
-   * 刷新月度文件头部的“本月共收录 X 张壁纸”数量
+   * 刷新月度文件头部的壁纸统计数量
+   *
+   * 统计规则：
+   * 只计算以 "## YYYY-MM-DD" 格式开头的行（严格的日期正则匹配）
+   * 这样可以避免误统计其他类型的二级标题
+   *
+   * 更新策略：
+   * - 如果找到已有的统计行，直接替换数字
+   * - 如果没找到（异常情况），在一级标题后插入新的统计行
+   *
+   * @param {string} monthFile - 要更新的月度文件路径
    */
   async refreshMonthlyHeaderCount(monthFile) {
     try {
       const content = await fs.readFile(monthFile, "utf8");
       const lines = content.split("\n");
-      // 只计算以 "## [日期]" 格式开头的行，避免误统计其他二级标题
-      const count = lines.filter((line) => /^## \d{4}-\d{2}-\d{2}/.test(line.trim())).length;
+
+      // 使用严格正则只匹配日期格式的二级标题：## 2025-12-24
+      const count = lines.filter((line) =>
+        /^## \d{4}-\d{2}-\d{2}/.test(line.trim())
+      ).length;
 
       const newHeaderLine = `> 本月共收录 ${count} 张壁纸`;
       let updated = false;
 
+      // 尝试更新已有的统计行
       const updatedLines = lines.map((line) => {
         if (line.startsWith("> 本月共收录")) {
           updated = true;
@@ -365,10 +509,11 @@ class BingWallpaperFetcher {
         return line;
       });
 
-      // 如果没有找到统计行（理论上不会发生），则在标题后插入
+      // 异常情况处理：如果没有找到统计行，则在一级标题后插入
       if (!updated) {
         for (let i = 0; i < updatedLines.length; i++) {
           if (updatedLines[i].startsWith("# ")) {
+            // 在一级标题后插入空行、统计行、空行
             updatedLines.splice(i + 1, 0, "");
             updatedLines.splice(i + 2, 0, newHeaderLine);
             updatedLines.splice(i + 3, 0, "");
@@ -379,14 +524,25 @@ class BingWallpaperFetcher {
 
       await fs.writeFile(monthFile, updatedLines.join("\n"), "utf8");
     } catch (error) {
+      // 统计更新失败不应影响主流程，仅记录警告
       console.warn(`更新月度统计失败: ${error.message}`);
     }
   }
 
   /**
-   * 更新 README
+   * 更新主 README.md 文件
+   *
+   * 生成的 README 结构：
+   * 1. 项目标题
+   * 2. 今日壁纸大图 + 信息
+   * 3. 当月壁纸网格展示（除今日外的其他壁纸）
+   * 4. 历史归档月份链接列表
+   * 5. 关于/说明部分
+   *
+   * @param {Object} latestWallpaper - 最新（今日）的壁纸数据
    */
   async updateReadme(latestWallpaper) {
+    // ===== 构建第一部分：今日壁纸 =====
     let content = `# Bing Wallpaper\n\n`;
     content += `## 今日壁纸\n\n`;
     content += `**${latestWallpaper.title}** (${latestWallpaper.date})\n\n`;
@@ -394,19 +550,22 @@ class BingWallpaperFetcher {
     content += `${latestWallpaper.description}\n\n`;
     content += `🔗 <a href="${latestWallpaper.downloadUrl4k}" target="_blank">下载 4K 高清版本</a>\n\n`;
 
-    // 获取当月所有壁纸数据用于显示
-    const currentMonth = moment().format("YYYY-MM");
-    // 优化：直接从归档文件中获取当月壁纸，而不是重新解析整个文件
+    // ===== 构建第二部分：当月壁纸网格 =====
+    const currentMonth = dayjs().format("YYYY-MM");
+    // 直接从归档文件解析当月数据（通过缓存加速）
     const monthlyWallpapers = await this.getMonthlyWallpapers(currentMonth);
 
     content += `## ${currentMonth} 月壁纸 (${monthlyWallpapers.length} 张)\n\n`;
+
+    // 使用 CSS Grid 实现响应式网格布局
     content += `<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">\n\n`;
 
-    // 显示当月所有壁纸（除了今日壁纸）
+    // 过滤掉今日壁纸（已在上方单独展示），然后按日期倒序排列
     const otherWallpapers = monthlyWallpapers
       .filter((wallpaper) => wallpaper.date !== latestWallpaper.date)
-      .sort((a, b) => new Date(b.date) - new Date(a.date)); // 确保按日期倒序排列
+      .sort((a, b) => new Date(b.date) - new Date(a.date));
 
+    // 生成每个壁纸卡片
     for (const wallpaper of otherWallpapers) {
       content += `<div style="text-align: center;">\n`;
       content += `<img src="${wallpaper.imageUrl}" alt="${wallpaper.title}" style="width: 100%; border-radius: 8px;">\n`;
@@ -417,11 +576,13 @@ class BingWallpaperFetcher {
 
     content += `</div>\n\n`;
 
+    // ===== 构建第三部分：历史归档链接 =====
     content += `## 历史归档\n\n`;
 
-    // 获取所有归档月份
+    // 获取所有可用的归档月份（从 archives 目录读取，使用缓存）
     const archiveMonths = await this.getArchiveMonths();
     if (archiveMonths.length > 0) {
+      // 用管道符分隔的横向链接列表
       content += archiveMonths
         .map((month) => `[${month}](./archives/${month}.md)`)
         .join(" | ");
@@ -430,28 +591,63 @@ class BingWallpaperFetcher {
       content += `📁 [查看按月份归档的壁纸](./archives/)\n\n`;
     }
 
+    // ===== 构建第四部分：关于说明 =====
     content += `## 关于\n\n`;
     content += `🤖 本项目使用 GitHub Actions 每天自动获取必应壁纸并更新\n\n`;
     content += `📸 所有壁纸版权归微软及原作者所有\n\n`;
 
+    // 写入文件
     await fs.writeFile(this.readmeFile, content, "utf8");
     console.log("README 已更新");
   }
 
   /**
-   * 提取壁纸信息的正则表达式
+   * 从 Markdown section 中提取壁纸的关键信息
+   *
+   * 解析规则：
+   * - section 是以 "## " 分割后的每个部分
+   * - 期望的 section 结构至少需要 8 行（见下方注释）
+   *
+   * 行号说明（基于 0 索引）：
+   * - [0] 日期文本（如 "2025-12-24"）
+   * - [2] **标题**（加粗格式）
+   * - [4] ![标题](图片URL)（图片标记）
+   * - [6+] 🔗 <a href="下载URL"...>（下载链接，可能不在第 6 行）
+   *
+   * 为什么要求最少 8 行？
+   * 因为标准的壁纸 section 结构是：
+   *   0: 日期
+   *   1: 空行
+   *   2: **标题**
+   *   3: 空行
+   *   4: 图片
+   *   5: 空行
+   *   6: 描述/版权
+   *   7: 下载链接
+   * 少于 8 行说明内容不完整，无法提取有效信息
+   *
+   * @param {string} section - 单个壁纸的 Markdown 文本块
+   * @returns {Object|null} 提取出的壁纸信息对象，无效则返回 null
    */
   extractWallpaperInfo(section) {
     const lines = section.trim().split("\n");
+
+    // 最少需要 8 行才能构成一个完整的壁纸记录
     if (lines.length < 8) {
       return null;
     }
 
+    // 提取各字段
     const date = lines[0].trim();
+
+    // 第 3 行应该是 **标题** 格式
     const titleMatch = lines[2].match(/\*\*(.*?)\*\*/);
+
+    // 第 5 行应该是 ![alt](url) 格式的图片
     const imageMatch = lines[4].match(/!\[.*?\]\((.*?)\)/);
 
-    // 查找下载链接，它在第8行或更后面
+    // 下载链接可能在第 7 行及之后的任意一行
+    // 使用循环查找而不是固定行号，增加容错性
     let downloadMatch = null;
     for (let i = 6; i < lines.length; i++) {
       const match = lines[i].match(/<a href="(.*?)"/);
@@ -461,12 +657,13 @@ class BingWallpaperFetcher {
       }
     }
 
+    // 三个关键字段都提取成功才返回有效结果
     if (titleMatch && imageMatch && downloadMatch) {
       return {
-        date,
-        title: titleMatch[1],
-        imageUrl: imageMatch[1],
-        downloadUrl4k: downloadMatch[1],
+        date, // 日期字符串
+        title: titleMatch[1], // 去除加粗标记的标题
+        imageUrl: imageMatch[1], // 图片 URL
+        downloadUrl4k: downloadMatch[1], // 4K 下载 URL
       };
     }
 
@@ -475,6 +672,12 @@ class BingWallpaperFetcher {
 
   /**
    * 获取指定月份的所有壁纸数据（使用缓存）
+   *
+   * 数据来源：从月度归档的 Markdown 文件中解析（优先使用缓存）
+   * 解析方式：按 "## " 分割文件内容，逐个调用 extractWallpaperInfo 提取
+   *
+   * @param {string} monthKey - 月份键名（格式："YYYY-MM"，如 "2025-12"）
+   * @returns {Promise<Array>} 该月的壁纸数组（按日期降序排列）
    */
   async getMonthlyWallpapers(monthKey) {
     const wallpapers = [];
@@ -483,9 +686,11 @@ class BingWallpaperFetcher {
     const content = await this.readMonthlyFile(monthKey);
 
     if (content) {
-      // 解析 markdown 文件提取壁纸信息
-      const sections = content.split("## ").slice(1); // 移除第一个空部分
+      // 按 "## " 分割得到各个壁纸的 section
+      // slice(1) 移除第一个空元素（因为文件开头就是 "## " 或 "# "）
+      const sections = content.split("## ").slice(1);
 
+      // 逐个解析每个壁纸 section
       for (const section of sections) {
         const wallpaperInfo = this.extractWallpaperInfo(section);
         if (wallpaperInfo) {
@@ -493,7 +698,7 @@ class BingWallpaperFetcher {
         }
       }
 
-      // 按日期倒序排列（最新的在前）
+      // 按日期降序排列（最新的壁纸排在前面）
       wallpapers.sort((a, b) => new Date(b.date) - new Date(a.date));
 
       console.log(`📦 已读取 ${monthKey} 的 ${wallpapers.length} 张壁纸`);
@@ -505,7 +710,13 @@ class BingWallpaperFetcher {
   }
 
   /**
-   * 获取所有归档月份（使用缓存）
+   * 获取所有可用的归档月份列表（使用缓存）
+   *
+   * 扫描 archives 目录下的所有 .md 文件（排除 README.md）
+   * 返回值按时间降序排列（最近的月份在前）
+   * 结果会被缓存 5 分钟以提高性能
+   *
+   * @returns {Promise<Array<string>>} 月份名称数组（如 ["2025-12", "2025-11"]）
    */
   async getArchiveMonths() {
     // 检查缓存（5分钟有效）
@@ -520,9 +731,9 @@ class BingWallpaperFetcher {
     try {
       const files = await fs.readdir(this.archiveDir);
       const months = files
-        .filter((file) => file.endsWith(".md") && file !== "README.md")
-        .map((file) => file.replace(".md", ""))
-        .sort((a, b) => b.localeCompare(a)); // 按时间倒序排列
+        .filter((file) => file.endsWith(".md") && file !== "README.md") // 排除 README
+        .map((file) => file.replace(".md", "")) // 移除扩展名得到 "2025-12" 格式
+        .sort((a, b) => b.localeCompare(a)); // 字符串降序排列（最新的在前）
 
       // 更新缓存
       this.cache.archiveMonths = {
@@ -534,35 +745,18 @@ class BingWallpaperFetcher {
       return months;
     } catch (error) {
       console.warn(`读取归档目录失败: ${error.message}`);
-      return [];
+      return []; // 出错时返回空数组
     }
   }
 
   /**
-   * 读取现有的归档数据
-   */
-  async readExistingArchives() {
-    const archives = [];
-    try {
-      const archiveFiles = await fs.readdir(this.archiveDir);
-
-      for (const file of archiveFiles) {
-        if (file.endsWith(".md")) {
-          const content = await fs.readFile(
-            path.join(this.archiveDir, file),
-            "utf8"
-          );
-          // 这里可以解析已有的归档数据，避免重复
-        }
-      }
-    } catch (error) {
-      console.log("归档目录不存在或为空，将创建新的归档");
-    }
-    return archives;
-  }
-
-  /**
-   * 显示优化统计信息
+   * 显示优化统计信息（调试/监控用途）
+   *
+   * 在每次执行完成后输出当前的优化状态：
+   * - 缓存命中情况
+   * - 重试配置参数
+   *
+   * 用于帮助开发者了解优化的实际效果
    */
   showOptimizationStats() {
     console.log("\n📊 优化统计信息:");
@@ -577,28 +771,41 @@ class BingWallpaperFetcher {
   }
 
   /**
-   * 主要执行函数
+   * 主执行函数 - 完整的一次壁纸抓取与归档流程
+   *
+   * 执行步骤：
+   * 1. 调用必应 API 获取今日壁纸数据（带自动重试）
+   * 2. 数据标准化处理（日期转换、字段映射等）
+   * 3. 保存到月度归档文件（自动去重 + 备份回滚）
+   * 4. 更新 README.md 展示页面（使用缓存加速）
+   * 5. 输出优化统计信息
+   *
+   * 错误处理：
+   * - 任何步骤出错都会打印错误信息并以非零状态码退出
+   * - 这对于 GitHub Actions 很重要：非零退出码会标记任务失败
    */
   async run() {
     try {
       console.log("🚀 开始获取今日必应壁纸...");
       console.log("⚡ 已启用优化: 重试机制 + 缓存 + 数据备份");
 
-      // 获取今日壁纸数据
+      // 步骤 1：获取今日壁纸原始数据（带重试）
       const todayWallpaper = await this.fetchTodayBingWallpaper();
 
-      // 检查是否成功获取到壁纸数据
+      // 验证获取到的数据有效性
       if (!todayWallpaper || !todayWallpaper.url) {
         throw new Error("未能获取到有效的壁纸数据");
       }
 
-      const processedWallpaper = this.processSingleWallpaperData(todayWallpaper);
+      // 步骤 2：数据标准化处理
+      const processedWallpaper =
+        this.processSingleWallpaperData(todayWallpaper);
 
       console.log(
         `📸 获取到今日壁纸: ${processedWallpaper.title} (${processedWallpaper.date})`
       );
 
-      // 尝试保存到月度归档
+      // 步骤 3：保存到月度归档（自动去重 + 备份回滚）
       const saved = await this.appendToMonthlyArchive(processedWallpaper);
 
       if (saved) {
@@ -607,21 +814,22 @@ class BingWallpaperFetcher {
         console.log("ℹ️ 今日壁纸已存在，无需重复保存");
       }
 
-      // 更新 README（总是更新以确保显示最新数据）
+      // 步骤 4：更新 README（每次都更新以确保数据最新）
       await this.updateReadme(processedWallpaper);
 
-      // 显示优化统计
+      // 步骤 5：输出优化统计信息
       this.showOptimizationStats();
 
       console.log("✅ 所有任务完成！");
     } catch (error) {
       console.error("❌ 执行失败:", error.message);
+      // 使用非零退出码，让 GitHub Actions 知道任务失败了
       process.exit(1);
     }
   }
 }
 
-// 如果直接运行此文件
+// 支持直接运行此文件进行测试
 if (require.main === module) {
   const fetcher = new BingWallpaperFetcher();
   fetcher.run();
