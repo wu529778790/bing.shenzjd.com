@@ -18,7 +18,11 @@
 
 ## 历史归档
 
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+
 [2026-06](./archives/2026-06.md)
+
+</div>
 
 ## 关于
 
