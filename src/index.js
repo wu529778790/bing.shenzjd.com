@@ -26,7 +26,7 @@ function sleep(ms) {
  * 性能优化：
  * - 缓存机制：减少重复的文件 I/O 操作
  * - 重试机制：API 调用失败时自动重试（最多 3 次，指数退避）
- * - 数据备份：写入前自动备份，失败时可回滚
+ * - 增量更新：README 只更新变化的部分，不全量重写
  *
  * 使用方式：
  * - 直接运行: node src/index.js
@@ -488,13 +488,27 @@ class BingWallpaperFetcher {
   async updateReadme(latestWallpaper) {
     const todaySection = this.generateTodaySection(latestWallpaper);
 
-    // 尝试增量更新：替换 "今日壁纸" 到下一个 "## " 之间的内容
+    // 尝试增量更新：替换 "今日壁纸" 部分 + 刷新归档链接
     if (await fs.pathExists(this.readmeFile)) {
       const existing = await fs.readFile(this.readmeFile, "utf8");
-      const updated = existing.replace(
+
+      // 替换 "今日壁纸" 到下一个 "## " 之间的内容
+      let updated = existing.replace(
         /## 今日壁纸[\s\S]*?(?=\n## )/,
-        todaySection
+        todaySection.replace(/\n+$/, "\n")
       );
+
+      // 刷新归档链接（新月份可能已生成）
+      const archiveMonths = await this.getArchiveMonths();
+      if (archiveMonths.length > 0) {
+        const links = archiveMonths.map(month => `[${month}](./archives/${month}.md)`);
+        const archiveContent = links.join(" · ") + "\n\n";
+        updated = updated.replace(
+          /## 历史归档\n\n[\s\S]*?(?=\n## )/,
+          `## 历史归档\n\n${archiveContent}`
+        );
+      }
+
       if (updated !== existing) {
         await fs.writeFile(this.readmeFile, updated, "utf8");
         console.log("README 已增量更新");
@@ -707,8 +721,8 @@ class BingWallpaperFetcher {
    * 执行步骤：
    * 1. 调用必应 API 获取今日壁纸数据（带自动重试）
    * 2. 数据标准化处理（日期转换、字段映射等）
-   * 3. 保存到月度归档文件（自动去重 + 备份回滚）
-   * 4. 更新 README.md 展示页面（使用缓存加速）
+   * 3. 保存到月度归档文件（自动去重）
+   * 4. 更新 README.md 展示页面（增量更新）
    * 5. 输出优化统计信息
    *
    * 错误处理：
@@ -718,7 +732,7 @@ class BingWallpaperFetcher {
   async run() {
     try {
       console.log("🚀 开始获取今日必应壁纸...");
-      console.log("⚡ 已启用优化: 重试机制 + 缓存 + 数据备份");
+      console.log("⚡ 已启用优化: 重试机制 + 缓存 + 增量更新");
 
       // 步骤 1：获取今日壁纸原始数据（带重试）
       const todayWallpaper = await this.fetchTodayBingWallpaper();
