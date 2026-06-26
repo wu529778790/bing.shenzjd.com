@@ -333,7 +333,7 @@ class BingWallpaperFetcher {
     a{color:#a1a1aa;text-decoration:none}a:hover{color:#fafafa}
 
     /* Hero */
-    .hero{position:relative;width:100%;height:100vh;min-height:500px;overflow:hidden;cursor:pointer}
+    .hero{position:relative;width:100%;height:100vh;min-height:500px;overflow:hidden}
     .hero img{width:100%;height:100%;object-fit-cover;transition:transform 8s ease}
     .hero:hover img{transform:scale(1.03)}
     .hero .gradient{position:absolute;inset:0;background:linear-gradient(0deg,rgba(10,10,10,.95) 0%,rgba(10,10,10,.4) 40%,transparent 70%)}
@@ -396,7 +396,7 @@ class BingWallpaperFetcher {
   </style>
 </head>
 <body>
-  <div class="hero" onclick="openLightbox('${latest.downloadUrl4k.replace(/'/g, "\\'")}','${latest.title.replace(/'/g, "\\'")}','${latest.date}','${latest.copyright.replace(/'/g, "\\'")}')">
+  <div class="hero">
     <img src="${latest.imageUrl}" alt="${latest.title}" width="1920" height="1080">
     <div class="gradient"></div>
     <div class="content">
@@ -405,7 +405,7 @@ class BingWallpaperFetcher {
         <span class="date">${latest.date}</span>
         <span class="copyright">${copyrightHtml}</span>
       </div>
-      <a class="btn" href="${latest.downloadUrl4k}" target="_blank" rel="noopener" onclick="event.stopPropagation()">
+      <a class="btn" href="${latest.downloadUrl4k}" target="_blank" rel="noopener">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
         下载 4K
       </a>
