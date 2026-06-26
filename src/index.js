@@ -266,15 +266,7 @@ class BingWallpaperFetcher {
   }
 
   /**
-   * 追加新壁纸到月度归档文件（带备份和缓存优化）
-   *
-   * 流程：
-   * 1. 检查目录是否存在
-   * 2. 通过缓存的 checkWallpaperExists 进行去重检查
-   * 3. 如果已存在，仅更新头部统计数字后返回
-   * 4. 如果不存在，在写入前创建当前文件的备份
-   * 5. 写入成功后清除相关缓存
-   * 6. 如果写入失败，自动从备份恢复（回滚）
+   * 追加新壁纸到月度归档文件
    *
    * @param {Object} wallpaper - 处理后的壁纸数据对象
    * @returns {Promise<boolean>} true 表示新保存，false 表示已存在
@@ -282,71 +274,27 @@ class BingWallpaperFetcher {
   async appendToMonthlyArchive(wallpaper) {
     await this.ensureDirectoryExists(this.archiveDir);
 
-    // 第一步：去重检查（使用缓存加速）
     const exists = await this.checkWallpaperExists(wallpaper);
     if (exists) {
       console.log(`壁纸 ${wallpaper.date} 已存在，跳过保存`);
-      // 即使已存在，也刷新头部的统计数量，确保数字准确
-      const monthFile = path.join(
-        this.archiveDir,
-        `${wallpaper.monthName}.md`
-      );
+      const monthFile = path.join(this.archiveDir, `${wallpaper.monthName}.md`);
       await this.refreshMonthlyHeaderCount(monthFile);
-      return false; // 返回 false 表示没有新增
+      return false;
     }
 
     const monthFile = path.join(this.archiveDir, `${wallpaper.monthName}.md`);
-
-    // 生成该壁纸的 Markdown 内容块
     const newWallpaperContent = this.generateWallpaperMarkdown(wallpaper);
 
-    // 第二步：创建备份（如果文件存在）- 用于出错时的回滚恢复
-    let backupContent = null;
     if (await fs.pathExists(monthFile)) {
-      backupContent = await fs.readFile(monthFile, "utf8");
-      console.log(`📦 已创建备份，准备更新 ${wallpaper.monthName} 归档`);
+      const existingContent = await fs.readFile(monthFile, "utf8");
+      await this.insertWallpaperIntoExistingFile(monthFile, wallpaper, newWallpaperContent, existingContent);
+    } else {
+      await this.createNewMonthlyFile(monthFile, wallpaper, newWallpaperContent);
     }
 
-    try {
-      // 第三步：根据月度文件是否存在决定操作方式
-      if (backupContent !== null) {
-        // 月度文件已存在 → 在正确位置插入（保持日期倒序），传入已有内容避免重复 I/O
-        await this.insertWallpaperIntoExistingFile(
-          monthFile,
-          wallpaper,
-          newWallpaperContent,
-          backupContent
-        );
-      } else {
-        // 月度文件不存在 → 创建新的月度归档文件
-        await this.createNewMonthlyFile(
-          monthFile,
-          wallpaper,
-          newWallpaperContent
-        );
-      }
-
-      // 第四步：写入成功，清除缓存以确保下次读取最新内容
-      this.cache.monthlyFiles.delete(wallpaper.monthName);
-
-      console.log(`✅ 已保存壁纸到归档: ${wallpaper.date}`);
-      return true; // 返回 true 表示成功新增
-    } catch (error) {
-      console.error(`❌ 保存月度归档失败: ${error.message}`);
-
-      // 出错时的回滚机制：从备份恢复文件内容
-      if (backupContent !== null) {
-        console.log(`🔄 正在回滚备份...`);
-        try {
-          await fs.writeFile(monthFile, backupContent, "utf8");
-          console.log(`✅ 回滚成功`);
-        } catch (rollbackError) {
-          console.error(`❌ 回滚失败: ${rollbackError.message}`);
-        }
-      }
-
-      throw error;
-    }
+    this.cache.monthlyFiles.delete(wallpaper.monthName);
+    console.log(`✅ 已保存壁纸到归档: ${wallpaper.date}`);
+    return true;
   }
 
   /**
@@ -532,40 +480,67 @@ class BingWallpaperFetcher {
   /**
    * 更新主 README.md 文件
    *
-   * 生成的 README 结构：
-   * 1. 项目标题
-   * 2. 今日壁纸大图 + 信息
-   * 3. 当月壁纸网格展示（除今日外的其他壁纸）
-   * 4. 历史归档月份链接列表
-   * 5. 关于/说明部分
+   * 优先增量更新：只替换 "今日壁纸" 部分，保留月壁纸网格、归档链接等不变的内容。
+   * 仅在 README 不存在或缺少标记时才全量生成。
    *
    * @param {Object} latestWallpaper - 最新（今日）的壁纸数据
    */
   async updateReadme(latestWallpaper) {
-    // ===== 构建第一部分：今日壁纸 =====
-    let content = `# Bing Wallpaper\n\n`;
-    content += `## 今日壁纸\n\n`;
-    content += `**${latestWallpaper.title}** (${latestWallpaper.date})\n\n`;
-    content += `![${latestWallpaper.title}](${latestWallpaper.imageUrl})\n\n`;
-    content += `${latestWallpaper.description}\n\n`;
-    content += `🔗 <a href="${latestWallpaper.downloadUrl4k}" target="_blank">下载 4K 高清版本</a>\n\n`;
+    const todaySection = this.generateTodaySection(latestWallpaper);
 
-    // ===== 构建第二部分：当月壁纸网格 =====
+    // 尝试增量更新：替换 "今日壁纸" 到下一个 "## " 之间的内容
+    if (await fs.pathExists(this.readmeFile)) {
+      const existing = await fs.readFile(this.readmeFile, "utf8");
+      const updated = existing.replace(
+        /## 今日壁纸[\s\S]*?(?=\n## )/,
+        todaySection
+      );
+      if (updated !== existing) {
+        await fs.writeFile(this.readmeFile, updated, "utf8");
+        console.log("README 已增量更新");
+        return;
+      }
+    }
+
+    // 兜底：全量生成
+    await this.generateFullReadme(latestWallpaper);
+  }
+
+  /**
+   * 生成"今日壁纸"部分的 Markdown 内容
+   *
+   * @param {Object} wallpaper - 壁纸数据对象
+   * @returns {string} "今日壁纸"部分的 Markdown 文本
+   */
+  generateTodaySection(wallpaper) {
+    let content = `## 今日壁纸\n\n`;
+    content += `**${wallpaper.title}** (${wallpaper.date})\n\n`;
+    content += `![${wallpaper.title}](${wallpaper.imageUrl})\n\n`;
+    content += `${wallpaper.description}\n\n`;
+    content += `🔗 <a href="${wallpaper.downloadUrl4k}" target="_blank">下载 4K 高清版本</a>\n\n`;
+    return content;
+  }
+
+  /**
+   * 全量生成 README.md（仅在文件不存在或结构异常时使用）
+   *
+   * @param {Object} latestWallpaper - 最新（今日）的壁纸数据
+   */
+  async generateFullReadme(latestWallpaper) {
+    let content = `# Bing Wallpaper\n\n`;
+    content += this.generateTodaySection(latestWallpaper);
+
+    // 当月壁纸网格
     const currentMonth = dayjs().format("YYYY-MM");
-    // 直接从归档文件解析当月数据（通过缓存加速）
     const monthlyWallpapers = await this.getMonthlyWallpapers(currentMonth);
 
     content += `## ${currentMonth} 月壁纸 (${monthlyWallpapers.length} 张)\n\n`;
-
-    // 使用 CSS Grid 实现响应式网格布局
     content += `<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">\n\n`;
 
-    // 过滤掉今日壁纸（已在上方单独展示），然后按日期倒序排列
     const otherWallpapers = monthlyWallpapers
       .filter((wallpaper) => wallpaper.date !== latestWallpaper.date)
       .sort((a, b) => new Date(b.date) - new Date(a.date));
 
-    // 生成每个壁纸卡片
     for (const wallpaper of otherWallpapers) {
       content += `<div style="text-align: center;">\n`;
       content += `<img src="${wallpaper.imageUrl}" alt="${wallpaper.title}" style="width: 100%; border-radius: 8px;">\n`;
@@ -573,13 +548,10 @@ class BingWallpaperFetcher {
       content += `<p>${wallpaper.title}</p>\n`;
       content += `</div>\n\n`;
     }
-
     content += `</div>\n\n`;
 
-    // ===== 构建第三部分：历史归档链接 =====
+    // 历史归档链接
     content += `## 历史归档\n\n`;
-
-    // 获取所有可用的归档月份（从 archives 目录读取，使用缓存）
     const archiveMonths = await this.getArchiveMonths();
     if (archiveMonths.length > 0) {
       const links = archiveMonths.map(month => `[${month}](./archives/${month}.md)`);
@@ -588,79 +560,41 @@ class BingWallpaperFetcher {
       content += `📁 [查看按月份归档的壁纸](./archives/)\n\n`;
     }
 
-    // ===== 构建第四部分：关于说明 =====
+    // 关于
     content += `## 关于\n\n`;
     content += `🤖 本项目使用 GitHub Actions 每天自动获取必应壁纸并更新\n\n`;
     content += `📸 所有壁纸版权归微软及原作者所有\n\n`;
 
-    // 写入文件
     await fs.writeFile(this.readmeFile, content, "utf8");
-    console.log("README 已更新");
+    console.log("README 已全量生成");
   }
 
   /**
    * 从 Markdown section 中提取壁纸的关键信息
    *
-   * 解析规则：
-   * - section 是以 "## " 分割后的每个部分
-   * - 期望的 section 结构至少需要 8 行（见下方注释）
+   * 使用正则匹配各字段，不依赖固定行号，对格式变化有更强的容错能力。
    *
-   * 行号说明（基于 0 索引）：
-   * - [0] 日期文本（如 "2025-12-24"）
-   * - [2] **标题**（加粗格式）
-   * - [4] ![标题](图片URL)（图片标记）
-   * - [6+] 🔗 <a href="下载URL"...>（下载链接，可能不在第 6 行）
-   *
-   * 为什么要求最少 8 行？
-   * 因为标准的壁纸 section 结构是：
-   *   0: 日期
-   *   1: 空行
-   *   2: **标题**
-   *   3: 空行
-   *   4: 图片
-   *   5: 空行
-   *   6: 描述/版权
-   *   7: 下载链接
-   * 少于 8 行说明内容不完整，无法提取有效信息
-   *
-   * @param {string} section - 单个壁纸的 Markdown 文本块
+   * @param {string} section - 单个壁纸的 Markdown 文本块（以 "## " 分割后的部分）
    * @returns {Object|null} 提取出的壁纸信息对象，无效则返回 null
    */
   extractWallpaperInfo(section) {
-    const lines = section.trim().split("\n");
+    const text = section.trim();
 
-    // 最少需要 8 行才能构成一个完整的壁纸记录
-    if (lines.length < 8) {
-      return null;
-    }
+    // 日期：行首的 YYYY-MM-DD
+    const dateMatch = text.match(/^(\d{4}-\d{2}-\d{2})/m);
+    // 标题：**xxx**
+    const titleMatch = text.match(/\*\*(.*?)\*\*/);
+    // 图片：![alt](url)
+    const imageMatch = text.match(/!\[.*?\]\((.*?)\)/);
+    // 下载链接：<a href="url"
+    const downloadMatch = text.match(/<a href="(.*?)"/);
 
-    // 提取各字段
-    const date = lines[0].trim();
-
-    // 第 3 行应该是 **标题** 格式
-    const titleMatch = lines[2].match(/\*\*(.*?)\*\*/);
-
-    // 第 5 行应该是 ![alt](url) 格式的图片
-    const imageMatch = lines[4].match(/!\[.*?\]\((.*?)\)/);
-
-    // 下载链接可能在第 7 行及之后的任意一行
-    // 使用循环查找而不是固定行号，增加容错性
-    let downloadMatch = null;
-    for (let i = 6; i < lines.length; i++) {
-      const match = lines[i].match(/<a href="(.*?)"/);
-      if (match) {
-        downloadMatch = match;
-        break;
-      }
-    }
-
-    // 三个关键字段都提取成功才返回有效结果
-    if (titleMatch && imageMatch && downloadMatch) {
+    if (dateMatch && titleMatch && imageMatch && downloadMatch) {
       return {
-        date, // 日期字符串
-        title: titleMatch[1], // 去除加粗标记的标题
-        imageUrl: imageMatch[1], // 图片 URL
-        downloadUrl4k: downloadMatch[1], // 4K 下载 URL
+        date: dateMatch[1],
+        title: titleMatch[1],
+        imageUrl: imageMatch[1],
+        downloadUrl4k: downloadMatch[1],
       };
     }
 

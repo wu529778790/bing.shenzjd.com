@@ -86,10 +86,6 @@ describe("BingWallpaperFetcher", () => {
   });
 
   describe("extractWallpaperInfo()", () => {
-    /**
-     * 测试从 Markdown section 提取壁纸信息
-     * 这是解析已有归档文件的核心逻辑
-     */
     it("应该从有效的 Markdown section 中提取壁纸信息", () => {
       const validSection = `2025-12-24
 
@@ -112,32 +108,13 @@ describe("BingWallpaperFetcher", () => {
       expect(result.downloadUrl4k).toBe("https://example.com/4k.jpg");
     });
 
-    it("当行数不足时应该返回 null", () => {
-      const shortSection = `2025-12-24
-
-**短内容**`;
-
-      const result = fetcher.extractWallpaperInfo(shortSection);
-      expect(result).toBeNull();
-    });
-
     it("当缺少必要元素时应该返回 null", () => {
-      const invalidSection = `2025-12-24
-
-这是第一行
-这是第二行
-这是第三行
-这是第四行
-这是第五行
-这是第六行
-这是第七行
-这是第八行`;
-
+      const invalidSection = `2025-12-24\n\n没有有效内容`;
       const result = fetcher.extractWallpaperInfo(invalidSection);
       expect(result).toBeNull();
     });
 
-    it("应该能处理下载链接不在第 8 行的情况", () => {
+    it("应该能处理下载链接位置不固定的情况", () => {
       const sectionWithLateLink = `2025-12-24
 
 **测试标题**
@@ -148,12 +125,31 @@ describe("BingWallpaperFetcher", () => {
 
 🔗 <a href="https://example.com/download.jpg" target="_blank">下载 4K 高清版本</a>
 
----
-`;
+---`;
 
       const result = fetcher.extractWallpaperInfo(sectionWithLateLink);
       expect(result).not.toBeNull();
       expect(result.downloadUrl4k).toBe("https://example.com/download.jpg");
+    });
+
+    it("应该能处理多余空行的情况", () => {
+      const sectionWithExtraLines = `2025-12-24
+
+
+**测试标题**
+
+
+![测试图片](https://example.com/img.jpg)
+
+
+<a href="https://example.com/download.jpg" target="_blank">下载</a>
+
+---`;
+
+      const result = fetcher.extractWallpaperInfo(sectionWithExtraLines);
+      expect(result).not.toBeNull();
+      expect(result.date).toBe("2025-12-24");
+      expect(result.title).toBe("测试标题");
     });
   });
 
