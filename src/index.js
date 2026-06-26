@@ -198,9 +198,10 @@ class BingWallpaperFetcher {
     const title = `${monthKey} 必应壁纸`;
 
     let cards = "";
-    for (const w of wallpapers) {
+    for (let i = 0; i < wallpapers.length; i++) {
+      const w = wallpapers[i];
       cards += `
-      <div class="card" onclick="openLightbox('${w.downloadUrl4k.replace(/'/g, "\\'")}','${w.title.replace(/'/g, "\\'")}','${w.date}','${w.copyright.replace(/'/g, "\\'")}')">
+      <div class="card" onclick="openLightbox(${i})">
         <img src="${w.imageUrl}" alt="${w.title}" loading="lazy">
         <div class="overlay">
           <span class="card-title">${w.title}</span>
@@ -247,10 +248,17 @@ class BingWallpaperFetcher {
     .lightbox .lb-close:hover{background:#27272a;color:#fafafa}
     .lightbox .lb-download{position:absolute;top:24px;right:80px;padding:8px 20px;background:#fafafa;color:#0a0a0a;border-radius:6px;font-size:.85rem;font-weight:500;cursor:pointer;text-decoration:none;transition:all .2s}
     .lightbox .lb-download:hover{background:#d4d4d8}
+    .lightbox .lb-nav{position:absolute;top:50%;transform:translateY(-50%);width:48px;height:48px;background:rgba(24,24,27,.7);border:1px solid #3f3f46;border-radius:50%;color:#a1a1aa;font-size:1.4rem;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .2s}
+    .lightbox .lb-nav:hover{background:#27272a;color:#fafafa}
+    .lightbox .lb-prev{left:20px}
+    .lightbox .lb-next{right:20px}
 
     @media(max-width:640px){
       .grid{grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px}
       .card .overlay{opacity:1;background:linear-gradient(0deg,rgba(10,10,10,.7) 0%,transparent 40%)}
+      .lightbox .lb-nav{width:40px;height:40px;font-size:1.1rem}
+      .lightbox .lb-prev{left:8px}
+      .lightbox .lb-next{right:8px}
     }
   </style>
 </head>
@@ -265,7 +273,9 @@ class BingWallpaperFetcher {
 
   <div class="lightbox" id="lightbox" onclick="closeLightbox()">
     <button class="lb-close" onclick="closeLightbox()" aria-label="关闭">&times;</button>
-    <a class="lb-download" id="lb-download" href="#" target="_blank" rel="noopener" onclick="event.stopPropagation()">下载 4K</a>
+    <a class="lb-download" id="lb-download" href="#" target="_blank" rel="noopener" onclick="event.stopPropagation()">查看原图</a>
+    <button class="lb-nav lb-prev" onclick="event.stopPropagation();navigate(-1)" aria-label="上一张">&#8249;</button>
+    <button class="lb-nav lb-next" onclick="event.stopPropagation();navigate(1)" aria-label="下一张">&#8250;</button>
     <img id="lb-img" src="" alt="">
     <div class="lb-info">
       <div class="lb-title" id="lb-title"></div>
@@ -274,19 +284,36 @@ class BingWallpaperFetcher {
   </div>
 
   <script>
-    function openLightbox(url,title,date,copyright){
-      document.getElementById('lb-img').src=url;
-      document.getElementById('lb-title').textContent=title;
-      document.getElementById('lb-meta').textContent=date+' · '+copyright;
-      document.getElementById('lb-download').href=url;
+    const items=${JSON.stringify(wallpapers.map(w=>({url:w.downloadUrl4k,title:w.title,date:w.date,cr:w.copyright})))};
+    let currentIndex=0;
+
+    function openLightbox(index){
+      currentIndex=index;
+      const w=items[index];
+      document.getElementById('lb-img').src=w.url;
+      document.getElementById('lb-title').textContent=w.title;
+      document.getElementById('lb-meta').textContent=w.date+' · '+w.cr;
+      document.getElementById('lb-download').href=w.url;
       document.getElementById('lightbox').classList.add('active');
       document.body.style.overflow='hidden';
+    }
+    function navigate(dir){
+      currentIndex=(currentIndex+dir+items.length)%items.length;
+      const w=items[currentIndex];
+      document.getElementById('lb-img').src=w.url;
+      document.getElementById('lb-title').textContent=w.title;
+      document.getElementById('lb-meta').textContent=w.date+' · '+w.cr;
+      document.getElementById('lb-download').href=w.url;
     }
     function closeLightbox(){
       document.getElementById('lightbox').classList.remove('active');
       document.body.style.overflow='';
     }
-    document.addEventListener('keydown',e=>{if(e.key==='Escape')closeLightbox()});
+    document.addEventListener('keydown',e=>{
+      if(e.key==='Escape')closeLightbox();
+      if(e.key==='ArrowLeft')navigate(-1);
+      if(e.key==='ArrowRight')navigate(1);
+    });
 
     const observer=new IntersectionObserver(entries=>{
       entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('visible');observer.unobserve(e.target)}});
@@ -306,9 +333,10 @@ class BingWallpaperFetcher {
     const archiveLinks = archiveMonths.map((m) => `<a href="./archives/${m}.html">${m}</a>`).join("\n          ");
 
     let grid = "";
-    for (const w of otherWallpapers) {
+    for (let i = 0; i < otherWallpapers.length; i++) {
+      const w = otherWallpapers[i];
       grid += `
-        <div class="card" onclick="openLightbox('${w.downloadUrl4k.replace(/'/g, "\\'")}','${w.title.replace(/'/g, "\\'")}','${w.date}','${w.copyright.replace(/'/g, "\\'")}')">
+        <div class="card" onclick="openLightbox(${i})">
           <img src="${w.imageUrl}" alt="${w.title}" loading="lazy">
           <div class="overlay">
             <span class="card-title">${w.title}</span>
@@ -386,12 +414,19 @@ class BingWallpaperFetcher {
     .lightbox .lb-close:hover{background:#27272a;color:#fafafa}
     .lightbox .lb-download{position:absolute;top:24px;right:80px;padding:8px 20px;background:#fafafa;color:#0a0a0a;border-radius:6px;font-size:.85rem;font-weight:500;cursor:pointer;text-decoration:none;transition:all .2s}
     .lightbox .lb-download:hover{background:#d4d4d8}
+    .lightbox .lb-nav{position:absolute;top:50%;transform:translateY(-50%);width:48px;height:48px;background:rgba(24,24,27,.7);border:1px solid #3f3f46;border-radius:50%;color:#a1a1aa;font-size:1.4rem;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .2s}
+    .lightbox .lb-nav:hover{background:#27272a;color:#fafafa}
+    .lightbox .lb-prev{left:20px}
+    .lightbox .lb-next{right:20px}
 
     @media(max-width:640px){
       .hero{min-height:70vh}
       .grid{grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px}
       .card .overlay{opacity:1;background:linear-gradient(0deg,rgba(10,10,10,.7) 0%,transparent 40%)}
       .section{padding:40px 16px}
+      .lightbox .lb-nav{width:40px;height:40px;font-size:1.1rem}
+      .lightbox .lb-prev{left:8px}
+      .lightbox .lb-next{right:8px}
     }
   </style>
 </head>
@@ -435,7 +470,9 @@ class BingWallpaperFetcher {
 
   <div class="lightbox" id="lightbox" onclick="closeLightbox()">
     <button class="lb-close" onclick="closeLightbox()" aria-label="关闭">&times;</button>
-    <a class="lb-download" id="lb-download" href="#" target="_blank" rel="noopener" onclick="event.stopPropagation()">下载 4K</a>
+    <a class="lb-download" id="lb-download" href="#" target="_blank" rel="noopener" onclick="event.stopPropagation()">查看原图</a>
+    <button class="lb-nav lb-prev" onclick="event.stopPropagation();navigate(-1)" aria-label="上一张">&#8249;</button>
+    <button class="lb-nav lb-next" onclick="event.stopPropagation();navigate(1)" aria-label="下一张">&#8250;</button>
     <img id="lb-img" src="" alt="">
     <div class="lb-info">
       <div class="lb-title" id="lb-title"></div>
@@ -444,19 +481,36 @@ class BingWallpaperFetcher {
   </div>
 
   <script>
-    function openLightbox(url,title,date,copyright){
-      document.getElementById('lb-img').src=url;
-      document.getElementById('lb-title').textContent=title;
-      document.getElementById('lb-meta').textContent=date+' · '+copyright;
-      document.getElementById('lb-download').href=url;
+    const items=${JSON.stringify(otherWallpapers.map(w=>({url:w.downloadUrl4k,title:w.title,date:w.date,cr:w.copyright})))};
+    let currentIndex=0;
+
+    function openLightbox(index){
+      currentIndex=index;
+      const w=items[index];
+      document.getElementById('lb-img').src=w.url;
+      document.getElementById('lb-title').textContent=w.title;
+      document.getElementById('lb-meta').textContent=w.date+' · '+w.cr;
+      document.getElementById('lb-download').href=w.url;
       document.getElementById('lightbox').classList.add('active');
       document.body.style.overflow='hidden';
+    }
+    function navigate(dir){
+      currentIndex=(currentIndex+dir+items.length)%items.length;
+      const w=items[currentIndex];
+      document.getElementById('lb-img').src=w.url;
+      document.getElementById('lb-title').textContent=w.title;
+      document.getElementById('lb-meta').textContent=w.date+' · '+w.cr;
+      document.getElementById('lb-download').href=w.url;
     }
     function closeLightbox(){
       document.getElementById('lightbox').classList.remove('active');
       document.body.style.overflow='';
     }
-    document.addEventListener('keydown',e=>{if(e.key==='Escape')closeLightbox()});
+    document.addEventListener('keydown',e=>{
+      if(e.key==='Escape')closeLightbox();
+      if(e.key==='ArrowLeft')navigate(-1);
+      if(e.key==='ArrowRight')navigate(1);
+    });
 
     const observer=new IntersectionObserver(entries=>{
       entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('visible');observer.unobserve(e.target)}});
