@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**在广场中感受历史** (2026-06-25)
+**时事** (2026-06-26)
 
-![在广场中感受历史](https://www.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![时事](https://www.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[布鲁塞尔大广场上的建筑群, 比利时 (© Vladislav Zolotov/Getty Images Plus)](https://www.bing.com/search?q=%E5%B8%83%E9%B2%81%E5%A1%9E%E5%B0%94%E5%A4%A7%E5%B9%BF%E5%9C%BA&form=hpcapt&mkt=zh-cn)
+[泰晤士河, 伦敦, 英格兰 (© Daniel Lange/Getty Images)](https://www.bing.com/search?q=%E6%B3%B0%E6%99%A4%E5%A3%AB%E6%B2%B3&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-06 月壁纸 (25 张)
+## 2026-06 月壁纸 (26 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="在广场中感受历史" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-06-25</strong> <a href="https://www.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>在广场中感受历史</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.BFPollin_ZH-CN7654067396_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="花粉与翅膀相遇" style="width: 100%; border-radius: 8px;">
