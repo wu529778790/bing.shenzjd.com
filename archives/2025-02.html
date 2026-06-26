@@ -19,7 +19,7 @@
     .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}
     .card{position:relative;border-radius:10px;overflow:hidden;cursor:pointer;opacity:0;transform:translateY(20px);transition:opacity .5s,transform .5s}
     .card.visible{opacity:1;transform:translateY(0)}
-    .card img{width:100%;aspect-ratio:16/9;object-fit-cover;display:block;transition:transform .4s}
+    .card img{width:100%;display:block;transition:transform .4s}
     .card:hover img{transform:scale(1.05)}
     .card .overlay{position:absolute;inset:0;background:linear-gradient(0deg,rgba(10,10,10,.8) 0%,transparent 50%);display:flex;flex-direction:column;justify-content:flex-end;padding:16px;opacity:0;transition:opacity .3s}
     .card:hover .overlay{opacity:1}
@@ -50,7 +50,7 @@
     <span class="count">1 张壁纸</span>
     <div class="grid">
       <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_1920x1080.jpg','Roots of freedom','2025-02-02','Roots of freedom')">
-        <img src="https://www.bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_1920x1080.jpg" alt="Roots of freedom" loading="lazy" width="640" height="360">
+        <img src="https://www.bing.com/th?id=OHR.AfricanMuseumDC_EN-US9749048351_1920x1080.jpg" alt="Roots of freedom" loading="lazy">
         <div class="overlay">
           <span class="card-title">Roots of freedom</span>
           <span class="card-date">2025-02-02</span>

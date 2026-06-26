@@ -19,7 +19,7 @@
     .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}
     .card{position:relative;border-radius:10px;overflow:hidden;cursor:pointer;opacity:0;transform:translateY(20px);transition:opacity .5s,transform .5s}
     .card.visible{opacity:1;transform:translateY(0)}
-    .card img{width:100%;aspect-ratio:16/9;object-fit-cover;display:block;transition:transform .4s}
+    .card img{width:100%;display:block;transition:transform .4s}
     .card:hover img{transform:scale(1.05)}
     .card .overlay{position:absolute;inset:0;background:linear-gradient(0deg,rgba(10,10,10,.8) 0%,transparent 50%);display:flex;flex-direction:column;justify-content:flex-end;padding:16px;opacity:0;transition:opacity .3s}
     .card:hover .overlay{opacity:1}
@@ -50,21 +50,21 @@
     <span class="count">3 张壁纸</span>
     <div class="grid">
       <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.NaPaliKauai_ZH-CN5070149838_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','远离尘嚣','2025-07-31','纳帕利海岸的卡拉劳海滩, 可爱岛, 夏威夷, 美国 (© Russ Bishop/DanitaDelimont.com)')">
-        <img src="https://www.bing.com/th?id=OHR.NaPaliKauai_ZH-CN5070149838_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="远离尘嚣" loading="lazy" width="640" height="360">
+        <img src="https://www.bing.com/th?id=OHR.NaPaliKauai_ZH-CN5070149838_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="远离尘嚣" loading="lazy">
         <div class="overlay">
           <span class="card-title">远离尘嚣</span>
           <span class="card-date">2025-07-31</span>
         </div>
       </div>
       <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.RibadesellaSummer_ZH-CN4852547359_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','理想的世界！','2025-07-30','里瓦德塞利亚，阿斯图里亚斯，西班牙 (© Agnieszka Glowala/Getty Images)')">
-        <img src="https://www.bing.com/th?id=OHR.RibadesellaSummer_ZH-CN4852547359_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="理想的世界！" loading="lazy" width="640" height="360">
+        <img src="https://www.bing.com/th?id=OHR.RibadesellaSummer_ZH-CN4852547359_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="理想的世界！" loading="lazy">
         <div class="overlay">
           <span class="card-title">理想的世界！</span>
           <span class="card-date">2025-07-30</span>
         </div>
       </div>
       <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','丛林女王','2025-07-29','雌性孟加拉虎，坎哈国家公园，印度 (© Axel Gomille/Nature Picture Library)')">
-        <img src="https://www.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="丛林女王" loading="lazy" width="640" height="360">
+        <img src="https://www.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="丛林女王" loading="lazy">
         <div class="overlay">
           <span class="card-title">丛林女王</span>
           <span class="card-date">2025-07-29</span>
