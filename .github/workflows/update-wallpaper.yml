@@ -11,6 +11,7 @@ on:
     paths-ignore:
       - "archives/**"
       - "README.md"
+      - "index.html"
 
 # 修改并发控制，只控制本工作流的并发，不与 Pages 冲突
 concurrency:
