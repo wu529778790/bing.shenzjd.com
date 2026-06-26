@@ -5,61 +5,103 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>2025-07 必应壁纸</title>
   <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #f5f5f5; color: #333; }
-    .header { background: #fff; padding: 20px; text-align: center; border-bottom: 1px solid #eee; }
-    .header h1 { font-size: 1.5rem; margin-bottom: 8px; }
-    .header a { color: #0969da; text-decoration: none; }
-    .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
-    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
-    .card { background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
-    .card img { width: 100%; display: block; }
-    .card .info { padding: 16px; }
-    .card .info h3 { font-size: 0.9rem; color: #666; margin-bottom: 4px; }
-    .card .info .title { font-size: 1.1rem; font-weight: 600; margin-bottom: 8px; }
-    .card .info .copyright { font-size: 0.85rem; color: #888; margin-bottom: 12px; }
-    .card .info a { display: inline-block; padding: 6px 16px; background: #0969da; color: #fff; border-radius: 6px; text-decoration: none; font-size: 0.85rem; }
-    .card .info a:hover { background: #0550ae; }
-    .back { display: inline-block; margin-bottom: 20px; color: #0969da; text-decoration: none; }
-    .back:hover { text-decoration: underline; }
+    *{margin:0;padding:0;box-sizing:border-box}
+    body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#0a0a0a;color:#e4e4e7}
+    a{color:#a1a1aa;text-decoration:none}a:hover{color:#fafafa}
+
+    .nav{padding:20px clamp(16px,4vw,48px);max-width:1400px;margin:0 auto}
+    .nav a{font-size:.85rem;color:#52525b;transition:color .2s}.nav a:hover{color:#fafafa}
+
+    .section{max-width:1400px;margin:0 auto;padding:0 clamp(16px,4vw,48px) 60px}
+    .section h1{font-size:clamp(1.5rem,3vw,2rem);font-weight:700;color:#fafafa;margin-bottom:8px}
+    .section .count{font-size:.85rem;color:#52525b;margin-bottom:32px;display:block}
+
+    .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}
+    .card{position:relative;border-radius:10px;overflow:hidden;cursor:pointer;opacity:0;transform:translateY(20px);transition:opacity .5s,transform .5s}
+    .card.visible{opacity:1;transform:translateY(0)}
+    .card img{width:100%;aspect-ratio:16/9;object-fit-cover;display:block;transition:transform .4s}
+    .card:hover img{transform:scale(1.05)}
+    .card .overlay{position:absolute;inset:0;background:linear-gradient(0deg,rgba(10,10,10,.8) 0%,transparent 50%);display:flex;flex-direction:column;justify-content:flex-end;padding:16px;opacity:0;transition:opacity .3s}
+    .card:hover .overlay{opacity:1}
+    .card .overlay .card-title{font-size:.95rem;font-weight:500;color:#fafafa}
+    .card .overlay .card-date{font-size:.8rem;color:#a1a1aa;margin-top:4px}
+
+    .lightbox{display:none;position:fixed;inset:0;z-index:1000;background:rgba(0,0,0,.92);backdrop-filter:blur(8px);align-items:center;justify-content:center;cursor:zoom-out}
+    .lightbox.active{display:flex}
+    .lightbox img{max-width:92vw;max-height:88vh;object-fit:contain;border-radius:4px}
+    .lightbox .lb-info{position:absolute;bottom:24px;left:50%;transform:translateX(-50%);text-align:center;color:#a1a1aa}
+    .lightbox .lb-info .lb-title{font-size:1rem;color:#fafafa;margin-bottom:4px}
+    .lightbox .lb-info .lb-meta{font-size:.8rem;color:#71717a}
+    .lightbox .lb-close{position:absolute;top:24px;right:24px;width:40px;height:40px;background:#18181b;border:1px solid #27272a;border-radius:50%;color:#a1a1aa;font-size:1.2rem;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .2s}
+    .lightbox .lb-close:hover{background:#27272a;color:#fafafa}
+    .lightbox .lb-download{position:absolute;top:24px;right:80px;padding:8px 20px;background:#fafafa;color:#0a0a0a;border-radius:6px;font-size:.85rem;font-weight:500;cursor:pointer;text-decoration:none;transition:all .2s}
+    .lightbox .lb-download:hover{background:#d4d4d8}
+
+    @media(max-width:640px){
+      .grid{grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px}
+      .card .overlay{opacity:1;background:linear-gradient(0deg,rgba(10,10,10,.7) 0%,transparent 40%)}
+    }
   </style>
 </head>
 <body>
-  <div class="header">
-    <h1><a href="/">bing.shenzjd.com</a></h1>
-  </div>
-  <div class="container">
-    <a class="back" href="/">← 返回首页</a>
-    <h2>2025-07 必应壁纸（3 张）</h2>
+  <div class="nav"><a href="/">← 返回首页</a></div>
+  <div class="section">
+    <h1>2025-07 必应壁纸</h1>
+    <span class="count">3 张壁纸</span>
     <div class="grid">
-      <div class="card">
-        <img src="https://www.bing.com/th?id=OHR.NaPaliKauai_ZH-CN5070149838_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="远离尘嚣" loading="lazy">
-        <div class="info">
-          <h3>2025-07-31</h3>
-          <p class="title">远离尘嚣</p>
-          <p class="copyright">纳帕利海岸的卡拉劳海滩, 可爱岛, 夏威夷, 美国 (© Russ Bishop/DanitaDelimont.com)</p>
-          <a href="https://www.bing.com/th?id=OHR.NaPaliKauai_ZH-CN5070149838_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a>
+      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.NaPaliKauai_ZH-CN5070149838_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','远离尘嚣','2025-07-31','纳帕利海岸的卡拉劳海滩, 可爱岛, 夏威夷, 美国 (© Russ Bishop/DanitaDelimont.com)')">
+        <img src="https://www.bing.com/th?id=OHR.NaPaliKauai_ZH-CN5070149838_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="远离尘嚣" loading="lazy" width="640" height="360">
+        <div class="overlay">
+          <span class="card-title">远离尘嚣</span>
+          <span class="card-date">2025-07-31</span>
         </div>
       </div>
-      <div class="card">
-        <img src="https://www.bing.com/th?id=OHR.RibadesellaSummer_ZH-CN4852547359_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="理想的世界！" loading="lazy">
-        <div class="info">
-          <h3>2025-07-30</h3>
-          <p class="title">理想的世界！</p>
-          <p class="copyright">里瓦德塞利亚，阿斯图里亚斯，西班牙 (© Agnieszka Glowala/Getty Images)</p>
-          <a href="https://www.bing.com/th?id=OHR.RibadesellaSummer_ZH-CN4852547359_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a>
+      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.RibadesellaSummer_ZH-CN4852547359_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','理想的世界！','2025-07-30','里瓦德塞利亚，阿斯图里亚斯，西班牙 (© Agnieszka Glowala/Getty Images)')">
+        <img src="https://www.bing.com/th?id=OHR.RibadesellaSummer_ZH-CN4852547359_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="理想的世界！" loading="lazy" width="640" height="360">
+        <div class="overlay">
+          <span class="card-title">理想的世界！</span>
+          <span class="card-date">2025-07-30</span>
         </div>
       </div>
-      <div class="card">
-        <img src="https://www.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="丛林女王" loading="lazy">
-        <div class="info">
-          <h3>2025-07-29</h3>
-          <p class="title">丛林女王</p>
-          <p class="copyright">雌性孟加拉虎，坎哈国家公园，印度 (© Axel Gomille/Nature Picture Library)</p>
-          <a href="https://www.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a>
+      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','丛林女王','2025-07-29','雌性孟加拉虎，坎哈国家公园，印度 (© Axel Gomille/Nature Picture Library)')">
+        <img src="https://www.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="丛林女王" loading="lazy" width="640" height="360">
+        <div class="overlay">
+          <span class="card-title">丛林女王</span>
+          <span class="card-date">2025-07-29</span>
         </div>
       </div>
     </div>
   </div>
+
+  <div class="lightbox" id="lightbox" onclick="closeLightbox()">
+    <button class="lb-close" onclick="closeLightbox()" aria-label="关闭">&times;</button>
+    <a class="lb-download" id="lb-download" href="#" target="_blank" rel="noopener" onclick="event.stopPropagation()">下载 4K</a>
+    <img id="lb-img" src="" alt="">
+    <div class="lb-info">
+      <div class="lb-title" id="lb-title"></div>
+      <div class="lb-meta" id="lb-meta"></div>
+    </div>
+  </div>
+
+  <script>
+    function openLightbox(url,title,date,copyright){
+      document.getElementById('lb-img').src=url;
+      document.getElementById('lb-title').textContent=title;
+      document.getElementById('lb-meta').textContent=date+' · '+copyright;
+      document.getElementById('lb-download').href=url;
+      document.getElementById('lightbox').classList.add('active');
+      document.body.style.overflow='hidden';
+    }
+    function closeLightbox(){
+      document.getElementById('lightbox').classList.remove('active');
+      document.body.style.overflow='';
+    }
+    document.addEventListener('keydown',e=>{if(e.key==='Escape')closeLightbox()});
+
+    const observer=new IntersectionObserver(entries=>{
+      entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('visible');observer.unobserve(e.target)}});
+    },{threshold:0.1});
+    document.querySelectorAll('.card').forEach(c=>observer.observe(c));
+  </script>
 </body>
 </html>
