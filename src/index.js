@@ -582,13 +582,8 @@ class BingWallpaperFetcher {
     // 获取所有可用的归档月份（从 archives 目录读取，使用缓存）
     const archiveMonths = await this.getArchiveMonths();
     if (archiveMonths.length > 0) {
-      // 使用 flex wrap 布局，防止月份链接折行
-      // 每个链接独立一行，通过 flex-wrap 自动换行
-      content += `<div style="display: flex; flex-wrap: wrap; gap: 8px;">\n\n`;
-      for (const month of archiveMonths) {
-        content += `[${month}](./archives/${month}.md)\n\n`;
-      }
-      content += `</div>\n\n`;
+      const links = archiveMonths.map(month => `[${month}](./archives/${month}.md)`);
+      content += links.join(" | ") + "\n\n";
     } else {
       content += `📁 [查看按月份归档的壁纸](./archives/)\n\n`;
     }
