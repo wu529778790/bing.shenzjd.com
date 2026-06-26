@@ -168,35 +168,7 @@
 
 ## 历史归档
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-
-[2026-06](./archives/2026-06.md)
-
-[2026-05](./archives/2026-05.md)
-
-[2026-04](./archives/2026-04.md)
-
-[2026-03](./archives/2026-03.md)
-
-[2026-02](./archives/2026-02.md)
-
-[2026-01](./archives/2026-01.md)
-
-[2025-12](./archives/2025-12.md)
-
-[2025-11](./archives/2025-11.md)
-
-[2025-10](./archives/2025-10.md)
-
-[2025-09](./archives/2025-09.md)
-
-[2025-08](./archives/2025-08.md)
-
-[2025-07](./archives/2025-07.md)
-
-[2025-02](./archives/2025-02.md)
-
-</div>
+[2026-06](./archives/2026-06.md) | [2026-05](./archives/2026-05.md) | [2026-04](./archives/2026-04.md) | [2026-03](./archives/2026-03.md) | [2026-02](./archives/2026-02.md) | [2026-01](./archives/2026-01.md) | [2025-12](./archives/2025-12.md) | [2025-11](./archives/2025-11.md) | [2025-10](./archives/2025-10.md) | [2025-09](./archives/2025-09.md) | [2025-08](./archives/2025-08.md) | [2025-07](./archives/2025-07.md) | [2025-02](./archives/2025-02.md)
 
 ## 关于
 
