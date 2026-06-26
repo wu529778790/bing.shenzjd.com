@@ -238,10 +238,109 @@ class BingWallpaperFetcher {
 </html>`;
   }
 
+  generateIndexHTML(data) {
+    const latest = data[0];
+    const currentMonth = dayjs().format("YYYY-MM");
+    const monthlyWallpapers = this.getWallpapersByMonth(data, currentMonth);
+    const archiveMonths = this.getArchiveMonths(data);
+    const otherWallpapers = monthlyWallpapers.filter((w) => w.date !== latest.date);
+
+    let archiveLinks = archiveMonths.map((m) => `<a href="./archives/${m}.html">${m}</a>`).join("\n        ");
+
+    let grid = "";
+    for (const w of otherWallpapers) {
+      grid += `
+          <div class="thumb">
+            <img src="${w.imageUrl}" alt="${w.title}" loading="lazy">
+            <p><strong>${w.date}</strong> <a href="${w.downloadUrl4k}" target="_blank">4K</a></p>
+            <p>${w.title}</p>
+          </div>`;
+    }
+
+    const copyrightHtml = latest.copyrightlink
+      ? `<a href="${latest.copyrightlink}" target="_blank">${latest.copyright}</a>`
+      : latest.copyright;
+
+    return `<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bing Wallpaper | bing.shenzjd.com</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #f5f5f5; color: #333; }
+    .header { background: #fff; padding: 20px; text-align: center; border-bottom: 1px solid #eee; }
+    .header h1 { font-size: 1.5rem; }
+    .header h1 a { color: #333; text-decoration: none; }
+    .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+    .hero { background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 24px; }
+    .hero img { width: 100%; display: block; }
+    .hero .info { padding: 20px; }
+    .hero .info h2 { font-size: 1.3rem; margin-bottom: 4px; }
+    .hero .info .date { color: #666; font-size: 0.9rem; margin-bottom: 8px; }
+    .hero .info .copyright { color: #888; font-size: 0.85rem; margin-bottom: 12px; }
+    .hero .info .copyright a { color: #888; }
+    .hero .info a.btn { display: inline-block; padding: 8px 20px; background: #0969da; color: #fff; border-radius: 6px; text-decoration: none; font-size: 0.9rem; }
+    .hero .info a.btn:hover { background: #0550ae; }
+    .section-title { font-size: 1.1rem; margin: 24px 0 16px; color: #333; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 16px; margin-bottom: 32px; }
+    .thumb { background: #fff; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 2px rgba(0,0,0,0.08); }
+    .thumb img { width: 100%; display: block; }
+    .thumb p { padding: 0 12px 4px; font-size: 0.85rem; }
+    .thumb p strong { color: #666; }
+    .thumb p a { color: #0969da; text-decoration: none; }
+    .archives { background: #fff; border-radius: 12px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); margin-bottom: 24px; }
+    .archives h2 { font-size: 1.1rem; margin-bottom: 12px; }
+    .archives .links { display: flex; flex-wrap: wrap; gap: 8px; }
+    .archives .links a { padding: 4px 12px; background: #f0f0f0; border-radius: 4px; color: #0969da; text-decoration: none; font-size: 0.9rem; }
+    .archives .links a:hover { background: #e0e0e0; }
+    .footer { text-align: center; padding: 20px; color: #999; font-size: 0.8rem; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1><a href="/">bing.shenzjd.com</a></h1>
+  </div>
+  <div class="container">
+    <div class="hero">
+      <img src="${latest.imageUrl}" alt="${latest.title}">
+      <div class="info">
+        <h2>${latest.title}</h2>
+        <p class="date">${latest.date}</p>
+        <p class="copyright">${copyrightHtml}</p>
+        <a class="btn" href="${latest.downloadUrl4k}" target="_blank">下载 4K 高清版本</a>
+      </div>
+    </div>
+
+    <h3 class="section-title">${currentMonth} 月壁纸（${monthlyWallpapers.length} 张）</h3>
+    <div class="grid">${grid}
+    </div>
+
+    <div class="archives">
+      <h2>历史归档</h2>
+      <div class="links">
+        ${archiveLinks}
+      </div>
+    </div>
+
+    <div class="footer">
+      🤖 GitHub Actions 每天自动更新 · 📸 壁纸版权归微软及原作者所有
+    </div>
+  </div>
+</body>
+</html>`;
+  }
+
   async generateAllPages(data) {
     await fs.ensureDir(this.archiveDir);
 
-    // 生成 README
+    // 生成首页
+    const indexHtml = this.generateIndexHTML(data);
+    await fs.writeFile(path.join(__dirname, "../index.html"), indexHtml, "utf8");
+    console.log("✅ index.html 已生成");
+
+    // 生成 README（给 GitHub 仓库页面看）
     const readme = this.generateReadme(data);
     await fs.writeFile(this.readmeFile, readme, "utf8");
     console.log("✅ README.md 已生成");
