@@ -36,10 +36,17 @@
     .lightbox .lb-close:hover{background:#27272a;color:#fafafa}
     .lightbox .lb-download{position:absolute;top:24px;right:80px;padding:8px 20px;background:#fafafa;color:#0a0a0a;border-radius:6px;font-size:.85rem;font-weight:500;cursor:pointer;text-decoration:none;transition:all .2s}
     .lightbox .lb-download:hover{background:#d4d4d8}
+    .lightbox .lb-nav{position:absolute;top:50%;transform:translateY(-50%);width:48px;height:48px;background:rgba(24,24,27,.7);border:1px solid #3f3f46;border-radius:50%;color:#a1a1aa;font-size:1.4rem;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .2s}
+    .lightbox .lb-nav:hover{background:#27272a;color:#fafafa}
+    .lightbox .lb-prev{left:20px}
+    .lightbox .lb-next{right:20px}
 
     @media(max-width:640px){
       .grid{grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px}
       .card .overlay{opacity:1;background:linear-gradient(0deg,rgba(10,10,10,.7) 0%,transparent 40%)}
+      .lightbox .lb-nav{width:40px;height:40px;font-size:1.1rem}
+      .lightbox .lb-prev{left:8px}
+      .lightbox .lb-next{right:8px}
     }
   </style>
 </head>
@@ -49,21 +56,21 @@
     <h1>2025-07 必应壁纸</h1>
     <span class="count">3 张壁纸</span>
     <div class="grid">
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.NaPaliKauai_ZH-CN5070149838_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','远离尘嚣','2025-07-31','纳帕利海岸的卡拉劳海滩, 可爱岛, 夏威夷, 美国 (© Russ Bishop/DanitaDelimont.com)')">
+      <div class="card" onclick="openLightbox(0)">
         <img src="https://www.bing.com/th?id=OHR.NaPaliKauai_ZH-CN5070149838_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="远离尘嚣" loading="lazy">
         <div class="overlay">
           <span class="card-title">远离尘嚣</span>
           <span class="card-date">2025-07-31</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.RibadesellaSummer_ZH-CN4852547359_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','理想的世界！','2025-07-30','里瓦德塞利亚，阿斯图里亚斯，西班牙 (© Agnieszka Glowala/Getty Images)')">
+      <div class="card" onclick="openLightbox(1)">
         <img src="https://www.bing.com/th?id=OHR.RibadesellaSummer_ZH-CN4852547359_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="理想的世界！" loading="lazy">
         <div class="overlay">
           <span class="card-title">理想的世界！</span>
           <span class="card-date">2025-07-30</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','丛林女王','2025-07-29','雌性孟加拉虎，坎哈国家公园，印度 (© Axel Gomille/Nature Picture Library)')">
+      <div class="card" onclick="openLightbox(2)">
         <img src="https://www.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="丛林女王" loading="lazy">
         <div class="overlay">
           <span class="card-title">丛林女王</span>
@@ -75,7 +82,9 @@
 
   <div class="lightbox" id="lightbox" onclick="closeLightbox()">
     <button class="lb-close" onclick="closeLightbox()" aria-label="关闭">&times;</button>
-    <a class="lb-download" id="lb-download" href="#" target="_blank" rel="noopener" onclick="event.stopPropagation()">下载 4K</a>
+    <a class="lb-download" id="lb-download" href="#" target="_blank" rel="noopener" onclick="event.stopPropagation()">查看原图</a>
+    <button class="lb-nav lb-prev" onclick="event.stopPropagation();navigate(-1)" aria-label="上一张">&#8249;</button>
+    <button class="lb-nav lb-next" onclick="event.stopPropagation();navigate(1)" aria-label="下一张">&#8250;</button>
     <img id="lb-img" src="" alt="">
     <div class="lb-info">
       <div class="lb-title" id="lb-title"></div>
@@ -84,19 +93,36 @@
   </div>
 
   <script>
-    function openLightbox(url,title,date,copyright){
-      document.getElementById('lb-img').src=url;
-      document.getElementById('lb-title').textContent=title;
-      document.getElementById('lb-meta').textContent=date+' · '+copyright;
-      document.getElementById('lb-download').href=url;
+    const items=[{"url":"https://www.bing.com/th?id=OHR.NaPaliKauai_ZH-CN5070149838_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"远离尘嚣","date":"2025-07-31","cr":"纳帕利海岸的卡拉劳海滩, 可爱岛, 夏威夷, 美国 (© Russ Bishop/DanitaDelimont.com)"},{"url":"https://www.bing.com/th?id=OHR.RibadesellaSummer_ZH-CN4852547359_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"理想的世界！","date":"2025-07-30","cr":"里瓦德塞利亚，阿斯图里亚斯，西班牙 (© Agnieszka Glowala/Getty Images)"},{"url":"https://www.bing.com/th?id=OHR.TigerDay_ZH-CN4359136631_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"丛林女王","date":"2025-07-29","cr":"雌性孟加拉虎，坎哈国家公园，印度 (© Axel Gomille/Nature Picture Library)"}];
+    let currentIndex=0;
+
+    function openLightbox(index){
+      currentIndex=index;
+      const w=items[index];
+      document.getElementById('lb-img').src=w.url;
+      document.getElementById('lb-title').textContent=w.title;
+      document.getElementById('lb-meta').textContent=w.date+' · '+w.cr;
+      document.getElementById('lb-download').href=w.url;
       document.getElementById('lightbox').classList.add('active');
       document.body.style.overflow='hidden';
+    }
+    function navigate(dir){
+      currentIndex=(currentIndex+dir+items.length)%items.length;
+      const w=items[currentIndex];
+      document.getElementById('lb-img').src=w.url;
+      document.getElementById('lb-title').textContent=w.title;
+      document.getElementById('lb-meta').textContent=w.date+' · '+w.cr;
+      document.getElementById('lb-download').href=w.url;
     }
     function closeLightbox(){
       document.getElementById('lightbox').classList.remove('active');
       document.body.style.overflow='';
     }
-    document.addEventListener('keydown',e=>{if(e.key==='Escape')closeLightbox()});
+    document.addEventListener('keydown',e=>{
+      if(e.key==='Escape')closeLightbox();
+      if(e.key==='ArrowLeft')navigate(-1);
+      if(e.key==='ArrowRight')navigate(1);
+    });
 
     const observer=new IntersectionObserver(entries=>{
       entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('visible');observer.unobserve(e.target)}});

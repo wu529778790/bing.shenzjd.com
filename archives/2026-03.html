@@ -36,10 +36,17 @@
     .lightbox .lb-close:hover{background:#27272a;color:#fafafa}
     .lightbox .lb-download{position:absolute;top:24px;right:80px;padding:8px 20px;background:#fafafa;color:#0a0a0a;border-radius:6px;font-size:.85rem;font-weight:500;cursor:pointer;text-decoration:none;transition:all .2s}
     .lightbox .lb-download:hover{background:#d4d4d8}
+    .lightbox .lb-nav{position:absolute;top:50%;transform:translateY(-50%);width:48px;height:48px;background:rgba(24,24,27,.7);border:1px solid #3f3f46;border-radius:50%;color:#a1a1aa;font-size:1.4rem;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .2s}
+    .lightbox .lb-nav:hover{background:#27272a;color:#fafafa}
+    .lightbox .lb-prev{left:20px}
+    .lightbox .lb-next{right:20px}
 
     @media(max-width:640px){
       .grid{grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px}
       .card .overlay{opacity:1;background:linear-gradient(0deg,rgba(10,10,10,.7) 0%,transparent 40%)}
+      .lightbox .lb-nav{width:40px;height:40px;font-size:1.1rem}
+      .lightbox .lb-prev{left:8px}
+      .lightbox .lb-next{right:8px}
     }
   </style>
 </head>
@@ -49,217 +56,217 @@
     <h1>2026-03 必应壁纸</h1>
     <span class="count">31 张壁纸</span>
     <div class="grid">
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','地下天堂','2026-03-31','天堂洞, 峰牙-格邦国家公园, 越南 (© Pakawat Thongcharoen/Getty Images)')">
+      <div class="card" onclick="openLightbox(0)">
         <img src="https://www.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="地下天堂" loading="lazy">
         <div class="overlay">
           <span class="card-title">地下天堂</span>
           <span class="card-date">2026-03-31</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.IndiaCranes_ZH-CN5871338482_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','优雅的动态','2026-03-30','蓑羽鹤, 印度 (© Axel Gomille/Nature Picture Library)')">
+      <div class="card" onclick="openLightbox(1)">
         <img src="https://www.bing.com/th?id=OHR.IndiaCranes_ZH-CN5871338482_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="优雅的动态" loading="lazy">
         <div class="overlay">
           <span class="card-title">优雅的动态</span>
           <span class="card-date">2026-03-30</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','海边的宁静','2026-03-29','佩吉角灯塔, 大西洋海岸, 新斯科舍省, 加拿大 (© Prashanth Bala/Shutterstock)')">
+      <div class="card" onclick="openLightbox(2)">
         <img src="https://www.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="海边的宁静" loading="lazy">
         <div class="overlay">
           <span class="card-title">海边的宁静</span>
           <span class="card-date">2026-03-29</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.CapeBuffalo_ZH-CN5591123662_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','未驯服的精神','2026-03-28','非洲水牛, 恩戈罗恩戈罗火山口, 坦桑尼亚 (© jesuss8/500px/Getty Images)')">
+      <div class="card" onclick="openLightbox(3)">
         <img src="https://www.bing.com/th?id=OHR.CapeBuffalo_ZH-CN5591123662_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="未驯服的精神" loading="lazy">
         <div class="overlay">
           <span class="card-title">未驯服的精神</span>
           <span class="card-date">2026-03-28</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','依然明亮地燃烧着','2026-03-27','纽约市的无线电城音乐厅, 美国 (© Clarence Holmes Photography/Alamy)')">
+      <div class="card" onclick="openLightbox(4)">
         <img src="https://www.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="依然明亮地燃烧着" loading="lazy">
         <div class="overlay">
           <span class="card-title">依然明亮地燃烧着</span>
           <span class="card-date">2026-03-27</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','凌驾荒野之上','2026-03-26','洛根溪吊桥，西海岸步道，加拿大 (© Tandem Stock/Adobe Stock)')">
+      <div class="card" onclick="openLightbox(5)">
         <img src="https://www.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="凌驾荒野之上" loading="lazy">
         <div class="overlay">
           <span class="card-title">凌驾荒野之上</span>
           <span class="card-date">2026-03-26</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','海牛的秘密生活','2026-03-25','淡水泉中的幼年海牛，水晶河，佛罗里达州，美国 (© Gregory Sweeney/Getty Images)')">
+      <div class="card" onclick="openLightbox(6)">
         <img src="https://www.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="海牛的秘密生活" loading="lazy">
         <div class="overlay">
           <span class="card-title">海牛的秘密生活</span>
           <span class="card-date">2026-03-25</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','春天的形状','2026-03-24','东湖樱花园的樱花，武汉，中国 (© Zhang Qiao/VCG/Getty Images)')">
+      <div class="card" onclick="openLightbox(7)">
         <img src="https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="春天的形状" loading="lazy">
         <div class="overlay">
           <span class="card-title">春天的形状</span>
           <span class="card-date">2026-03-24</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.SonoranStorm_ZH-CN0579792563_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','当水划出界线','2026-03-23','坦噶尼喀湖，非洲 (© BEST-BACKGROUNDS/NASA/Shutterstock)')">
+      <div class="card" onclick="openLightbox(8)">
         <img src="https://www.bing.com/th?id=OHR.SonoranStorm_ZH-CN0579792563_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="当水划出界线" loading="lazy">
         <div class="overlay">
           <span class="card-title">当水划出界线</span>
           <span class="card-date">2026-03-23</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.TanganyikaWater_ZH-CN4884850067_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','当水划出界线','2026-03-22','坦噶尼喀湖，非洲 (© BEST-BACKGROUNDS/NASA/Shutterstock)')">
+      <div class="card" onclick="openLightbox(9)">
         <img src="https://www.bing.com/th?id=OHR.TanganyikaWater_ZH-CN4884850067_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="当水划出界线" loading="lazy">
         <div class="overlay">
           <span class="card-title">当水划出界线</span>
           <span class="card-date">2026-03-22</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.LeteaForest_ZH-CN4153496399_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','根系自由生长的地方','2026-03-21','莱泰亚森林，多瑙河三角洲，罗马尼亚 (© Wild Wonders of Europe/Widstrand/Nature Picture Library)')">
+      <div class="card" onclick="openLightbox(10)">
         <img src="https://www.bing.com/th?id=OHR.LeteaForest_ZH-CN4153496399_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="根系自由生长的地方" loading="lazy">
         <div class="overlay">
           <span class="card-title">根系自由生长的地方</span>
           <span class="card-date">2026-03-21</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.SpringEquinoxY26_ZH-CN7450181382_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','春日绯梦','2026-03-20','春日樱花，上海，中国 (© junyyeung/Getty Images)')">
+      <div class="card" onclick="openLightbox(11)">
         <img src="https://www.bing.com/th?id=OHR.SpringEquinoxY26_ZH-CN7450181382_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="春日绯梦" loading="lazy">
         <div class="overlay">
           <span class="card-title">春日绯梦</span>
           <span class="card-date">2026-03-20</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.EchidnaAustralia_ZH-CN0913792118_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','激发你的好奇心','2026-03-19','澳洲针鼹，阿德莱德山，澳大利亚 (© Etienne Littlefair/naturepl.com)')">
+      <div class="card" onclick="openLightbox(12)">
         <img src="https://www.bing.com/th?id=OHR.EchidnaAustralia_ZH-CN0913792118_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="激发你的好奇心" loading="lazy">
         <div class="overlay">
           <span class="card-title">激发你的好奇心</span>
           <span class="card-date">2026-03-19</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.PortlandBlossoms_ZH-CN0814501668_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','城市花开','2026-03-18','汤姆·麦考尔滨水公园的樱花，波特兰，俄勒冈州，美国 (© Eric Vogt/Tandem Stills + Motion)')">
+      <div class="card" onclick="openLightbox(13)">
         <img src="https://www.bing.com/th?id=OHR.PortlandBlossoms_ZH-CN0814501668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="城市花开" loading="lazy">
         <div class="overlay">
           <span class="card-title">城市花开</span>
           <span class="card-date">2026-03-18</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','爱尔兰的精神十字路口','2026-03-17','艾利赫格里安南环形堡，多内加尔，爱尔兰 (© Lukassek/Getty Images)')">
+      <div class="card" onclick="openLightbox(14)">
         <img src="https://www.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="爱尔兰的精神十字路口" loading="lazy">
         <div class="overlay">
           <span class="card-title">爱尔兰的精神十字路口</span>
           <span class="card-date">2026-03-17</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.PandaForest_ZH-CN0545156080_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','走进熊猫世界','2026-03-16','正在吃竹子的大熊猫，中国 (© Entwicklungsknecht/Getty Images)')">
+      <div class="card" onclick="openLightbox(15)">
         <img src="https://www.bing.com/th?id=OHR.PandaForest_ZH-CN0545156080_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="走进熊猫世界" loading="lazy">
         <div class="overlay">
           <span class="card-title">走进熊猫世界</span>
           <span class="card-date">2026-03-16</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.PacificRimNP_ZH-CN0350089584_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','掠海而过','2026-03-15','太平洋沿岸国家公园保护区，温哥华岛，加拿大 (© EmilyNorton/Getty Images)')">
+      <div class="card" onclick="openLightbox(16)">
         <img src="https://www.bing.com/th?id=OHR.PacificRimNP_ZH-CN0350089584_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="掠海而过" loading="lazy">
         <div class="overlay">
           <span class="card-title">掠海而过</span>
           <span class="card-date">2026-03-15</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','圆周率的古老启示','2026-03-14','兰扬石门，位于英格兰康沃尔郡的一座兰扬新石器时代石棚墓，英国 (© Helen Hotson/Alamy)')">
+      <div class="card" onclick="openLightbox(17)">
         <img src="https://www.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="圆周率的古老启示" loading="lazy">
         <div class="overlay">
           <span class="card-title">圆周率的古老启示</span>
           <span class="card-date">2026-03-14</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','静谧的石之杰作','2026-03-13','邦港圣母教堂拱顶，莱萨布勒多洛讷，法国 (© Helmut Meyer zur Capellen/Alamy)')">
+      <div class="card" onclick="openLightbox(18)">
         <img src="https://www.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="静谧的石之杰作" loading="lazy">
         <div class="overlay">
           <span class="card-title">静谧的石之杰作</span>
           <span class="card-date">2026-03-13</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','排练中的翅膀','2026-03-12','幼年日鳽在巢穴附近展示求偶行为, 厄瓜多尔 (© Andy Rouse/naturepl.com)')">
+      <div class="card" onclick="openLightbox(19)">
         <img src="https://www.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="排练中的翅膀" loading="lazy">
         <div class="overlay">
           <span class="card-title">排练中的翅膀</span>
           <span class="card-date">2026-03-12</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','一个美好的春天','2026-03-11','盛开的桃树, 谢萨, 穆尔西亚, 西班牙 (© Juan Maria Coy Vergara/Getty Images)')">
+      <div class="card" onclick="openLightbox(20)">
         <img src="https://www.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="一个美好的春天" loading="lazy">
         <div class="overlay">
           <span class="card-title">一个美好的春天</span>
           <span class="card-date">2026-03-11</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.SpringIceland_ZH-CN9545282898_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','霜下之火','2026-03-10','赫韦拉韦利尔的布拉赫维尔地热池, 冰岛 (© Juan Maria Coy Vergara/Getty Images)')">
+      <div class="card" onclick="openLightbox(21)">
         <img src="https://www.bing.com/th?id=OHR.SpringIceland_ZH-CN9545282898_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="霜下之火" loading="lazy">
         <div class="overlay">
           <span class="card-title">霜下之火</span>
           <span class="card-date">2026-03-10</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.NappingSeal_ZH-CN9424683964_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','一次恰到好处的午睡','2026-03-09','在海滩上睡觉的灰海豹, 奥克尼群岛, 苏格兰 (© Andrew Mason/Minden Pictures)')">
+      <div class="card" onclick="openLightbox(22)">
         <img src="https://www.bing.com/th?id=OHR.NappingSeal_ZH-CN9424683964_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="一次恰到好处的午睡" loading="lazy">
         <div class="overlay">
           <span class="card-title">一次恰到好处的午睡</span>
           <span class="card-date">2026-03-09</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','节约日光的艺术','2026-03-08','乌尔姆市政厅的天文钟, 德国 (© Tomekbudujedomek/Getty Images)')">
+      <div class="card" onclick="openLightbox(23)">
         <img src="https://www.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="节约日光的艺术" loading="lazy">
         <div class="overlay">
           <span class="card-title">节约日光的艺术</span>
           <span class="card-date">2026-03-08</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','治愈、宁静且充满希望','2026-03-07','布罗肯峰的日出, 哈尔茨国家公园, 德国 (© imageBROKER/AVTG/Getty Images)')">
+      <div class="card" onclick="openLightbox(24)">
         <img src="https://www.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="治愈、宁静且充满希望" loading="lazy">
         <div class="overlay">
           <span class="card-title">治愈、宁静且充满希望</span>
           <span class="card-date">2026-03-07</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','混凝土中铸造的波浪','2026-03-06','波浪住宅楼, 瓦埃勒, 丹麦 (© Frank Bach/Alamy)')">
+      <div class="card" onclick="openLightbox(25)">
         <img src="https://www.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="混凝土中铸造的波浪" loading="lazy">
         <div class="overlay">
           <span class="card-title">混凝土中铸造的波浪</span>
           <span class="card-date">2026-03-06</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','古老岩石，现代灯光','2026-03-05','格雷梅的傍晚, 卡帕多西亚, 土耳其 (© ONNAJA/Getty Images)')">
+      <div class="card" onclick="openLightbox(26)">
         <img src="https://www.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="古老岩石，现代灯光" loading="lazy">
         <div class="overlay">
           <span class="card-title">古老岩石，现代灯光</span>
           <span class="card-date">2026-03-05</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.RilaCrocuses_ZH-CN3650360951_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','聚光灯下的番红花','2026-03-04','紫番红花, 里拉七湖, 保加利亚 (© Maya Karkalicheva/Getty Images)')">
+      <div class="card" onclick="openLightbox(27)">
         <img src="https://www.bing.com/th?id=OHR.RilaCrocuses_ZH-CN3650360951_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="聚光灯下的番红花" loading="lazy">
         <div class="overlay">
           <span class="card-title">聚光灯下的番红花</span>
           <span class="card-date">2026-03-04</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.LanternFestivalY26_ZH-CN9186685796_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','花灯映月，团圆吉祥','2026-03-03','元宵节期间悬挂的宫灯，北京自贡灯会现场，北京，中国 (© Grisha Bruev/Shutterstock)')">
+      <div class="card" onclick="openLightbox(28)">
         <img src="https://www.bing.com/th?id=OHR.LanternFestivalY26_ZH-CN9186685796_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="花灯映月，团圆吉祥" loading="lazy">
         <div class="overlay">
           <span class="card-title">花灯映月，团圆吉祥</span>
           <span class="card-date">2026-03-03</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','漂浮的传承','2026-03-02','苏梅岛的港口和长尾船, 泰国 (© Foto2rich/Shutterstock)')">
+      <div class="card" onclick="openLightbox(29)">
         <img src="https://www.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="漂浮的传承" loading="lazy">
         <div class="overlay">
           <span class="card-title">漂浮的传承</span>
           <span class="card-date">2026-03-02</span>
         </div>
       </div>
-      <div class="card" onclick="openLightbox('https://www.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp','每一步，都是传承','2026-03-01','伊维萨岛, 巴利阿里群岛, 西班牙 (© tokar/Shutterstock)')">
+      <div class="card" onclick="openLightbox(30)">
         <img src="https://www.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="每一步，都是传承" loading="lazy">
         <div class="overlay">
           <span class="card-title">每一步，都是传承</span>
@@ -271,7 +278,9 @@
 
   <div class="lightbox" id="lightbox" onclick="closeLightbox()">
     <button class="lb-close" onclick="closeLightbox()" aria-label="关闭">&times;</button>
-    <a class="lb-download" id="lb-download" href="#" target="_blank" rel="noopener" onclick="event.stopPropagation()">下载 4K</a>
+    <a class="lb-download" id="lb-download" href="#" target="_blank" rel="noopener" onclick="event.stopPropagation()">查看原图</a>
+    <button class="lb-nav lb-prev" onclick="event.stopPropagation();navigate(-1)" aria-label="上一张">&#8249;</button>
+    <button class="lb-nav lb-next" onclick="event.stopPropagation();navigate(1)" aria-label="下一张">&#8250;</button>
     <img id="lb-img" src="" alt="">
     <div class="lb-info">
       <div class="lb-title" id="lb-title"></div>
@@ -280,19 +289,36 @@
   </div>
 
   <script>
-    function openLightbox(url,title,date,copyright){
-      document.getElementById('lb-img').src=url;
-      document.getElementById('lb-title').textContent=title;
-      document.getElementById('lb-meta').textContent=date+' · '+copyright;
-      document.getElementById('lb-download').href=url;
+    const items=[{"url":"https://www.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"地下天堂","date":"2026-03-31","cr":"天堂洞, 峰牙-格邦国家公园, 越南 (© Pakawat Thongcharoen/Getty Images)"},{"url":"https://www.bing.com/th?id=OHR.IndiaCranes_ZH-CN5871338482_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"优雅的动态","date":"2026-03-30","cr":"蓑羽鹤, 印度 (© Axel Gomille/Nature Picture Library)"},{"url":"https://www.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"海边的宁静","date":"2026-03-29","cr":"佩吉角灯塔, 大西洋海岸, 新斯科舍省, 加拿大 (© Prashanth Bala/Shutterstock)"},{"url":"https://www.bing.com/th?id=OHR.CapeBuffalo_ZH-CN5591123662_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"未驯服的精神","date":"2026-03-28","cr":"非洲水牛, 恩戈罗恩戈罗火山口, 坦桑尼亚 (© jesuss8/500px/Getty Images)"},{"url":"https://www.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"依然明亮地燃烧着","date":"2026-03-27","cr":"纽约市的无线电城音乐厅, 美国 (© Clarence Holmes Photography/Alamy)"},{"url":"https://www.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"凌驾荒野之上","date":"2026-03-26","cr":"洛根溪吊桥，西海岸步道，加拿大 (© Tandem Stock/Adobe Stock)"},{"url":"https://www.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"海牛的秘密生活","date":"2026-03-25","cr":"淡水泉中的幼年海牛，水晶河，佛罗里达州，美国 (© Gregory Sweeney/Getty Images)"},{"url":"https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"春天的形状","date":"2026-03-24","cr":"东湖樱花园的樱花，武汉，中国 (© Zhang Qiao/VCG/Getty Images)"},{"url":"https://www.bing.com/th?id=OHR.SonoranStorm_ZH-CN0579792563_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"当水划出界线","date":"2026-03-23","cr":"坦噶尼喀湖，非洲 (© BEST-BACKGROUNDS/NASA/Shutterstock)"},{"url":"https://www.bing.com/th?id=OHR.TanganyikaWater_ZH-CN4884850067_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"当水划出界线","date":"2026-03-22","cr":"坦噶尼喀湖，非洲 (© BEST-BACKGROUNDS/NASA/Shutterstock)"},{"url":"https://www.bing.com/th?id=OHR.LeteaForest_ZH-CN4153496399_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"根系自由生长的地方","date":"2026-03-21","cr":"莱泰亚森林，多瑙河三角洲，罗马尼亚 (© Wild Wonders of Europe/Widstrand/Nature Picture Library)"},{"url":"https://www.bing.com/th?id=OHR.SpringEquinoxY26_ZH-CN7450181382_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"春日绯梦","date":"2026-03-20","cr":"春日樱花，上海，中国 (© junyyeung/Getty Images)"},{"url":"https://www.bing.com/th?id=OHR.EchidnaAustralia_ZH-CN0913792118_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"激发你的好奇心","date":"2026-03-19","cr":"澳洲针鼹，阿德莱德山，澳大利亚 (© Etienne Littlefair/naturepl.com)"},{"url":"https://www.bing.com/th?id=OHR.PortlandBlossoms_ZH-CN0814501668_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"城市花开","date":"2026-03-18","cr":"汤姆·麦考尔滨水公园的樱花，波特兰，俄勒冈州，美国 (© Eric Vogt/Tandem Stills + Motion)"},{"url":"https://www.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"爱尔兰的精神十字路口","date":"2026-03-17","cr":"艾利赫格里安南环形堡，多内加尔，爱尔兰 (© Lukassek/Getty Images)"},{"url":"https://www.bing.com/th?id=OHR.PandaForest_ZH-CN0545156080_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"走进熊猫世界","date":"2026-03-16","cr":"正在吃竹子的大熊猫，中国 (© Entwicklungsknecht/Getty Images)"},{"url":"https://www.bing.com/th?id=OHR.PacificRimNP_ZH-CN0350089584_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"掠海而过","date":"2026-03-15","cr":"太平洋沿岸国家公园保护区，温哥华岛，加拿大 (© EmilyNorton/Getty Images)"},{"url":"https://www.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"圆周率的古老启示","date":"2026-03-14","cr":"兰扬石门，位于英格兰康沃尔郡的一座兰扬新石器时代石棚墓，英国 (© Helen Hotson/Alamy)"},{"url":"https://www.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"静谧的石之杰作","date":"2026-03-13","cr":"邦港圣母教堂拱顶，莱萨布勒多洛讷，法国 (© Helmut Meyer zur Capellen/Alamy)"},{"url":"https://www.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"排练中的翅膀","date":"2026-03-12","cr":"幼年日鳽在巢穴附近展示求偶行为, 厄瓜多尔 (© Andy Rouse/naturepl.com)"},{"url":"https://www.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"一个美好的春天","date":"2026-03-11","cr":"盛开的桃树, 谢萨, 穆尔西亚, 西班牙 (© Juan Maria Coy Vergara/Getty Images)"},{"url":"https://www.bing.com/th?id=OHR.SpringIceland_ZH-CN9545282898_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"霜下之火","date":"2026-03-10","cr":"赫韦拉韦利尔的布拉赫维尔地热池, 冰岛 (© Juan Maria Coy Vergara/Getty Images)"},{"url":"https://www.bing.com/th?id=OHR.NappingSeal_ZH-CN9424683964_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"一次恰到好处的午睡","date":"2026-03-09","cr":"在海滩上睡觉的灰海豹, 奥克尼群岛, 苏格兰 (© Andrew Mason/Minden Pictures)"},{"url":"https://www.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"节约日光的艺术","date":"2026-03-08","cr":"乌尔姆市政厅的天文钟, 德国 (© Tomekbudujedomek/Getty Images)"},{"url":"https://www.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"治愈、宁静且充满希望","date":"2026-03-07","cr":"布罗肯峰的日出, 哈尔茨国家公园, 德国 (© imageBROKER/AVTG/Getty Images)"},{"url":"https://www.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"混凝土中铸造的波浪","date":"2026-03-06","cr":"波浪住宅楼, 瓦埃勒, 丹麦 (© Frank Bach/Alamy)"},{"url":"https://www.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"古老岩石，现代灯光","date":"2026-03-05","cr":"格雷梅的傍晚, 卡帕多西亚, 土耳其 (© ONNAJA/Getty Images)"},{"url":"https://www.bing.com/th?id=OHR.RilaCrocuses_ZH-CN3650360951_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"聚光灯下的番红花","date":"2026-03-04","cr":"紫番红花, 里拉七湖, 保加利亚 (© Maya Karkalicheva/Getty Images)"},{"url":"https://www.bing.com/th?id=OHR.LanternFestivalY26_ZH-CN9186685796_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"花灯映月，团圆吉祥","date":"2026-03-03","cr":"元宵节期间悬挂的宫灯，北京自贡灯会现场，北京，中国 (© Grisha Bruev/Shutterstock)"},{"url":"https://www.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"漂浮的传承","date":"2026-03-02","cr":"苏梅岛的港口和长尾船, 泰国 (© Foto2rich/Shutterstock)"},{"url":"https://www.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp","title":"每一步，都是传承","date":"2026-03-01","cr":"伊维萨岛, 巴利阿里群岛, 西班牙 (© tokar/Shutterstock)"}];
+    let currentIndex=0;
+
+    function openLightbox(index){
+      currentIndex=index;
+      const w=items[index];
+      document.getElementById('lb-img').src=w.url;
+      document.getElementById('lb-title').textContent=w.title;
+      document.getElementById('lb-meta').textContent=w.date+' · '+w.cr;
+      document.getElementById('lb-download').href=w.url;
       document.getElementById('lightbox').classList.add('active');
       document.body.style.overflow='hidden';
+    }
+    function navigate(dir){
+      currentIndex=(currentIndex+dir+items.length)%items.length;
+      const w=items[currentIndex];
+      document.getElementById('lb-img').src=w.url;
+      document.getElementById('lb-title').textContent=w.title;
+      document.getElementById('lb-meta').textContent=w.date+' · '+w.cr;
+      document.getElementById('lb-download').href=w.url;
     }
     function closeLightbox(){
       document.getElementById('lightbox').classList.remove('active');
       document.body.style.overflow='';
     }
-    document.addEventListener('keydown',e=>{if(e.key==='Escape')closeLightbox()});
+    document.addEventListener('keydown',e=>{
+      if(e.key==='Escape')closeLightbox();
+      if(e.key==='ArrowLeft')navigate(-1);
+      if(e.key==='ArrowRight')navigate(1);
+    });
 
     const observer=new IntersectionObserver(entries=>{
       entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('visible');observer.unobserve(e.target)}});
