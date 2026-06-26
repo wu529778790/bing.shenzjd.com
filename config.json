@@ -1,1 +1,10 @@
-{"displayResolution": "1920x1080", "downloadResolution": "UHD", "market": "zh-CN", "dateFormat": "YYYY-MM-DD", "dateInputFormat": "YYYYMMDD", "archiveDir": "../archives", "readmeFile": "../README.md"}
+{
+  "displayResolution": "1920x1080",
+  "downloadResolution": "UHD",
+  "market": "zh-CN",
+  "dateFormat": "YYYY-MM-DD",
+  "dateInputFormat": "YYYYMMDD",
+  "dataFile": "../data/wallpapers.json",
+  "archiveDir": "../archives",
+  "readmeFile": "../README.md"
+}
