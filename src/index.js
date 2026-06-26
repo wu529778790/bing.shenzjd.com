@@ -201,7 +201,7 @@ class BingWallpaperFetcher {
     for (const w of wallpapers) {
       cards += `
       <div class="card" onclick="openLightbox('${w.downloadUrl4k.replace(/'/g, "\\'")}','${w.title.replace(/'/g, "\\'")}','${w.date}','${w.copyright.replace(/'/g, "\\'")}')">
-        <img src="${w.imageUrl}" alt="${w.title}" loading="lazy" width="640" height="360">
+        <img src="${w.imageUrl}" alt="${w.title}" loading="lazy">
         <div class="overlay">
           <span class="card-title">${w.title}</span>
           <span class="card-date">${w.date}</span>
@@ -230,7 +230,7 @@ class BingWallpaperFetcher {
     .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}
     .card{position:relative;border-radius:10px;overflow:hidden;cursor:pointer;opacity:0;transform:translateY(20px);transition:opacity .5s,transform .5s}
     .card.visible{opacity:1;transform:translateY(0)}
-    .card img{width:100%;aspect-ratio:16/9;object-fit-cover;display:block;transition:transform .4s}
+    .card img{width:100%;display:block;transition:transform .4s}
     .card:hover img{transform:scale(1.05)}
     .card .overlay{position:absolute;inset:0;background:linear-gradient(0deg,rgba(10,10,10,.8) 0%,transparent 50%);display:flex;flex-direction:column;justify-content:flex-end;padding:16px;opacity:0;transition:opacity .3s}
     .card:hover .overlay{opacity:1}
@@ -309,7 +309,7 @@ class BingWallpaperFetcher {
     for (const w of otherWallpapers) {
       grid += `
         <div class="card" onclick="openLightbox('${w.downloadUrl4k.replace(/'/g, "\\'")}','${w.title.replace(/'/g, "\\'")}','${w.date}','${w.copyright.replace(/'/g, "\\'")}')">
-          <img src="${w.imageUrl}" alt="${w.title}" loading="lazy" width="640" height="360">
+          <img src="${w.imageUrl}" alt="${w.title}" loading="lazy">
           <div class="overlay">
             <span class="card-title">${w.title}</span>
             <span class="card-date">${w.date}</span>
@@ -358,7 +358,7 @@ class BingWallpaperFetcher {
     .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}
     .card{position:relative;border-radius:10px;overflow:hidden;cursor:pointer;opacity:0;transform:translateY(20px);transition:opacity .5s,transform .5s}
     .card.visible{opacity:1;transform:translateY(0)}
-    .card img{width:100%;aspect-ratio:16/9;object-fit-cover;display:block;transition:transform .4s}
+    .card img{width:100%;display:block;transition:transform .4s}
     .card:hover img{transform:scale(1.05)}
     .card .overlay{position:absolute;inset:0;background:linear-gradient(0deg,rgba(10,10,10,.8) 0%,transparent 50%);display:flex;flex-direction:column;justify-content:flex-end;padding:16px;opacity:0;transition:opacity .3s}
     .card:hover .overlay{opacity:1}
