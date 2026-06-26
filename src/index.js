@@ -583,7 +583,7 @@ class BingWallpaperFetcher {
     const archiveMonths = await this.getArchiveMonths();
     if (archiveMonths.length > 0) {
       const links = archiveMonths.map(month => `[${month}](./archives/${month}.md)`);
-      content += links.join(" | ") + "\n\n";
+      content += links.join(" · ") + "\n\n";
     } else {
       content += `📁 [查看按月份归档的壁纸](./archives/)\n\n`;
     }
