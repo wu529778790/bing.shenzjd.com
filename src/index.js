@@ -3,12 +3,8 @@ const fs = require("fs-extra");
 const dayjs = require("dayjs");
 const path = require("path");
 
-// 加载配置文件
 const config = require("../config.json");
 
-/**
- * 延迟函数
- */
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
@@ -16,12 +12,12 @@ function sleep(ms) {
 /**
  * 必应壁纸自动归档工具
  *
- * 数据存储：data/wallpapers.json（JSON 格式，单一数据源）
- * 页面生成：archives/YYYY-MM.html + README.md（由脚本生成，静态托管）
+ * 数据存储：data/YYYY-MM.json（按月分文件）
+ * 页面生成：archives/YYYY-MM.html + index.html + README.md
  */
 class BingWallpaperFetcher {
   constructor() {
-    this.dataFile = path.join(__dirname, config.dataFile);
+    this.dataDir = path.join(__dirname, config.dataDir);
     this.archiveDir = path.join(__dirname, config.archiveDir);
     this.readmeFile = path.join(__dirname, config.readmeFile);
 
@@ -96,52 +92,73 @@ class BingWallpaperFetcher {
     };
   }
 
-  // ===== JSON 数据操作 =====
+  // ===== JSON 数据操作（按月分文件）=====
 
-  async loadData() {
-    if (await fs.pathExists(this.dataFile)) {
-      return JSON.parse(await fs.readFile(this.dataFile, "utf8"));
+  /**
+   * 获取某月数据文件路径
+   */
+  getMonthFile(monthKey) {
+    return path.join(this.dataDir, `${monthKey}.json`);
+  }
+
+  /**
+   * 读取某月的壁纸数据
+   */
+  async loadMonth(monthKey) {
+    const file = this.getMonthFile(monthKey);
+    if (await fs.pathExists(file)) {
+      return JSON.parse(await fs.readFile(file, "utf8"));
     }
     return [];
   }
 
-  async saveData(data) {
-    await fs.ensureDir(path.dirname(this.dataFile));
-    await fs.writeFile(this.dataFile, JSON.stringify(data, null, 2), "utf8");
-  }
-
-  wallpaperExists(data, date) {
-    return data.some((w) => w.date === date);
-  }
-
-  addWallpaper(data, wallpaper) {
-    data.push(wallpaper);
+  /**
+   * 保存某月的壁纸数据
+   */
+  async saveMonth(monthKey, data) {
+    await fs.ensureDir(this.dataDir);
     data.sort((a, b) => b.date.localeCompare(a.date));
-    return data;
+    await fs.writeFile(this.getMonthFile(monthKey), JSON.stringify(data, null, 2), "utf8");
   }
 
-  getWallpapersByMonth(data, monthKey) {
-    return data
-      .filter((w) => w.date.startsWith(monthKey))
-      .sort((a, b) => b.date.localeCompare(a.date));
+  /**
+   * 读取所有月份的数据（用于生成页面）
+   */
+  async loadAllData() {
+    await fs.ensureDir(this.dataDir);
+    const files = (await fs.readdir(this.dataDir))
+      .filter((f) => f.endsWith(".json"))
+      .sort((a, b) => b.localeCompare(a));
+
+    const allData = [];
+    for (const file of files) {
+      const monthData = JSON.parse(await fs.readFile(path.join(this.dataDir, file), "utf8"));
+      allData.push(...monthData);
+    }
+    allData.sort((a, b) => b.date.localeCompare(a.date));
+    return allData;
   }
 
-  getArchiveMonths(data) {
-    const months = [...new Set(data.map((w) => w.date.substring(0, 7)))];
-    return months.sort((a, b) => b.localeCompare(a));
+  /**
+   * 获取所有已存在的月份列表
+   */
+  async getArchiveMonths() {
+    await fs.ensureDir(this.dataDir);
+    return (await fs.readdir(this.dataDir))
+      .filter((f) => f.endsWith(".json"))
+      .map((f) => f.replace(".json", ""))
+      .sort((a, b) => b.localeCompare(a));
   }
 
   // ===== 页面生成 =====
 
-  generateReadme(data) {
+  generateReadme(data, archiveMonths) {
     const latest = data[0];
     const currentMonth = dayjs().format("YYYY-MM");
-    const monthlyWallpapers = this.getWallpapersByMonth(data, currentMonth);
-    const archiveMonths = this.getArchiveMonths(data);
+    const monthlyWallpapers = data.filter((w) => w.date.startsWith(currentMonth));
 
     let md = `# Bing Wallpaper\n\n`;
 
-    // 今日壁纸
     md += `## 今日壁纸\n\n`;
     md += `**${latest.title}** (${latest.date})\n\n`;
     md += `![${latest.title}](${latest.imageUrl})\n\n`;
@@ -152,7 +169,6 @@ class BingWallpaperFetcher {
     }
     md += `🔗 <a href="${latest.downloadUrl4k}" target="_blank">下载 4K 高清版本</a>\n\n`;
 
-    // 当月壁纸网格
     const otherWallpapers = monthlyWallpapers.filter((w) => w.date !== latest.date);
     md += `## ${currentMonth} 月壁纸 (${monthlyWallpapers.length} 张)\n\n`;
     if (otherWallpapers.length > 0) {
@@ -167,12 +183,10 @@ class BingWallpaperFetcher {
       md += `</div>\n\n`;
     }
 
-    // 归档链接
     md += `## 历史归档\n\n`;
     const links = archiveMonths.map((m) => `[${m}](./archives/${m}.html)`);
     md += links.join(" · ") + "\n\n";
 
-    // 关于
     md += `## 关于\n\n`;
     md += `🤖 本项目使用 GitHub Actions 每天自动获取必应壁纸并更新\n\n`;
     md += `📸 所有壁纸版权归微软及原作者所有\n\n`;
@@ -180,8 +194,7 @@ class BingWallpaperFetcher {
     return md;
   }
 
-  generateArchiveHTML(monthKey, data) {
-    const wallpapers = this.getWallpapersByMonth(data, monthKey);
+  generateArchiveHTML(monthKey, wallpapers) {
     const title = `${monthKey} 必应壁纸`;
 
     let cards = "";
@@ -238,11 +251,10 @@ class BingWallpaperFetcher {
 </html>`;
   }
 
-  generateIndexHTML(data) {
+  generateIndexHTML(data, archiveMonths) {
     const latest = data[0];
     const currentMonth = dayjs().format("YYYY-MM");
-    const monthlyWallpapers = this.getWallpapersByMonth(data, currentMonth);
-    const archiveMonths = this.getArchiveMonths(data);
+    const monthlyWallpapers = data.filter((w) => w.date.startsWith(currentMonth));
     const otherWallpapers = monthlyWallpapers.filter((w) => w.date !== latest.date);
 
     let archiveLinks = archiveMonths.map((m) => `<a href="./archives/${m}.html">${m}</a>`).join("\n        ");
@@ -332,26 +344,33 @@ class BingWallpaperFetcher {
 </html>`;
   }
 
-  async generateAllPages(data) {
+  async generateAllPages() {
     await fs.ensureDir(this.archiveDir);
+    const archiveMonths = await this.getArchiveMonths();
+    const allData = await this.loadAllData();
 
-    // 生成首页
-    const indexHtml = this.generateIndexHTML(data);
+    if (allData.length === 0) {
+      console.log("⚠️ 没有数据，跳过页面生成");
+      return;
+    }
+
+    // 首页
+    const indexHtml = this.generateIndexHTML(allData, archiveMonths);
     await fs.writeFile(path.join(__dirname, "../index.html"), indexHtml, "utf8");
     console.log("✅ index.html 已生成");
 
-    // 生成 README（给 GitHub 仓库页面看）
-    const readme = this.generateReadme(data);
+    // README
+    const readme = this.generateReadme(allData, archiveMonths);
     await fs.writeFile(this.readmeFile, readme, "utf8");
     console.log("✅ README.md 已生成");
 
-    // 生成归档 HTML
-    const months = this.getArchiveMonths(data);
-    for (const month of months) {
-      const html = this.generateArchiveHTML(month, data);
+    // 归档页面（只为有数据的月份生成）
+    for (const month of archiveMonths) {
+      const monthData = await this.loadMonth(month);
+      const html = this.generateArchiveHTML(month, monthData);
       await fs.writeFile(path.join(this.archiveDir, `${month}.html`), html, "utf8");
     }
-    console.log(`✅ ${months.length} 个归档页面已生成`);
+    console.log(`✅ ${archiveMonths.length} 个归档页面已生成`);
   }
 
   // ===== 主流程 =====
@@ -366,20 +385,23 @@ class BingWallpaperFetcher {
       }
 
       const processed = this.processSingleWallpaperData(todayWallpaper);
+      const monthKey = processed.date.substring(0, 7);
       console.log(`📸 获取到今日壁纸: ${processed.title} (${processed.date})`);
 
-      // 读取数据 → 去重 → 追加 → 保存
-      const data = await this.loadData();
-      if (this.wallpaperExists(data, processed.date)) {
+      // 读取当月数据 → 去重 → 追加 → 保存
+      const monthData = await this.loadMonth(monthKey);
+      const exists = monthData.some((w) => w.date === processed.date);
+
+      if (exists) {
         console.log(`ℹ️ 壁纸 ${processed.date} 已存在，跳过保存`);
       } else {
-        this.addWallpaper(data, processed);
-        await this.saveData(data);
-        console.log(`✅ 已保存壁纸到 JSON`);
+        monthData.push(processed);
+        await this.saveMonth(monthKey, monthData);
+        console.log(`✅ 已保存到 data/${monthKey}.json`);
       }
 
       // 生成页面
-      await this.generateAllPages(data);
+      await this.generateAllPages();
 
       console.log("✅ 所有任务完成！");
     } catch (error) {

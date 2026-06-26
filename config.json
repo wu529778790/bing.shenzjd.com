@@ -4,7 +4,7 @@
   "market": "zh-CN",
   "dateFormat": "YYYY-MM-DD",
   "dateInputFormat": "YYYYMMDD",
-  "dataFile": "../data/wallpapers.json",
+  "dataDir": "../data",
   "archiveDir": "../archives",
   "readmeFile": "../README.md"
 }

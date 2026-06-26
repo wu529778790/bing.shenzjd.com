@@ -3,7 +3,20 @@
     "allow": [
       "Bash(node:*)",
       "Bash(pnpm install:*)",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "Bash(gh run *)",
+      "Bash(gh api *)",
+      "Bash(git fetch *)",
+      "WebFetch(domain:bing.shenzjd.com)",
+      "Bash(git pull *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(git stash *)",
+      "Bash(pnpm test *)",
+      "Bash(npx jest *)",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(json.dumps\\(d[0], ensure_ascii=False, indent=2\\)\\)\")",
+      "Bash(git rm *)"
     ]
   }
 }
