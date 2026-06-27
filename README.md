@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**逐渐失去立足之地的树木** (2026-06-27)
+**看起来很精神** (2026-06-28)
 
-![逐渐失去立足之地的树木](https://www.bing.com/th?id=OHR.BoneyardBeach_ZH-CN5540590570_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![看起来很精神](https://www.bing.com/th?id=OHR.SaguaroSun_ZH-CN5820504732_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国 (© Frances/Adobe Stock)](https://www.bing.com/search?q=%E4%BA%A8%E5%BB%B7%E5%B2%9B&form=hpcapt&mkt=zh-cn)
+[温德盖特山口附近的巨柱仙人掌, 麦克道尔山脉, 亚利桑那州, 美国 (© Eric Mischke/Getty Images)](https://www.bing.com/search?q=%E5%B7%A8%E4%BA%BA%E6%9F%B1%E4%BB%99%E4%BA%BA%E6%8E%8C&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.BoneyardBeach_ZH-CN5540590570_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.SaguaroSun_ZH-CN5820504732_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-06 月壁纸 (27 张)
+## 2026-06 月壁纸 (28 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.BoneyardBeach_ZH-CN5540590570_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="逐渐失去立足之地的树木" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-06-27</strong> <a href="https://www.bing.com/th?id=OHR.BoneyardBeach_ZH-CN5540590570_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>逐渐失去立足之地的树木</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="时事" style="width: 100%; border-radius: 8px;">
