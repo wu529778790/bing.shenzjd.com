@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**生于烈火，拥于碧水** (2026-06-29)
+**阴影被拉得修长之处** (2026-06-30)
 
-![生于烈火，拥于碧水](https://www.bing.com/th?id=OHR.BoraBoraLagoon_ZH-CN9234363590_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![阴影被拉得修长之处](https://www.bing.com/th?id=OHR.MasaiGiraffe_ZH-CN1665123897_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[波拉波拉岛及其泻湖, 南太平洋, 法属波利尼西亚 (© Frederick Millett/Shutterstock)](https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E7%83%AD%E5%B8%A6%E6%97%A5&form=hpcapt&mkt=zh-cn)
+[马赛马拉国家保护区日落时分的长颈鹿, 肯尼亚 (© danm/Getty Images)](https://www.bing.com/search?q=%E9%A9%AC%E8%B5%9B%E9%A9%AC%E6%8B%89%E5%9B%BD%E5%AE%B6%E4%BF%9D%E6%8A%A4%E5%8C%BA&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.BoraBoraLagoon_ZH-CN9234363590_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.MasaiGiraffe_ZH-CN1665123897_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-06 月壁纸 (29 张)
+## 2026-06 月壁纸 (30 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.BoraBoraLagoon_ZH-CN9234363590_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="生于烈火，拥于碧水" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-06-29</strong> <a href="https://www.bing.com/th?id=OHR.BoraBoraLagoon_ZH-CN9234363590_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>生于烈火，拥于碧水</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SaguaroSun_ZH-CN5820504732_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="看起来很精神" style="width: 100%; border-radius: 8px;">
