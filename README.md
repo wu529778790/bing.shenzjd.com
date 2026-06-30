@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**阴影被拉得修长之处** (2026-06-30)
+**大西洋雕琢而成的加拿大** (2026-07-01)
 
-![阴影被拉得修长之处](https://www.bing.com/th?id=OHR.MasaiGiraffe_ZH-CN1665123897_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![大西洋雕琢而成的加拿大](https://www.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[马赛马拉国家保护区日落时分的长颈鹿, 肯尼亚 (© danm/Getty Images)](https://www.bing.com/search?q=%E9%A9%AC%E8%B5%9B%E9%A9%AC%E6%8B%89%E5%9B%BD%E5%AE%B6%E4%BF%9D%E6%8A%A4%E5%8C%BA&form=hpcapt&mkt=zh-cn)
+[地牢省立公园, 纽芬兰和拉布拉多省, 加拿大 (© Kaitlyn McLachlan/Getty Images)](https://www.bing.com/search?q=%E5%9C%B0%E7%89%A2%E7%9C%81%E7%AB%8B%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.MasaiGiraffe_ZH-CN1665123897_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
 ## 2026-06 月壁纸 (30 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.MasaiGiraffe_ZH-CN1665123897_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="阴影被拉得修长之处" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-06-30</strong> <a href="https://www.bing.com/th?id=OHR.MasaiGiraffe_ZH-CN1665123897_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>阴影被拉得修长之处</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.BoraBoraLagoon_ZH-CN9234363590_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="生于烈火，拥于碧水" style="width: 100%; border-radius: 8px;">
@@ -192,7 +198,7 @@
 
 ## 历史归档
 
-[2026-06](./archives/2026-06.html) · [2026-05](./archives/2026-05.html) · [2026-04](./archives/2026-04.html) · [2026-03](./archives/2026-03.html) · [2026-02](./archives/2026-02.html) · [2026-01](./archives/2026-01.html) · [2025-12](./archives/2025-12.html) · [2025-11](./archives/2025-11.html) · [2025-10](./archives/2025-10.html) · [2025-09](./archives/2025-09.html) · [2025-08](./archives/2025-08.html) · [2025-07](./archives/2025-07.html) · [2025-02](./archives/2025-02.html)
+[2026-07](./archives/2026-07.html) · [2026-06](./archives/2026-06.html) · [2026-05](./archives/2026-05.html) · [2026-04](./archives/2026-04.html) · [2026-03](./archives/2026-03.html) · [2026-02](./archives/2026-02.html) · [2026-01](./archives/2026-01.html) · [2025-12](./archives/2025-12.html) · [2025-11](./archives/2025-11.html) · [2025-10](./archives/2025-10.html) · [2025-09](./archives/2025-09.html) · [2025-08](./archives/2025-08.html) · [2025-07](./archives/2025-07.html) · [2025-02](./archives/2025-02.html)
 
 ## 关于
 
