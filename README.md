@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**此行，不虚绕道** (2026-07-04)
+**紫色花海** (2026-07-05)
 
-![此行，不虚绕道](https://www.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![紫色花海](https://www.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images)](https://www.bing.com/search?q=%E5%87%AF%E6%B3%BD%E6%96%AF%E5%A0%A1&form=hpcapt&mkt=zh-cn)
+[瓦朗索勒高原的薰衣草行，普罗旺斯，法国 (© Robert Harding/Shutterstock)](https://www.bing.com/search?q=%E8%96%B0%E8%A1%A3%E8%8D%89%E5%B1%9E&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-07 月壁纸 (4 张)
+## 2026-07 月壁纸 (5 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="此行，不虚绕道" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-07-04</strong> <a href="https://www.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>此行，不虚绕道</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="流光之诗" style="width: 100%; border-radius: 8px;">
