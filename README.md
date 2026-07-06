@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**百代镌刻之城** (2026-07-06)
+**林冠华彩** (2026-07-07)
 
-![百代镌刻之城](https://www.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![林冠华彩](https://www.bing.com/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[锡拉库萨的日落，西西里岛，意大利 (© Balate Dorin/Getty Images)](https://www.bing.com/search?q=%E9%94%A1%E6%8B%89%E5%BA%93%E8%90%A8+%E8%A5%BF%E8%A5%BF%E9%87%8C%E5%B2%9B&form=hpcapt&mkt=zh-cn)
+[板嘴山巨嘴鸟与兰花，厄瓜多尔 (© Murray Cooper/Minden Pictures)](https://www.bing.com/search?q=%E6%9D%BF%E5%98%B4%E5%B1%B1%E5%B7%A8%E5%98%B4%E9%B8%9F&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-07 月壁纸 (6 张)
+## 2026-07 月壁纸 (7 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="百代镌刻之城" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-07-06</strong> <a href="https://www.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>百代镌刻之城</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="紫色花海" style="width: 100%; border-radius: 8px;">
