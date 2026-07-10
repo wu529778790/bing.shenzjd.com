@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**陆地与海洋的鸟瞰图** (2026-07-10)
+**布列塔尼的潮汐之约** (2026-07-11)
 
-![陆地与海洋的鸟瞰图](https://www.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![布列塔尼的潮汐之约](https://www.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[陆地与海洋的鸟瞰图，维多利亚州，澳大利亚 (© Nearmap/Getty Images)](https://www.bing.com/search?q=%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E5%B7%9E&form=hpcapt&mkt=zh-cn)
+[圣古斯坦港, 欧赖, 布列塔尼, 法国 (© Rolf E. Staerk/Shutterstock)](https://www.bing.com/search?q=%E6%B3%95%E5%9B%BD%E6%AC%A7%E8%B5%96%E5%9C%A3%E5%8F%A4%E6%96%AF%E5%BD%93%E6%B8%AF&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-07 月壁纸 (10 张)
+## 2026-07 月壁纸 (11 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="陆地与海洋的鸟瞰图" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-07-10</strong> <a href="https://www.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>陆地与海洋的鸟瞰图</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SapaVietnam_ZH-CN2178893672_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="步步传承" style="width: 100%; border-radius: 8px;">
