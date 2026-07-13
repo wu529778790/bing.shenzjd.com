@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**为摇滚而生** (2026-07-13)
+**奇妙的真相** (2026-07-14)
 
-![为摇滚而生](https://www.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![奇妙的真相](https://www.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[羚羊峡谷，纳瓦霍族保留地，亚利桑那州，美国 (© Mark Skalny/Getty Images)](https://www.bing.com/search?q=%E7%BE%9A%E7%BE%8A%E5%B3%A1%E8%B0%B7&form=hpcapt&mkt=zh-cn)
+[柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马 (© Shane Gross/Nature Picture Library)](https://www.bing.com/search?q=%E6%9F%A0%E6%AA%AC%E9%B2%A8&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-07 月壁纸 (13 张)
+## 2026-07 月壁纸 (14 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="为摇滚而生" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-07-13</strong> <a href="https://www.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>为摇滚而生</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="缅因州的狂野一面" style="width: 100%; border-radius: 8px;">
