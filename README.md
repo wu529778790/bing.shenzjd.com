@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**奇妙的真相** (2026-07-14)
+**攀登后的奖励** (2026-07-15)
 
-![奇妙的真相](https://www.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![攀登后的奖励](https://www.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马 (© Shane Gross/Nature Picture Library)](https://www.bing.com/search?q=%E6%9F%A0%E6%AA%AC%E9%B2%A8&form=hpcapt&mkt=zh-cn)
+[玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国 (© Steve Dunleavy/Getty Images)](https://www.bing.com/search?q=%E7%BA%A6%E7%BF%B0%C2%B7%E7%BC%AA%E5%B0%94%E8%8D%92%E9%87%8E&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-07 月壁纸 (14 张)
+## 2026-07 月壁纸 (15 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="奇妙的真相" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-07-14</strong> <a href="https://www.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>奇妙的真相</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="为摇滚而生" style="width: 100%; border-radius: 8px;">
