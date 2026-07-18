@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**环影圆成** (2026-07-18)
+**敛羽栖时** (2026-07-19)
 
-![环影圆成](https://www.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![敛羽栖时](https://www.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[恶魔桥在克罗姆劳杜鹃花公园，萨克森州，德国 (© Mike Mareen/Getty Images)](https://www.bing.com/search?q=%E6%81%B6%E9%AD%94%E6%A1%A5%E5%9C%A8%E5%85%8B%E7%BD%97%E5%A7%86%E5%8A%B3%E6%9D%9C%E9%B9%83%E8%8A%B1%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+[不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion)](https://www.bing.com/search?q=%E5%AE%B6%E7%87%95&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-07 月壁纸 (18 张)
+## 2026-07 月壁纸 (19 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="环影圆成" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-07-18</strong> <a href="https://www.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>环影圆成</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="希腊式的逃离" style="width: 100%; border-radius: 8px;">
