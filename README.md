@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**敛羽栖时** (2026-07-19)
+**月瞰寰宇** (2026-07-20)
 
-![敛羽栖时](https://www.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![月瞰寰宇](https://www.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion)](https://www.bing.com/search?q=%E5%AE%B6%E7%87%95&form=hpcapt&mkt=zh-cn)
+[月球与地球由阿耳忒弥斯2号机组人员拍摄 (© NASA)](https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E6%9C%88%E7%90%83%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-07 月壁纸 (19 张)
+## 2026-07 月壁纸 (20 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="敛羽栖时" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-07-19</strong> <a href="https://www.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>敛羽栖时</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="环影圆成" style="width: 100%; border-radius: 8px;">
