@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**细微之举，影响深远** (2026-07-22)
+**瓣叠交响** (2026-07-23)
 
-![细微之举，影响深远](https://www.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![瓣叠交响](https://www.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[珊瑚礁与海滩在拉贾安帕特，印度尼西亚 (© SergeUWPhoto/Shutterstock)](https://www.bing.com/search?q=%E7%8F%8A%E7%91%9A%E7%A4%81%E6%84%8F%E8%AF%86%E5%91%A8&form=hpcapt&mkt=zh-cn)
+[粉红色大丽花 (© Harald Biebel/Getty Images)](https://www.bing.com/search?q=%E5%A4%A7%E4%B8%BD%E8%8A%B1%E5%B1%9E%E6%A4%8D%E7%89%A9&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-07 月壁纸 (22 张)
+## 2026-07 月壁纸 (23 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="细微之举，影响深远" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-07-22</strong> <a href="https://www.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>细微之举，影响深远</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="拱影寻踪" style="width: 100%; border-radius: 8px;">
