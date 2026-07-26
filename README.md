@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**海陆际会，生机肇始** (2026-07-26)
+**仰望芝城，流光溢彩** (2026-07-27)
 
-![海陆际会，生机肇始](https://www.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![仰望芝城，流光溢彩](https://www.bing.com/th?id=OHR.ChicagoTiffany_ZH-CN9860688834_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[红树上的日出在小猪群岛，洪都拉斯 (© Mac Stone/Tandem Stills + Motion)](https://www.bing.com/search?q=%E4%BF%9D%E6%8A%A4%E7%BA%A2%E6%A0%91%E6%9E%97%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F%E5%9B%BD%E9%99%85%E6%97%A5&form=hpcapt&mkt=zh-cn)
+[蒂芙尼穹顶，芝加哥文化中心，伊利诺伊州，美国 (© Felix Lipov/Shutterstock)](https://www.bing.com/search?q=%E8%8A%9D%E5%8A%A0%E5%93%A5%E6%96%87%E5%8C%96%E4%B8%AD%E5%BF%83%E8%92%82%E8%8A%99%E5%B0%BC%E7%A9%B9%E9%A1%B6&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.ChicagoTiffany_ZH-CN9860688834_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-07 月壁纸 (26 张)
+## 2026-07 月壁纸 (27 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="海陆际会，生机肇始" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-07-26</strong> <a href="https://www.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>海陆际会，生机肇始</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="加境幽廊" style="width: 100%; border-radius: 8px;">
