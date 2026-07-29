@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**虎啸归来，锐爪重临** (2026-07-29)
+**旷野无声，活态传承之境** (2026-07-30)
 
-![虎啸归来，锐爪重临](https://www.bing.com/th?id=OHR.TigerFamily_ZH-CN9064744163_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![旷野无声，活态传承之境](https://www.bing.com/th?id=OHR.NavajoNation_ZH-CN9274387505_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[孟加拉虎一家在兰坦博尔国家公园，拉贾斯坦邦，印度 (© Archna Singh/Shutterstock)](https://www.bing.com/search?q=%E5%85%A8%E7%90%83%E8%80%81%E8%99%8E%E6%97%A5&form=hpcapt&mkt=zh-cn)
+[在纳瓦霍族保留地的纪念碑谷，亚利桑那州，美国 (© Westend61/Adobe Stock)](https://www.bing.com/search?q=%E7%BA%AA%E5%BF%B5%E7%A2%91%E8%B0%B7&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.TigerFamily_ZH-CN9064744163_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.NavajoNation_ZH-CN9274387505_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-07 月壁纸 (29 张)
+## 2026-07 月壁纸 (30 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.TigerFamily_ZH-CN9064744163_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="虎啸归来，锐爪重临" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-07-29</strong> <a href="https://www.bing.com/th?id=OHR.TigerFamily_ZH-CN9064744163_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>虎啸归来，锐爪重临</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.ChannelKelp_ZH-CN8732903732_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="生机律动，恒久之衡" style="width: 100%; border-radius: 8px;">
