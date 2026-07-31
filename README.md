@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**穿越时光的足迹** (2026-07-31)
+**基拉韦厄火山的威力** (2026-08-01)
 
-![穿越时光的足迹](https://www.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![基拉韦厄火山的威力](https://www.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国 (© Eifel Kreutz/Getty Images)](https://www.bing.com/search?q=%E5%BC%97%E5%90%89%E5%B0%BC%E4%BA%9A%E7%88%AC%E5%B1%B1%E8%99%8E%E6%AD%A5%E9%81%93&form=hpcapt&mkt=zh-cn)
+[大批熔岩流涌入大洋，大岛，夏威夷州，美国 (© Ken McCurdy/Getty Images)](https://www.bing.com/search?q=%E5%A4%8F%E5%A8%81%E5%A4%B7%E7%81%AB%E5%B1%B1%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
 ## 2026-07 月壁纸 (31 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="穿越时光的足迹" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-07-31</strong> <a href="https://www.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>穿越时光的足迹</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.NavajoNation_ZH-CN9274387505_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="旷野无声，活态传承之境" style="width: 100%; border-radius: 8px;">
@@ -198,7 +204,7 @@
 
 ## 历史归档
 
-[2026-07](./archives/2026-07.html) · [2026-06](./archives/2026-06.html) · [2026-05](./archives/2026-05.html) · [2026-04](./archives/2026-04.html) · [2026-03](./archives/2026-03.html) · [2026-02](./archives/2026-02.html) · [2026-01](./archives/2026-01.html) · [2025-12](./archives/2025-12.html) · [2025-11](./archives/2025-11.html) · [2025-10](./archives/2025-10.html) · [2025-09](./archives/2025-09.html) · [2025-08](./archives/2025-08.html) · [2025-07](./archives/2025-07.html) · [2025-02](./archives/2025-02.html)
+[2026-08](./archives/2026-08.html) · [2026-07](./archives/2026-07.html) · [2026-06](./archives/2026-06.html) · [2026-05](./archives/2026-05.html) · [2026-04](./archives/2026-04.html) · [2026-03](./archives/2026-03.html) · [2026-02](./archives/2026-02.html) · [2026-01](./archives/2026-01.html) · [2025-12](./archives/2025-12.html) · [2025-11](./archives/2025-11.html) · [2025-10](./archives/2025-10.html) · [2025-09](./archives/2025-09.html) · [2025-08](./archives/2025-08.html) · [2025-07](./archives/2025-07.html) · [2025-02](./archives/2025-02.html)
 
 ## 关于
 
