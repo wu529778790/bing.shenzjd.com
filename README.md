@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**迈向无限** (2026-08-08)
+**身份认同的建筑表达** (2026-08-09)
 
-![迈向无限](https://www.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![身份认同的建筑表达](https://www.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[蒂斯河畔斯托克顿无限桥，英格兰 (© Bahadir Yeniceri/Shutterstock)](https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E6%97%A0%E9%99%90%E6%97%A5&form=hpcapt&mkt=zh-cn)
+[让-马里·吉巴乌文化中心，新喀里多尼亚 (© Fabien Astre/Alamy)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E5%9C%9F%E8%91%97%E4%BA%BA%E6%B0%91%E5%9B%BD%E9%99%85%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-08 月壁纸 (8 张)
+## 2026-08 月壁纸 (9 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="迈向无限" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-08-08</strong> <a href="https://www.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>迈向无限</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.LimeKiln_ZH-CN5664152522_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="指引船只穿越历史" style="width: 100%; border-radius: 8px;">
