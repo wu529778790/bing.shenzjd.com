@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**身份认同的建筑表达** (2026-08-09)
+**两片沙漠交汇之地** (2026-08-10)
 
-![身份认同的建筑表达](https://www.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![两片沙漠交汇之地](https://www.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[让-马里·吉巴乌文化中心，新喀里多尼亚 (© Fabien Astre/Alamy)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E5%9C%9F%E8%91%97%E4%BA%BA%E6%B0%91%E5%9B%BD%E9%99%85%E6%97%A5&form=hpcapt&mkt=zh-cn)
+[约书亚树国家公园，加利福尼亚州，美国 (© JJ Landscapes/Getty Images)](https://www.bing.com/search?q=%E7%BA%A6%E4%B9%A6%E4%BA%9A%E6%A0%91%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-08 月壁纸 (9 张)
+## 2026-08 月壁纸 (10 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="身份认同的建筑表达" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-08-09</strong> <a href="https://www.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>身份认同的建筑表达</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="迈向无限" style="width: 100%; border-radius: 8px;">
