@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**绚丽多彩的哥本哈根** (2026-08-11)
+**值得守护的巨兽** (2026-08-12)
 
-![绚丽多彩的哥本哈根](https://www.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![值得守护的巨兽](https://www.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦 (© emicristea/Getty Images)](https://www.bing.com/search?q=%E5%93%A5%E6%9C%AC%E5%93%88%E6%A0%B9%E6%96%B0%E6%B8%AF%E8%BF%90%E6%B2%B3&form=hpcapt&mkt=zh-cn)
+[安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E5%A4%A7%E8%B1%A1%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-08 月壁纸 (11 张)
+## 2026-08 月壁纸 (12 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="绚丽多彩的哥本哈根" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-08-11</strong> <a href="https://www.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>绚丽多彩的哥本哈根</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="两片沙漠交汇之地" style="width: 100%; border-radius: 8px;">
