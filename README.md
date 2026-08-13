@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**许个愿吧** (2026-08-13)
+**为动物脚掌而建，而非行人** (2026-08-14)
 
-![许个愿吧](https://www.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![为动物脚掌而建，而非行人](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[泰德天文台上空的英仙座流星，加那利群岛，西班牙 (© Westend61/Getty Images)](https://www.bing.com/search?q=%E8%8B%B1%E4%BB%99%E5%BA%A7%E6%B5%81%E6%98%9F%E9%9B%A8&form=hpcapt&mkt=zh-cn)
+[扎克舒夫附近的野生动物通道，波兰 (© bbsferrari/Getty Images)](https://www.bing.com/search?q=%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E9%80%9A%E9%81%93&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-08 月壁纸 (13 张)
+## 2026-08 月壁纸 (14 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="许个愿吧" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-08-13</strong> <a href="https://www.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>许个愿吧</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="值得守护的巨兽" style="width: 100%; border-radius: 8px;">
