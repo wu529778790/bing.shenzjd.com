@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**绝妙的平衡术** (2026-08-15)
+**天鹅开启传奇之处** (2026-08-16)
 
-![绝妙的平衡术](https://www.bing.com/th?id=OHR.ValleyDreams_ZH-CN9689713135_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![天鹅开启传奇之处](https://www.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[圣胡安县阿什斯利帕荒野地的奇岩柱，新墨西哥州，美国 (© Westend61/Getty Images)](https://www.bing.com/search?q=%E9%98%BF%E4%BB%80%E6%96%AF%E5%88%A9%E5%B8%95%E8%8D%92%E9%87%8E%E5%9C%B0&form=hpcapt&mkt=zh-cn)
+[戈尔韦郡罗斯埃里利方济各会修道院遗址，康诺特省，爱尔兰 (© Maria Janus/Shutterstock)](https://www.bing.com/search?q=%E7%88%B1%E5%B0%94%E5%85%B0%E7%BD%97%E6%96%AF%C2%B7%E5%9F%83%E9%87%8C%E5%88%A9%E4%BF%AE%E9%81%93%E9%99%A2&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.ValleyDreams_ZH-CN9689713135_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-08 月壁纸 (15 张)
+## 2026-08 月壁纸 (16 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.ValleyDreams_ZH-CN9689713135_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="绝妙的平衡术" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-08-15</strong> <a href="https://www.bing.com/th?id=OHR.ValleyDreams_ZH-CN9689713135_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>绝妙的平衡术</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_ZH-CN9439167246_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="为动物脚掌而建，而非行人" style="width: 100%; border-radius: 8px;">
