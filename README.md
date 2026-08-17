@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**珊瑚礁上的黄金地段** (2026-08-17)
+**星形城市的几何之美** (2026-08-18)
 
-![珊瑚礁上的黄金地段](https://www.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![星形城市的几何之美](https://www.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾 (© Franco Banfi/Nature Picture Library)](https://www.bing.com/search?q=%E7%9C%BC%E6%96%91%E5%8F%8C%E9%94%AF%E9%B1%BC&form=hpcapt&mkt=zh-cn)
+[弗留利要塞城市帕尔马诺瓦航拍图，意大利 (© Riccardo Saponi/Getty Images)](https://www.bing.com/search?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B8%95%E5%B0%94%E9%A9%AC%E8%AF%BA%E7%93%A6&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-08 月壁纸 (17 张)
+## 2026-08 月壁纸 (18 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="珊瑚礁上的黄金地段" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-08-17</strong> <a href="https://www.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>珊瑚礁上的黄金地段</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="天鹅开启传奇之处" style="width: 100%; border-radius: 8px;">
