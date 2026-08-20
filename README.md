@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**鲸群之声** (2026-08-20)
+**攀登在召唤** (2026-08-21)
 
-![鲸群之声](https://www.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![攀登在召唤](https://www.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国 (© John Hyde/Alamy)](https://www.bing.com/search?q=%E8%99%8E%E9%B2%B8&form=hpcapt&mkt=zh-cn)
+[尤利尔山口蜿蜒的公路，瑞士 (© Westend61/Getty Images)](https://www.bing.com/search?q=%E7%91%9E%E5%A3%AB%E5%B0%A4%E5%88%A9%E5%B0%94%E5%B1%B1%E5%8F%A3&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-08 月壁纸 (20 张)
+## 2026-08 月壁纸 (21 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="鲸群之声" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-08-20</strong> <a href="https://www.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>鲸群之声</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="浪潮间的通道" style="width: 100%; border-radius: 8px;">
