@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**攀登在召唤** (2026-08-21)
+**天蓝色的翅膀** (2026-08-22)
 
-![攀登在召唤](https://www.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![天蓝色的翅膀](https://www.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[尤利尔山口蜿蜒的公路，瑞士 (© Westend61/Getty Images)](https://www.bing.com/search?q=%E7%91%9E%E5%A3%AB%E5%B0%A4%E5%88%A9%E5%B0%94%E5%B1%B1%E5%8F%A3&form=hpcapt&mkt=zh-cn)
+[普通蓝灰蝶，德文郡，英格兰 (© Ross Hoddinott/Nature Picture Library)](https://www.bing.com/search?q=%E6%99%AE%E9%80%9A%E8%93%9D%E7%81%B0%E8%9D%B6&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-08 月壁纸 (21 张)
+## 2026-08 月壁纸 (22 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="攀登在召唤" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-08-21</strong> <a href="https://www.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>攀登在召唤</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="鲸群之声" style="width: 100%; border-radius: 8px;">
