@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**跨越历史** (2026-08-24)
+**守护美国瑰宝** (2026-08-25)
 
-![跨越历史](https://www.bing.com/th?id=OHR.BKBridge_ZH-CN3870511222_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![守护美国瑰宝](https://www.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[布鲁克林大桥，纽约市，美国 (© shayes17/Getty Images)](https://www.bing.com/search?q=%E5%B8%83%E9%B2%81%E5%85%8B%E6%9E%97%E5%A4%A7%E6%A1%A5&form=hpcapt&mkt=zh-cn)
+[红木国家与州立公园的日出，加利福尼亚州，美国 (© HadelProductions/Getty Images)](https://www.bing.com/search?q=%E7%BA%A2%E6%9D%89%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%E4%B8%8E%E5%B7%9E%E7%AB%8B%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.BKBridge_ZH-CN3870511222_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-08 月壁纸 (24 张)
+## 2026-08 月壁纸 (25 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.BKBridge_ZH-CN3870511222_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="跨越历史" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-08-24</strong> <a href="https://www.bing.com/th?id=OHR.BKBridge_ZH-CN3870511222_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>跨越历史</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.EndofHeatY26_ZH-CN8936468848_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="暑气渐消，金秋已至" style="width: 100%; border-radius: 8px;">
