@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**流光溢彩的天空** (2026-08-26)
+**湖水、野生动物与奇景** (2026-08-27)
 
-![流光溢彩的天空](https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![湖水、野生动物与奇景](https://www.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[基尔丘山上空的极光，冰岛 (© Cavan Images/Alamy)](https://www.bing.com/search?q=%E5%8C%97%E6%9E%81%E5%85%89&form=hpcapt&mkt=zh-cn)
+[日出时的小红鹳群，马加迪湖，肯尼亚 (© Denis-Huot/Nature Picture Library)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B9%96%E6%B3%8A%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-08 月壁纸 (26 张)
+## 2026-08 月壁纸 (27 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="流光溢彩的天空" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-08-26</strong> <a href="https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>流光溢彩的天空</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="守护美国瑰宝" style="width: 100%; border-radius: 8px;">
