@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**一部守护荒野的法案** (2026-09-03)
+**地平线上的红与白** (2026-09-04)
 
-![一部守护荒野的法案](https://www.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![地平线上的红与白](https://www.bing.com/th?id=OHR.Westerheversand_ZH-CN0517707643_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[郊狼丘，朱红悬崖国家纪念区，亚利桑那州，美国 (© James Hager/Getty Images)](https://www.bing.com/search?q=%E6%9C%B1%E7%BA%A2%E6%82%AC%E5%B4%96%E5%9B%BD%E5%AE%B6%E7%BA%AA%E5%BF%B5%E5%8C%BA&form=hpcapt&mkt=zh-cn)
+[韦斯特黑弗的韦斯特黑弗桑德灯塔，石勒苏益格-荷尔斯泰因州，德国 (© bluejayphoto/Getty Images)](https://www.bing.com/search?q=%E9%9F%A6%E6%96%AF%E7%89%B9%E9%BB%91%E5%BC%97%E6%A1%91%E5%BE%B7%E7%81%AF%E5%A1%94&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.Westerheversand_ZH-CN0517707643_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-09 月壁纸 (3 张)
+## 2026-09 月壁纸 (4 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="一部守护荒野的法案" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-09-03</strong> <a href="https://www.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>一部守护荒野的法案</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="海岸边的缤纷色彩" style="width: 100%; border-radius: 8px;">
