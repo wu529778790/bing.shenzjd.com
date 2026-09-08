@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**金色田野** (2026-09-08)
+**印度西海岸的生活** (2026-09-09)
 
-![金色田野](https://www.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![印度西海岸的生活](https://www.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[东米恩南唐斯国家公园谷物田中的山毛榉树，汉普郡，英格兰 (© Guy Edwardes/Minden Pictures)](https://www.bing.com/search?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%B1%89%E6%99%AE%E9%83%A1&form=hpcapt&mkt=zh-cn)
+[安科拉附近的加比特凯尼海滩，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)](https://www.bing.com/search?q=%E5%8D%B0%E5%BA%A6%E5%8D%A1%E7%BA%B3%E5%A1%94%E5%85%8B%E9%82%A6%E5%AE%89%E7%A7%91%E6%8B%89&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-09 月壁纸 (8 张)
+## 2026-09 月壁纸 (9 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="金色田野" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-09-08</strong> <a href="https://www.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>金色田野</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.BambergTownhall_ZH-CN1407954732_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="历史沿运河流淌之地" style="width: 100%; border-radius: 8px;">
