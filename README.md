@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**俯瞰大地拼图** (2026-09-10)
+**地中海风情尽显** (2026-09-11)
 
-![俯瞰大地拼图](https://www.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![地中海风情尽显](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[奥尔韦拉航拍图，安达卢西亚，西班牙 (© Marco Bottigelli/Getty Images)](https://www.bing.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%AE%89%E8%BE%BE%E5%8D%A2%E8%A5%BF%E4%BA%9A%E5%A4%A7%E5%8C%BA%E5%A5%A5%E5%B0%94%E9%9F%A6%E6%8B%89&form=hpcapt&mkt=zh-cn)
+[滨海自由城，法国里维埃拉，法国 (© StockByM/Getty Images)](https://www.bing.com/search?q=%E6%BB%A8%E6%B5%B7%E8%87%AA%E7%94%B1%E5%9F%8E&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-09 月壁纸 (10 张)
+## 2026-09 月壁纸 (11 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="俯瞰大地拼图" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-09-10</strong> <a href="https://www.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>俯瞰大地拼图</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="印度西海岸的生活" style="width: 100%; border-radius: 8px;">
