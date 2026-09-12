@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**海浪与海岸的高手** (2026-09-12)
+**高处的珊瑚礁** (2026-09-13)
 
-![海浪与海岸的高手](https://www.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![高处的珊瑚礁](https://www.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[墨西哥近海围猎沙丁鱼饵球的加州海狮，太平洋 (© Henley Spiers/Nature Picture Library)](https://www.bing.com/search?q=%E5%8A%A0%E5%B7%9E%E6%B5%B7%E7%8B%AE&form=hpcapt&mkt=zh-cn)
+[米苏里纳群峰，多洛米蒂山脉，威尼托大区，意大利 (© Vithun Khamsong/Getty Images)](https://www.bing.com/search?q=%E5%A4%9A%E6%B4%9B%E7%B1%B3%E8%92%82%E5%B1%B1%E8%84%89%E7%B1%B3%E8%8B%8F%E9%87%8C%E7%BA%B3%E7%BE%A4%E5%B3%B0&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-09 月壁纸 (12 张)
+## 2026-09 月壁纸 (13 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="海浪与海岸的高手" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-09-12</strong> <a href="https://www.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>海浪与海岸的高手</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="地中海风情尽显" style="width: 100%; border-radius: 8px;">
