@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**坚韧在此扎根** (2026-09-14)
+**最炫者生存** (2026-09-15)
 
-![坚韧在此扎根](https://www.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![最炫者生存](https://www.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[地肤田，中国 (© lingqi xie/Getty Images)](https://www.bing.com/search?q=%E5%9C%B0%E8%82%A4&form=hpcapt&mkt=zh-cn)
+[红绿金刚鹦鹉 (© markes51/Getty Images)](https://www.bing.com/search?q=%E7%BA%A2%E7%BB%BF%E9%87%91%E5%88%9A%E9%B9%A6%E9%B9%89&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-09 月壁纸 (14 张)
+## 2026-09 月壁纸 (15 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="坚韧在此扎根" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-09-14</strong> <a href="https://www.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>坚韧在此扎根</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="高处的珊瑚礁" style="width: 100%; border-radius: 8px;">
