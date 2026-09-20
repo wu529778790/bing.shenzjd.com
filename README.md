@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**终获巴黎青睐的铁塔** (2026-09-20)
+**皮毛与海洋之间的生命** (2026-09-21)
 
-![终获巴黎青睐的铁塔](https://www.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![皮毛与海洋之间的生命](https://www.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[日落时分的埃菲尔铁塔，巴黎，法国 (© Alexander Spatari/Getty Images)](https://www.bing.com/search?q=%E5%B7%B4%E9%BB%8E&form=hpcapt&mkt=zh-cn)
+[正在梳理皮毛的海獭，蒙特雷湾，加利福尼亚州，美国 (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/search?q=%E6%B5%B7%E7%8D%AD%E8%AE%A4%E7%9F%A5%E5%91%A8&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-09 月壁纸 (20 张)
+## 2026-09 月壁纸 (21 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="终获巴黎青睐的铁塔" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-09-20</strong> <a href="https://www.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>终获巴黎青睐的铁塔</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.AlphornBavaria_ZH-CN5896237112_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="慕尼黑啤酒节的阿尔卑斯之声" style="width: 100%; border-radius: 8px;">
