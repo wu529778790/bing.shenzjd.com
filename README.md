@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**金色时节** (2026-09-22)
+**金秋平分，地坛染黄** (2026-09-23)
 
-![金色时节](https://www.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![金秋平分，地坛染黄](https://www.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[瓜兹曼山口附近的秋日山杨林，犹他州，美国 (© Danita Delimont/Shutterstock)](https://www.bing.com/search?q=%E7%93%9C%E5%85%B9%E6%9B%BC%E5%B1%B1%E5%8F%A3%E9%99%84%E8%BF%91%E7%9A%84%E7%A7%8B%E6%97%A5%E5%B1%B1%E6%9D%A8%E6%9E%97&form=hpcapt&mkt=zh-cn)
+[地坛公园秋日美景，北京，中国 (© by Wei/Adobestock)](https://www.bing.com/search?q=%E7%A7%8B%E5%88%86&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-09 月壁纸 (22 张)
+## 2026-09 月壁纸 (23 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="金色时节" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-09-22</strong> <a href="https://www.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>金色时节</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="皮毛与海洋之间的生命" style="width: 100%; border-radius: 8px;">
