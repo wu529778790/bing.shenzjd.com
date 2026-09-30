@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**一张令人过目难忘的脸** (2026-09-30)
+**在花岗岩中读懂时间** (2026-10-01)
 
-![一张令人过目难忘的脸](https://www.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![在花岗岩中读懂时间](https://www.bing.com/th?id=OHR.OlmstedPoint_ZH-CN4182671075_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[雄性文须雀，诺福克郡，英格兰 (© Andrew Sproule/Shutterstock)](https://www.bing.com/search?q=%E6%96%87%E9%A1%BB%E9%9B%80&form=hpcapt&mkt=zh-cn)
+[奥姆斯特德观景点的日落，优胜美地国家公园，加利福尼亚州，美国 (© Robb Hirsch/Tandem Stills + Motion)](https://www.bing.com/search?q=%E4%BC%98%E8%83%9C%E7%BE%8E%E5%9C%B0%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.OlmstedPoint_ZH-CN4182671075_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
 ## 2026-09 月壁纸 (30 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="一张令人过目难忘的脸" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-09-30</strong> <a href="https://www.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>一张令人过目难忘的脸</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.KasilofRiver_ZH-CN2394091052_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="冰川孕育之河" style="width: 100%; border-radius: 8px;">
@@ -192,7 +198,7 @@
 
 ## 历史归档
 
-[2026-09](./archives/2026-09.html) · [2026-08](./archives/2026-08.html) · [2026-07](./archives/2026-07.html) · [2026-06](./archives/2026-06.html) · [2026-05](./archives/2026-05.html) · [2026-04](./archives/2026-04.html) · [2026-03](./archives/2026-03.html) · [2026-02](./archives/2026-02.html) · [2026-01](./archives/2026-01.html) · [2025-12](./archives/2025-12.html) · [2025-11](./archives/2025-11.html) · [2025-10](./archives/2025-10.html) · [2025-09](./archives/2025-09.html) · [2025-08](./archives/2025-08.html) · [2025-07](./archives/2025-07.html) · [2025-02](./archives/2025-02.html)
+[2026-10](./archives/2026-10.html) · [2026-09](./archives/2026-09.html) · [2026-08](./archives/2026-08.html) · [2026-07](./archives/2026-07.html) · [2026-06](./archives/2026-06.html) · [2026-05](./archives/2026-05.html) · [2026-04](./archives/2026-04.html) · [2026-03](./archives/2026-03.html) · [2026-02](./archives/2026-02.html) · [2026-01](./archives/2026-01.html) · [2025-12](./archives/2025-12.html) · [2025-11](./archives/2025-11.html) · [2025-10](./archives/2025-10.html) · [2025-09](./archives/2025-09.html) · [2025-08](./archives/2025-08.html) · [2025-07](./archives/2025-07.html) · [2025-02](./archives/2025-02.html)
 
 ## 关于
 
