@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**一条值得保护的河流** (2026-10-02)
+**捕捉、进食、重复** (2026-10-03)
 
-![一条值得保护的河流](https://www.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![捕捉、进食、重复](https://www.bing.com/th?id=OHR.GrizzlySwim_ZH-CN1005455737_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[查图加河，阿巴拉契亚山脉，北卡罗来纳州，美国 (© mtilghma/Getty Images)](https://www.bing.com/search?q=%E7%BE%8E%E5%9B%BD%E9%98%BF%E5%B7%B4%E6%8B%89%E5%A5%91%E4%BA%9A%E5%B1%B1%E8%84%89&form=hpcapt&mkt=zh-cn)
+[美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊 (© Danny Green/Nature Picture Library)](https://www.bing.com/search?q=%E6%A3%95%E7%86%8A&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.GrizzlySwim_ZH-CN1005455737_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-10 月壁纸 (2 张)
+## 2026-10 月壁纸 (3 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="一条值得保护的河流" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-10-02</strong> <a href="https://www.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>一条值得保护的河流</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.OlmstedPoint_ZH-CN4182671075_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="在花岗岩中读懂时间" style="width: 100%; border-radius: 8px;">
