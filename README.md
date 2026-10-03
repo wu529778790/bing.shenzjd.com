@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**捕捉、进食、重复** (2026-10-03)
+**宇宙在召唤** (2026-10-04)
 
-![捕捉、进食、重复](https://www.bing.com/th?id=OHR.GrizzlySwim_ZH-CN1005455737_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![宇宙在召唤](https://www.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊 (© Danny Green/Nature Picture Library)](https://www.bing.com/search?q=%E6%A3%95%E7%86%8A&form=hpcapt&mkt=zh-cn)
+[阿尔忒弥斯1号月球火箭，39B发射台，肯尼迪航天中心，佛罗里达州，2022年6月15日 (© EVA MARIE UZCATEGUI/Getty Images)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E7%A9%BA%E9%97%B4%E5%91%A8&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.GrizzlySwim_ZH-CN1005455737_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-10 月壁纸 (3 张)
+## 2026-10 月壁纸 (4 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.GrizzlySwim_ZH-CN1005455737_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="捕捉、进食、重复" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-10-03</strong> <a href="https://www.bing.com/th?id=OHR.GrizzlySwim_ZH-CN1005455737_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>捕捉、进食、重复</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="一条值得保护的河流" style="width: 100%; border-radius: 8px;">
