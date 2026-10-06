@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**条纹中的地球故事** (2026-10-06)
+**迷惑不解？沿着小径走** (2026-10-07)
 
-![条纹中的地球故事](https://www.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![迷惑不解？沿着小径走](https://www.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[丹霞地貌，张掖国家地质公园，甘肃省，中国 (© Weiquan Lin/Getty Images)](https://www.bing.com/search?q=%E5%9B%BD%E9%99%85%E5%9C%B0%E8%B4%A8%E5%A4%9A%E6%A0%B7%E6%80%A7%E6%97%A5&form=hpcapt&mkt=zh-cn)
+[覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰 (© Fulcanelli_AOS/Getty Images)](https://www.bing.com/search?q=%E8%8B%B1%E5%9B%BD%E6%A0%BC%E6%B4%9B%E6%96%AF%E7%89%B9%E9%83%A1%E8%B0%9C%E6%9E%97&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-10 月壁纸 (6 张)
+## 2026-10 月壁纸 (7 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="条纹中的地球故事" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-10-06</strong> <a href="https://www.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>条纹中的地球故事</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="纵身一跃，一次一课" style="width: 100%; border-radius: 8px;">
