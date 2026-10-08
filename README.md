@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**现在你“海”能看见我……** (2026-10-08)
+**科西嘉岛的岩石前哨** (2026-10-09)
 
-![现在你“海”能看见我……](https://www.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![科西嘉岛的岩石前哨](https://www.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[印度洋马约特岛，一只呈防御姿态的章鱼 (© Gabriel Barathieu/Minden Pictures)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E7%AB%A0%E9%B1%BC%E6%97%A5&form=hpcapt&mkt=zh-cn)
+[桑吉奈尔群岛景观，摄自科西嘉岛，法国 (© Francesco Riccardo Iacomino/Getty Images)](https://www.bing.com/search?q=%E7%A7%91%E8%A5%BF%E5%98%89%E5%B2%9B%E6%A1%91%E5%90%89%E5%A5%88%E5%B0%94%E7%BE%A4%E5%B2%9B&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-10 月壁纸 (8 张)
+## 2026-10 月壁纸 (9 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="现在你“海”能看见我……" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-10-08</strong> <a href="https://www.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>现在你“海”能看见我……</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="迷惑不解？沿着小径走" style="width: 100%; border-radius: 8px;">
