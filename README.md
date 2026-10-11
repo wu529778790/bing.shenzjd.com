@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**秋色中转动的水轮** (2026-10-11)
+**从铁轨到潮汐** (2026-10-12)
 
-![秋色中转动的水轮](https://www.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![从铁轨到潮汐](https://www.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国 (© dszc/Getty Images)](https://www.bing.com/search?q=%E5%B7%B4%E5%B8%83%E7%A7%91%E5%85%8B%E5%B7%9E%E7%AB%8B%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+[曼布尔斯码头，斯旺西，威尔士 (© Helen Hotson/Shutterstock)](https://www.bing.com/search?q=%E5%A8%81%E5%B0%94%E5%A3%AB%E6%9B%BC%E5%B8%83%E5%B0%94%E6%96%AF%E7%A0%81%E5%A4%B4&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-10 月壁纸 (11 张)
+## 2026-10 月壁纸 (12 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="秋色中转动的水轮" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-10-11</strong> <a href="https://www.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>秋色中转动的水轮</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="迁飞路线上的生命" style="width: 100%; border-radius: 8px;">
