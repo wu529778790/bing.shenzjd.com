@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**从铁轨到潮汐** (2026-10-12)
+**蓝与绿的交响曲** (2026-10-13)
 
-![从铁轨到潮汐](https://www.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![蓝与绿的交响曲](https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[曼布尔斯码头，斯旺西，威尔士 (© Helen Hotson/Shutterstock)](https://www.bing.com/search?q=%E5%A8%81%E5%B0%94%E5%A3%AB%E6%9B%BC%E5%B8%83%E5%B0%94%E6%96%AF%E7%A0%81%E5%A4%B4&form=hpcapt&mkt=zh-cn)
+[普利特维采湖群国家公园，克罗地亚 (© Jan Wlodarczyk/Alamy)](https://www.bing.com/search?q=%E6%99%AE%E5%88%A9%E7%89%B9%E7%BB%B4%E9%87%87%E6%B9%96%E7%BE%A4%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-10 月壁纸 (12 张)
+## 2026-10 月壁纸 (13 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="从铁轨到潮汐" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-10-12</strong> <a href="https://www.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>从铁轨到潮汐</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="秋色中转动的水轮" style="width: 100%; border-radius: 8px;">
