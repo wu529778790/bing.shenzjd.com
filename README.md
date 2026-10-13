@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**蓝与绿的交响曲** (2026-10-13)
+**穿越时间的螺旋** (2026-10-14)
 
-![蓝与绿的交响曲](https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![穿越时间的螺旋](https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[普利特维采湖群国家公园，克罗地亚 (© Jan Wlodarczyk/Alamy)](https://www.bing.com/search?q=%E6%99%AE%E5%88%A9%E7%89%B9%E7%BB%B4%E9%87%87%E6%B9%96%E7%BE%A4%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+[侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)](https://www.bing.com/search?q=%E5%9B%BD%E5%AE%B6%E5%8C%96%E7%9F%B3%E6%97%A5&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-10 月壁纸 (13 张)
+## 2026-10 月壁纸 (14 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="蓝与绿的交响曲" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-10-13</strong> <a href="https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>蓝与绿的交响曲</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="从铁轨到潮汐" style="width: 100%; border-radius: 8px;">
