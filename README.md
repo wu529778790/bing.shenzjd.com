@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**穿越时间的螺旋** (2026-10-14)
+**桥梁、屋顶与暮色** (2026-10-15)
 
-![穿越时间的螺旋](https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![桥梁、屋顶与暮色](https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)](https://www.bing.com/search?q=%E5%9B%BD%E5%AE%B6%E5%8C%96%E7%9F%B3%E6%97%A5&form=hpcapt&mkt=zh-cn)
+[弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰 (© Piotr Mitelski/Shutterstock)](https://www.bing.com/search?q=%E5%BC%97%E7%BD%97%E8%8C%A8%E7%93%A6%E5%A4%AB&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-10 月壁纸 (14 张)
+## 2026-10 月壁纸 (15 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="穿越时间的螺旋" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-10-14</strong> <a href="https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>穿越时间的螺旋</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="蓝与绿的交响曲" style="width: 100%; border-radius: 8px;">
