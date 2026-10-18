@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**75载，风华正茂** (2026-10-18)
+**水上通衢** (2026-10-19)
 
-![75载，风华正茂](https://www.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![水上通衢](https://www.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士 (© joe daniel price/Getty Images)](https://www.bing.com/search?q=%E5%A8%81%E5%B0%94%E5%A3%AB%E6%96%AF%E8%AF%BA%E7%99%BB%E5%B0%BC%E4%BA%9A%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
+[大运河，威尼斯，意大利 (© Juan Romero/Cavan Images)](https://www.bing.com/search?q=%E5%A8%81%E5%B0%BC%E6%96%AF%E5%A4%A7%E8%BF%90%E6%B2%B3&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-10 月壁纸 (18 张)
+## 2026-10 月壁纸 (19 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="75载，风华正茂" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-10-18</strong> <a href="https://www.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>75载，风华正茂</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="发掘尘封的过去" style="width: 100%; border-radius: 8px;">
