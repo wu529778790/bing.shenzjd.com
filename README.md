@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**大自然的金色明镜** (2026-10-27)
+**历史守望之地** (2026-10-28)
 
-![大自然的金色明镜](https://www.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![历史守望之地](https://www.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[秋叶缤纷的池杉林，乔治亚州，美国 (© Chris Moore/Getty Images)](https://www.bing.com/search?q=%E6%B1%A0%E6%9D%89&form=hpcapt&mkt=zh-cn)
+[库涅季采山城堡，波希米亚，捷克 (© Marek Saroch/Alamy)](https://www.bing.com/search?q=%E5%BA%93%E6%B6%85%E5%AD%A3%E9%87%87%E5%B1%B1%E5%9F%8E%E5%A0%A1&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-10 月壁纸 (27 张)
+## 2026-10 月壁纸 (28 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="大自然的金色明镜" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-10-27</strong> <a href="https://www.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>大自然的金色明镜</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="大自然的秋日乐章" style="width: 100%; border-radius: 8px;">
