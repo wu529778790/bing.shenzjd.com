@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**历史守望之地** (2026-10-28)
+**薄雾邂逅千年时光** (2026-10-29)
 
-![历史守望之地](https://www.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![薄雾邂逅千年时光](https://www.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[库涅季采山城堡，波希米亚，捷克 (© Marek Saroch/Alamy)](https://www.bing.com/search?q=%E5%BA%93%E6%B6%85%E5%AD%A3%E9%87%87%E5%B1%B1%E5%9F%8E%E5%A0%A1&form=hpcapt&mkt=zh-cn)
+[立石，埃夫伯里，威尔特郡，英格兰 (© George W Johnson/Getty Images)](https://www.bing.com/search?q=%E5%A8%81%E5%B0%94%E7%89%B9%E9%83%A1%E5%9F%83%E5%A4%AB%E4%BC%AF%E9%87%8C%E7%8E%AF%E5%BD%A2%E9%81%97%E5%9D%80&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-10 月壁纸 (28 张)
+## 2026-10 月壁纸 (29 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="历史守望之地" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-10-28</strong> <a href="https://www.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>历史守望之地</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="大自然的金色明镜" style="width: 100%; border-radius: 8px;">
