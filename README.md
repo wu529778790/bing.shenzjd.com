@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**薄雾邂逅千年时光** (2026-10-29)
+**展翅高飞的时节** (2026-10-30)
 
-![薄雾邂逅千年时光](https://www.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![展翅高飞的时节](https://www.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[立石，埃夫伯里，威尔特郡，英格兰 (© George W Johnson/Getty Images)](https://www.bing.com/search?q=%E5%A8%81%E5%B0%94%E7%89%B9%E9%83%A1%E5%9F%83%E5%A4%AB%E4%BC%AF%E9%87%8C%E7%8E%AF%E5%BD%A2%E9%81%97%E5%9D%80&form=hpcapt&mkt=zh-cn)
+[沙丘鹤，博斯克德尔阿帕奇国家野生动物保护区，新墨西哥州，美国 (© Terry St.Louis/Getty Images)](https://www.bing.com/search?q=%E6%B2%99%E4%B8%98%E9%B9%A4&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-10 月壁纸 (29 张)
+## 2026-10 月壁纸 (30 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="薄雾邂逅千年时光" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-10-29</strong> <a href="https://www.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>薄雾邂逅千年时光</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="历史守望之地" style="width: 100%; border-radius: 8px;">
