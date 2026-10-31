@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**往昔帝国的幽影** (2026-10-31)
+**林间迷雾** (2026-11-01)
 
-![往昔帝国的幽影](https://www.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![林间迷雾](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[圣巴尔多禄茂教堂，法兰克福，德国 (© AlxeyPnferov/Getty Images)](https://www.bing.com/search?q=%E4%B8%87%E5%9C%A3%E8%8A%82&form=hpcapt&mkt=zh-cn)
+[黑森林，巴登-符腾堡州，德国 (© Britus/Getty Images)](https://www.bing.com/search?q=%E5%BE%B7%E5%9B%BD%E9%BB%91%E6%A3%AE%E6%9E%97&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
 ## 2026-10 月壁纸 (31 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="往昔帝国的幽影" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-10-31</strong> <a href="https://www.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>往昔帝国的幽影</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="展翅高飞的时节" style="width: 100%; border-radius: 8px;">
@@ -198,7 +204,7 @@
 
 ## 历史归档
 
-[2026-10](./archives/2026-10.html) · [2026-09](./archives/2026-09.html) · [2026-08](./archives/2026-08.html) · [2026-07](./archives/2026-07.html) · [2026-06](./archives/2026-06.html) · [2026-05](./archives/2026-05.html) · [2026-04](./archives/2026-04.html) · [2026-03](./archives/2026-03.html) · [2026-02](./archives/2026-02.html) · [2026-01](./archives/2026-01.html) · [2025-12](./archives/2025-12.html) · [2025-11](./archives/2025-11.html) · [2025-10](./archives/2025-10.html) · [2025-09](./archives/2025-09.html) · [2025-08](./archives/2025-08.html) · [2025-07](./archives/2025-07.html) · [2025-02](./archives/2025-02.html)
+[2026-11](./archives/2026-11.html) · [2026-10](./archives/2026-10.html) · [2026-09](./archives/2026-09.html) · [2026-08](./archives/2026-08.html) · [2026-07](./archives/2026-07.html) · [2026-06](./archives/2026-06.html) · [2026-05](./archives/2026-05.html) · [2026-04](./archives/2026-04.html) · [2026-03](./archives/2026-03.html) · [2026-02](./archives/2026-02.html) · [2026-01](./archives/2026-01.html) · [2025-12](./archives/2025-12.html) · [2025-11](./archives/2025-11.html) · [2025-10](./archives/2025-10.html) · [2025-09](./archives/2025-09.html) · [2025-08](./archives/2025-08.html) · [2025-07](./archives/2025-07.html) · [2025-02](./archives/2025-02.html)
 
 ## 关于
 
