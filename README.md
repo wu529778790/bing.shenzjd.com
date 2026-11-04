@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**泛舟如画秋林** (2026-11-04)
+**向山巅再迈一步** (2026-11-05)
 
-![泛舟如画秋林](https://www.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![向山巅再迈一步](https://www.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[五彩落羽杉间划船的人们，宣城，安徽省，中国 (© Jackal Pan/Getty Images)](https://www.bing.com/search?q=%E8%90%BD%E7%BE%BD%E6%9D%89&form=hpcapt&mkt=zh-cn)
+[石墙边的木制翻越梯，黑岩，湖区，英格兰 (© Alex Treadway/Getty Images)](https://www.bing.com/search?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%B9%96%E5%8C%BA&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-11 月壁纸 (4 张)
+## 2026-11 月壁纸 (5 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="泛舟如画秋林" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-11-04</strong> <a href="https://www.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>泛舟如画秋林</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="群峰间的宁静" style="width: 100%; border-radius: 8px;">
