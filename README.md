@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**向山巅再迈一步** (2026-11-05)
+**穿越毛伊岛的绿色隧道** (2026-11-06)
 
-![向山巅再迈一步](https://www.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![穿越毛伊岛的绿色隧道](https://www.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[石墙边的木制翻越梯，黑岩，湖区，英格兰 (© Alex Treadway/Getty Images)](https://www.bing.com/search?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%B9%96%E5%8C%BA&form=hpcapt&mkt=zh-cn)
+[竹林，皮皮维小径，哈莱亚卡拉国家公园，毛伊岛，夏威夷州，美国 (© MNStudio/Getty Images)](https://www.bing.com/search?q=%E5%93%88%E8%8E%B1%E4%BA%9A%E5%8D%A1%E6%8B%89%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-11 月壁纸 (5 张)
+## 2026-11 月壁纸 (6 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="向山巅再迈一步" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-11-05</strong> <a href="https://www.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>向山巅再迈一步</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="泛舟如画秋林" style="width: 100%; border-radius: 8px;">
