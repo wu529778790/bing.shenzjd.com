@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**光芒四射的节日** (2026-11-08)
+**艺术与韵律交汇之地** (2026-11-09)
 
-![光芒四射的节日](https://www.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![艺术与韵律交汇之地](https://www.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[排灯节灯笼，孟买，马哈拉施特拉邦，印度 (© Dinodia Photo/Getty Images)](https://www.bing.com/search?q=%E6%8E%92%E7%81%AF%E8%8A%82&form=hpcapt&mkt=zh-cn)
+[特里亚纳历史街区，塞维利亚，西班牙 (© Andrzej Rostek/Getty Images)](https://www.bing.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A1%9E%E7%BB%B4%E5%88%A9%E4%BA%9A&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-11 月壁纸 (8 张)
+## 2026-11 月壁纸 (9 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="光芒四射的节日" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-11-08</strong> <a href="https://www.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>光芒四射的节日</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="归来的草原巨兽" style="width: 100%; border-radius: 8px;">
