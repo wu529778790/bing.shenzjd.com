@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**惬意放松，尽享海岛时光** (2026-11-10)
+**奇妙纷呈的森林** (2026-11-11)
 
-![惬意放松，尽享海岛时光](https://www.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![奇妙纷呈的森林](https://www.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[玫瑰岛航拍图，巴哈马 (© Abstract Aerial Art/Getty Images)](https://www.bing.com/search?q=%E5%B7%B4%E5%93%88%E9%A9%AC%E7%8E%AB%E7%91%B0%E5%B2%9B&form=hpcapt&mkt=zh-cn)
+[大西洋森林，巴西 (© FG Trade/Getty Images)](https://www.bing.com/search?q=%E5%B7%B4%E8%A5%BF%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%A3%AE%E6%9E%97&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-11 月壁纸 (10 张)
+## 2026-11 月壁纸 (11 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="惬意放松，尽享海岛时光" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-11-10</strong> <a href="https://www.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>惬意放松，尽享海岛时光</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="艺术与韵律交汇之地" style="width: 100%; border-radius: 8px;">
