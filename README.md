@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**冰下秘境** (2026-11-13)
+**唯有向上发展** (2026-11-14)
 
-![冰下秘境](https://www.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![唯有向上发展](https://www.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[亚伯拉罕湖，艾伯塔省，加拿大 (© Guang Cao/Getty Images)](https://www.bing.com/search?q=%E8%89%BE%E4%BC%AF%E5%A1%94%E7%9C%81%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%E6%B9%96&form=hpcapt&mkt=zh-cn)
+[中国香港维多利亚港 (© Juan Romero/Cavan Images)](https://www.bing.com/search?q=%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E6%B8%AF&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-11 月壁纸 (13 张)
+## 2026-11 月壁纸 (14 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="冰下秘境" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-11-13</strong> <a href="https://www.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>冰下秘境</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="没有建筑师的建筑杰作" style="width: 100%; border-radius: 8px;">
