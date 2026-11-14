@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**唯有向上发展** (2026-11-14)
+**霜染枝叶** (2026-11-15)
 
-![唯有向上发展](https://www.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![霜染枝叶](https://www.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[中国香港维多利亚港 (© Juan Romero/Cavan Images)](https://www.bing.com/search?q=%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E6%B8%AF&form=hpcapt&mkt=zh-cn)
+[覆霜的红叶杜鹃 (© avoferten/Shutterstock)](https://www.bing.com/search?q=%E6%9D%9C%E9%B9%83%E8%8A%B1&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-11 月壁纸 (14 张)
+## 2026-11 月壁纸 (15 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="唯有向上发展" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-11-14</strong> <a href="https://www.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>唯有向上发展</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="冰下秘境" style="width: 100%; border-radius: 8px;">
