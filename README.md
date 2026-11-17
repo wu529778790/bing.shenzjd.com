@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**走进广阔的大自然** (2026-11-17)
+**从黄昏狩猎到黎明** (2026-11-18)
 
-![走进广阔的大自然](https://www.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![从黄昏狩猎到黎明](https://www.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[雪松林步道，冰川国家公园，蒙大拿州，美国 (© DBushue Photography/Getty Images)](https://www.bing.com/search?q=%E5%86%B0%E5%B7%9D%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%E7%9A%84%E9%9B%AA%E6%9D%BE%E6%9E%97%E6%AD%A5%E9%81%93&form=hpcapt&mkt=zh-cn)
+[一对仓鸮 (© Zahoor Salmi/Getty Images)](https://www.bing.com/search?q=%E4%BB%93%E9%B8%AE&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-11 月壁纸 (17 张)
+## 2026-11 月壁纸 (18 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="走进广阔的大自然" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-11-17</strong> <a href="https://www.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>走进广阔的大自然</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="历经岁月，屹立不倒" style="width: 100%; border-radius: 8px;">
