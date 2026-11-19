@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**思想在此成形** (2026-11-19)
+**在峡湾中大快朵颐** (2026-11-20)
 
-![思想在此成形](https://www.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![在峡湾中大快朵颐](https://www.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[雕塑《知识之躯》，由豪梅·普兰萨创作，位于德国法兰克福的法兰克福歌德大学 (© Todamo/Shutterstock)](https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E5%93%B2%E5%AD%A6%E6%97%A5&form=hpcapt&mkt=zh-cn)
+[正在潜水的座头鲸，挪威北部特罗姆斯的克瓦尔岛 (© Espen Bergersen/Minden Pictures)](https://www.bing.com/search?q=%E5%BA%A7%E5%A4%B4%E9%B2%B8&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-11 月壁纸 (19 张)
+## 2026-11 月壁纸 (20 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="思想在此成形" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-11-19</strong> <a href="https://www.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>思想在此成形</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="从黄昏狩猎到黎明" style="width: 100%; border-radius: 8px;">
