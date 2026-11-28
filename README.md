@@ -2,17 +2,23 @@
 
 ## 今日壁纸
 
-**灰金交织的峡谷** (2026-11-27)
+**跨越时光的桥梁** (2026-11-28)
 
-![灰金交织的峡谷](https://www.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
+![跨越时光的桥梁](https://www.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
-[夕阳下的孤峰，鲍威尔湖脸峡谷，犹他州，美国 (© Jeff Foott/Minden)](https://www.bing.com/search?q=%E9%B2%8D%E5%A8%81%E5%B0%94%E6%B9%96&form=hpcapt&mkt=zh-cn)
+[捷克布拉格老城区与伏尔塔瓦河 (© Lara_Uhryn/Getty Images)](https://www.bing.com/search?q=%E5%B8%83%E6%8B%89%E6%A0%BC%E7%9A%84%E6%A1%A5%E6%A2%81&form=hpcapt&mkt=zh-cn)
 
-🔗 <a href="https://www.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
+🔗 <a href="https://www.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K 高清版本</a>
 
-## 2026-11 月壁纸 (27 张)
+## 2026-11 月壁纸 (28 张)
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
+
+<div style="text-align: center;">
+<img src="https://www.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="灰金交织的峡谷" style="width: 100%; border-radius: 8px;">
+<p><strong>2026-11-27</strong> <a href="https://www.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_UHD.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" target="_blank">下载 4K</a></p>
+<p>灰金交织的峡谷</p>
+</div>
 
 <div style="text-align: center;">
 <img src="https://www.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp" alt="彩虹落下的地方" style="width: 100%; border-radius: 8px;">
